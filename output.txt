@@ -1,4543 +1,539 @@
-Final Position: 6, Count: 0
-Final Position: 32, Count: 0
-Final Position: 94, Count: 1
-Final Position: 38, Count: 2
-Final Position: 41, Count: 2
-Final Position: 42, Count: 2
-Final Position: 91, Count: 2
-Final Position: 5, Count: 3
-Final Position: 23, Count: 3
-Final Position: 14, Count: 3
-Final Position: 79, Count: 4
-Final Position: 45, Count: 4
-Final Position: 34, Count: 4
-Final Position: 46, Count: 4
-Final Position: 3, Count: 4
-Final Position: 39, Count: 4
-Final Position: 29, Count: 4
-Final Position: 79, Count: 5
-Final Position: 33, Count: 5
-Final Position: 80, Count: 5
-Final Position: 26, Count: 6
-Final Position: 82, Count: 7
-Final Position: 46, Count: 7
-Final Position: 9, Count: 7
-Final Position: 1, Count: 7
-Final Position: 52, Count: 8
-Final Position: 32, Count: 8
-Final Position: 38, Count: 8
-Final Position: 18, Count: 8
-Final Position: 4, Count: 8
-Final Position: 34, Count: 8
-Final Position: 1, Count: 8
-Final Position: 49, Count: 8
-Final Position: 36, Count: 8
-Final Position: 25, Count: 8
-Final Position: 73, Count: 8
-Final Position: 45, Count: 8
-Final Position: 67, Count: 8
-Final Position: 52, Count: 8
-Final Position: 50, Count: 8
-Final Position: 0, Count: 9
-Final Position: 58, Count: 10
-Final Position: 48, Count: 10
-Final Position: 34, Count: 10
-Final Position: 49, Count: 10
-Final Position: 81, Count: 10
-Final Position: 68, Count: 10
-Final Position: 80, Count: 10
-Final Position: 26, Count: 11
-Final Position: 78, Count: 11
-Final Position: 71, Count: 11
-Final Position: 37, Count: 11
-Final Position: 10, Count: 11
-Final Position: 0, Count: 12
-Final Position: 96, Count: 12
-Final Position: 0, Count: 13
-Final Position: 3, Count: 14
-Final Position: 0, Count: 15
-Final Position: 48, Count: 15
-Final Position: 29, Count: 16
-Final Position: 36, Count: 17
-Final Position: 14, Count: 18
-Final Position: 89, Count: 19
-Final Position: 0, Count: 20
-Final Position: 56, Count: 21
-Final Position: 0, Count: 22
-Final Position: 25, Count: 23
-Final Position: 43, Count: 24
-Final Position: 58, Count: 24
-Final Position: 0, Count: 25
-Final Position: 26, Count: 25
-Final Position: 83, Count: 26
-Final Position: 1, Count: 27
-Final Position: 30, Count: 27
-Final Position: 0, Count: 28
-Final Position: 36, Count: 28
-Final Position: 30, Count: 28
-Final Position: 16, Count: 29
-Final Position: 0, Count: 30
-Final Position: 43, Count: 31
-Final Position: 0, Count: 32
-Final Position: 43, Count: 33
-Final Position: 0, Count: 34
-Final Position: 10, Count: 34
-Final Position: 91, Count: 35
-Final Position: 36, Count: 36
-Final Position: 69, Count: 36
-Final Position: 89, Count: 37
-Final Position: 0, Count: 38
-Final Position: 27, Count: 38
-Final Position: 0, Count: 39
-Final Position: 23, Count: 39
-Final Position: 66, Count: 39
-Final Position: 87, Count: 39
-Final Position: 35, Count: 40
-Final Position: 28, Count: 41
-Final Position: 98, Count: 42
-Final Position: 0, Count: 43
-Final Position: 37, Count: 43
-Final Position: 26, Count: 43
-Final Position: 0, Count: 44
-Final Position: 22, Count: 44
-Final Position: 0, Count: 49
-Final Position: 90, Count: 50
-Final Position: 48, Count: 50
-Final Position: 45, Count: 51
-Final Position: 0, Count: 52
-Final Position: 52, Count: 53
-Final Position: 58, Count: 53
-Final Position: 75, Count: 53
-Final Position: 0, Count: 54
-Final Position: 58, Count: 55
-Final Position: 3, Count: 55
-Final Position: 82, Count: 55
-Final Position: 9, Count: 56
-Final Position: 27, Count: 57
-Final Position: 15, Count: 58
-Final Position: 98, Count: 66
-Final Position: 58, Count: 74
-Final Position: 73, Count: 79
-Final Position: 26, Count: 80
-Final Position: 35, Count: 81
-Final Position: 49, Count: 82
-Final Position: 39, Count: 83
-Final Position: 19, Count: 83
-Final Position: 0, Count: 84
-Final Position: 78, Count: 85
-Final Position: 70, Count: 85
-Final Position: 0, Count: 86
-Final Position: 65, Count: 88
-Final Position: 10, Count: 89
-Final Position: 0, Count: 99
-Final Position: 29, Count: 100
-Final Position: 51, Count: 101
-Final Position: 32, Count: 102
-Final Position: 3, Count: 109
-Final Position: 0, Count: 110
-Final Position: 92, Count: 111
-Final Position: 95, Count: 113
-Final Position: 83, Count: 114
-Final Position: 0, Count: 115
-Final Position: 35, Count: 116
-Final Position: 61, Count: 117
-Final Position: 94, Count: 117
-Final Position: 52, Count: 118
-Final Position: 0, Count: 120
-Final Position: 39, Count: 120
-Final Position: 0, Count: 128
-Final Position: 59, Count: 128
-Final Position: 14, Count: 128
-Final Position: 0, Count: 129
-Final Position: 47, Count: 129
-Final Position: 45, Count: 130
-Final Position: 86, Count: 130
-Final Position: 72, Count: 131
-Final Position: 0, Count: 141
-Final Position: 66, Count: 141
-Final Position: 0, Count: 149
-Final Position: 19, Count: 150
-Final Position: 0, Count: 151
-Final Position: 70, Count: 152
-Final Position: 34, Count: 153
-Final Position: 67, Count: 161
-Final Position: 37, Count: 164
-Final Position: 27, Count: 164
-Final Position: 0, Count: 165
-Final Position: 57, Count: 165
-Final Position: 82, Count: 166
-Final Position: 0, Count: 167
-Final Position: 30, Count: 167
-Final Position: 0, Count: 168
-Final Position: 71, Count: 169
-Final Position: 13, Count: 169
-Final Position: 0, Count: 173
-Final Position: 92, Count: 174
-Final Position: 0, Count: 179
-Final Position: 23, Count: 180
-Final Position: 0, Count: 181
-Final Position: 90, Count: 181
-Final Position: 21, Count: 181
-Final Position: 0, Count: 182
-Final Position: 75, Count: 182
-Final Position: 12, Count: 182
-Final Position: 11, Count: 188
-Final Position: 35, Count: 189
-Final Position: 0, Count: 190
-Final Position: 62, Count: 191
-Final Position: 0, Count: 192
-Final Position: 92, Count: 192
-Final Position: 0, Count: 193
-Final Position: 51, Count: 194
-Final Position: 1, Count: 197
-Final Position: 0, Count: 198
-Final Position: 49, Count: 199
-Final Position: 26, Count: 206
-Final Position: 31, Count: 207
-Final Position: 0, Count: 208
-Final Position: 37, Count: 209
-Final Position: 9, Count: 209
-Final Position: 0, Count: 210
-Final Position: 28, Count: 211
-Final Position: 56, Count: 211
-Final Position: 62, Count: 212
-Final Position: 0, Count: 213
-Final Position: 6, Count: 213
-Final Position: 76, Count: 213
-Final Position: 61, Count: 213
-Final Position: 0, Count: 214
-Final Position: 10, Count: 215
-Final Position: 0, Count: 216
-Final Position: 55, Count: 224
-Final Position: 53, Count: 228
-Final Position: 63, Count: 228
-Final Position: 0, Count: 229
-Final Position: 21, Count: 229
-Final Position: 14, Count: 230
-Final Position: 0, Count: 231
-Final Position: 90, Count: 232
-Final Position: 0, Count: 233
-Final Position: 79, Count: 238
-Final Position: 0, Count: 239
-Final Position: 23, Count: 240
-Final Position: 40, Count: 241
-Final Position: 44, Count: 241
-Final Position: 0, Count: 244
-Final Position: 80, Count: 244
-Final Position: 73, Count: 245
-Final Position: 58, Count: 249
-Final Position: 11, Count: 259
-Final Position: 37, Count: 260
-Final Position: 47, Count: 260
-Final Position: 2, Count: 260
-Final Position: 6, Count: 260
-Final Position: 12, Count: 261
-Final Position: 19, Count: 262
-Final Position: 27, Count: 272
-Final Position: 73, Count: 272
-Final Position: 77, Count: 272
-Final Position: 0, Count: 273
-Final Position: 59, Count: 276
-Final Position: 53, Count: 278
-Final Position: 35, Count: 278
-Final Position: 10, Count: 278
-Final Position: 0, Count: 279
-Final Position: 42, Count: 284
-Final Position: 10, Count: 285
-Final Position: 82, Count: 286
-Final Position: 58, Count: 286
-Final Position: 82, Count: 286
-Final Position: 0, Count: 287
-Final Position: 65, Count: 288
-Final Position: 0, Count: 298
-Final Position: 44, Count: 298
-Final Position: 0, Count: 299
-Final Position: 76, Count: 299
-Final Position: 47, Count: 308
-Final Position: 0, Count: 314
-Final Position: 1, Count: 314
-Final Position: 19, Count: 315
-Final Position: 0, Count: 316
-Final Position: 54, Count: 317
-Final Position: 19, Count: 317
-Final Position: 4, Count: 318
-Final Position: 79, Count: 319
-Final Position: 0, Count: 320
-Final Position: 25, Count: 321
-Final Position: 80, Count: 321
-Final Position: 27, Count: 322
-Final Position: 5, Count: 331
-Final Position: 46, Count: 332
-Final Position: 0, Count: 335
-Final Position: 26, Count: 336
-Final Position: 53, Count: 336
-Final Position: 92, Count: 339
-Final Position: 0, Count: 340
-Final Position: 58, Count: 347
-Final Position: 85, Count: 348
-Final Position: 0, Count: 349
-Final Position: 34, Count: 350
-Final Position: 85, Count: 356
-Final Position: 93, Count: 357
-Final Position: 92, Count: 357
-Final Position: 25, Count: 366
-Final Position: 8, Count: 370
-Final Position: 87, Count: 380
-Final Position: 56, Count: 381
-Final Position: 2, Count: 381
-Final Position: 0, Count: 382
-Final Position: 73, Count: 382
-Final Position: 92, Count: 384
-Final Position: 80, Count: 385
-Final Position: 0, Count: 386
-Final Position: 98, Count: 387
-Final Position: 45, Count: 387
-Final Position: 42, Count: 387
-Final Position: 0, Count: 388
-Final Position: 78, Count: 389
-Final Position: 11, Count: 389
-Final Position: 39, Count: 396
-Final Position: 0, Count: 397
-Final Position: 16, Count: 398
-Final Position: 36, Count: 398
-Final Position: 41, Count: 398
-Final Position: 38, Count: 398
-Final Position: 0, Count: 407
-Final Position: 88, Count: 407
-Final Position: 66, Count: 410
-Final Position: 74, Count: 410
-Final Position: 0, Count: 411
-Final Position: 95, Count: 412
-Final Position: 0, Count: 413
-Final Position: 92, Count: 413
-Final Position: 27, Count: 413
-Final Position: 0, Count: 414
-Final Position: 58, Count: 414
-Final Position: 6, Count: 414
-Final Position: 87, Count: 415
-Final Position: 12, Count: 415
-Final Position: 0, Count: 416
-Final Position: 33, Count: 417
-Final Position: 84, Count: 417
-Final Position: 17, Count: 417
-Final Position: 60, Count: 417
-Final Position: 0, Count: 418
-Final Position: 86, Count: 418
-Final Position: 3, Count: 423
-Final Position: 0, Count: 429
-Final Position: 81, Count: 433
-Final Position: 24, Count: 433
-Final Position: 41, Count: 438
-Final Position: 8, Count: 444
-Final Position: 41, Count: 445
-Final Position: 0, Count: 446
-Final Position: 31, Count: 446
-Final Position: 96, Count: 447
-Final Position: 0, Count: 448
-Final Position: 98, Count: 452
-Final Position: 42, Count: 453
-Final Position: 0, Count: 454
-Final Position: 87, Count: 455
-Final Position: 24, Count: 463
-Final Position: 0, Count: 464
-Final Position: 20, Count: 467
-Final Position: 3, Count: 468
-Final Position: 57, Count: 469
-Final Position: 19, Count: 470
-Final Position: 30, Count: 471
-Final Position: 0, Count: 472
-Final Position: 2, Count: 472
-Final Position: 89, Count: 473
-Final Position: 61, Count: 473
-Final Position: 0, Count: 480
-Final Position: 14, Count: 481
-Final Position: 0, Count: 482
-Final Position: 14, Count: 482
-Final Position: 0, Count: 483
-Final Position: 29, Count: 483
-Final Position: 92, Count: 484
-Final Position: 81, Count: 485
-Final Position: 0, Count: 493
-Final Position: 24, Count: 494
-Final Position: 1, Count: 495
-Final Position: 11, Count: 495
-Final Position: 98, Count: 495
-Final Position: 0, Count: 496
-Final Position: 84, Count: 497
-Final Position: 66, Count: 497
-Final Position: 14, Count: 506
-Final Position: 0, Count: 510
-Final Position: 54, Count: 510
-Final Position: 45, Count: 511
-Final Position: 72, Count: 512
-Final Position: 0, Count: 513
-Final Position: 55, Count: 513
-Final Position: 0, Count: 514
-Final Position: 66, Count: 514
-Final Position: 63, Count: 515
-Final Position: 98, Count: 515
-Final Position: 96, Count: 515
-Final Position: 2, Count: 516
-Final Position: 12, Count: 516
-Final Position: 65, Count: 516
-Final Position: 42, Count: 516
-Final Position: 54, Count: 516
-Final Position: 90, Count: 517
-Final Position: 0, Count: 520
-Final Position: 85, Count: 520
-Final Position: 0, Count: 529
-Final Position: 1, Count: 533
-Final Position: 0, Count: 534
-Final Position: 70, Count: 534
-Final Position: 0, Count: 535
-Final Position: 3, Count: 535
-Final Position: 61, Count: 535
-Final Position: 11, Count: 535
-Final Position: 87, Count: 536
-Final Position: 0, Count: 537
-Final Position: 55, Count: 538
-Final Position: 58, Count: 539
-Final Position: 0, Count: 540
-Final Position: 42, Count: 542
-Final Position: 79, Count: 546
-Final Position: 48, Count: 546
-Final Position: 0, Count: 551
-Final Position: 58, Count: 552
-Final Position: 61, Count: 553
-Final Position: 0, Count: 554
-Final Position: 53, Count: 554
-Final Position: 17, Count: 554
-Final Position: 5, Count: 555
-Final Position: 55, Count: 555
-Final Position: 0, Count: 556
-Final Position: 77, Count: 556
-Final Position: 0, Count: 557
-Final Position: 4, Count: 558
-Final Position: 61, Count: 559
-Final Position: 77, Count: 568
-Final Position: 94, Count: 569
-Final Position: 61, Count: 569
-Final Position: 74, Count: 570
-Final Position: 0, Count: 571
-Final Position: 86, Count: 572
-Final Position: 68, Count: 572
-Final Position: 83, Count: 572
-Final Position: 0, Count: 573
-Final Position: 44, Count: 573
-Final Position: 61, Count: 573
-Final Position: 50, Count: 573
-Final Position: 7, Count: 573
-Final Position: 44, Count: 574
-Final Position: 19, Count: 582
-Final Position: 0, Count: 583
-Final Position: 49, Count: 583
-Final Position: 87, Count: 584
-Final Position: 0, Count: 585
-Final Position: 2, Count: 593
-Final Position: 0, Count: 598
-Final Position: 93, Count: 598
-Final Position: 66, Count: 598
-Final Position: 79, Count: 599
-Final Position: 57, Count: 600
-Final Position: 50, Count: 609
-Final Position: 85, Count: 610
-Final Position: 11, Count: 610
-Final Position: 17, Count: 610
-Final Position: 72, Count: 611
-Final Position: 96, Count: 612
-Final Position: 0, Count: 613
-Final Position: 82, Count: 613
-Final Position: 57, Count: 613
-Final Position: 48, Count: 622
-Final Position: 38, Count: 622
-Final Position: 34, Count: 623
-Final Position: 86, Count: 633
-Final Position: 42, Count: 633
-Final Position: 70, Count: 635
-Final Position: 92, Count: 636
-Final Position: 0, Count: 637
-Final Position: 37, Count: 638
-Final Position: 21, Count: 645
-Final Position: 25, Count: 645
-Final Position: 49, Count: 649
-Final Position: 5, Count: 649
-Final Position: 0, Count: 654
-Final Position: 73, Count: 655
-Final Position: 31, Count: 656
-Final Position: 9, Count: 657
-Final Position: 15, Count: 658
-Final Position: 75, Count: 658
-Final Position: 19, Count: 659
-Final Position: 0, Count: 660
-Final Position: 13, Count: 668
-Final Position: 66, Count: 673
-Final Position: 72, Count: 674
-Final Position: 70, Count: 674
-Final Position: 48, Count: 674
-Final Position: 77, Count: 679
-Final Position: 73, Count: 680
-Final Position: 75, Count: 681
-Final Position: 0, Count: 682
-Final Position: 71, Count: 682
-Final Position: 9, Count: 683
-Final Position: 8, Count: 684
-Final Position: 99, Count: 684
-Final Position: 64, Count: 685
-Final Position: 0, Count: 686
-Final Position: 97, Count: 687
-Final Position: 90, Count: 687
-Final Position: 0, Count: 692
-Final Position: 33, Count: 693
-Final Position: 79, Count: 702
-Final Position: 95, Count: 704
-Final Position: 81, Count: 705
-Final Position: 0, Count: 710
-Final Position: 27, Count: 711
-Final Position: 0, Count: 712
-Final Position: 14, Count: 712
-Final Position: 81, Count: 713
-Final Position: 55, Count: 714
-Final Position: 7, Count: 715
-Final Position: 88, Count: 715
-Final Position: 50, Count: 715
-Final Position: 0, Count: 716
-Final Position: 96, Count: 716
-Final Position: 40, Count: 717
-Final Position: 78, Count: 718
-Final Position: 0, Count: 721
-Final Position: 39, Count: 721
-Final Position: 8, Count: 721
-Final Position: 0, Count: 731
-Final Position: 15, Count: 731
-Final Position: 0, Count: 732
-Final Position: 1, Count: 733
-Final Position: 95, Count: 733
-Final Position: 0, Count: 734
-Final Position: 84, Count: 734
-Final Position: 0, Count: 735
-Final Position: 13, Count: 735
-Final Position: 40, Count: 740
-Final Position: 72, Count: 743
-Final Position: 51, Count: 752
-Final Position: 0, Count: 753
-Final Position: 3, Count: 754
-Final Position: 43, Count: 760
-Final Position: 95, Count: 760
-Final Position: 42, Count: 761
-Final Position: 85, Count: 762
-Final Position: 0, Count: 763
-Final Position: 63, Count: 771
-Final Position: 89, Count: 772
-Final Position: 0, Count: 773
-Final Position: 96, Count: 776
-Final Position: 0, Count: 777
-Final Position: 75, Count: 777
-Final Position: 51, Count: 777
-Final Position: 21, Count: 784
-Final Position: 0, Count: 785
-Final Position: 30, Count: 785
-Final Position: 64, Count: 786
-Final Position: 43, Count: 786
-Final Position: 63, Count: 791
-Final Position: 59, Count: 792
-Final Position: 94, Count: 799
-Final Position: 0, Count: 800
-Final Position: 39, Count: 800
-Final Position: 0, Count: 801
-Final Position: 33, Count: 801
-Final Position: 53, Count: 801
-Final Position: 0, Count: 802
-Final Position: 47, Count: 803
-Final Position: 44, Count: 804
-Final Position: 36, Count: 804
-Final Position: 0, Count: 805
-Final Position: 26, Count: 806
-Final Position: 0, Count: 807
-Final Position: 7, Count: 811
-Final Position: 0, Count: 819
-Final Position: 13, Count: 819
-Final Position: 90, Count: 828
-Final Position: 3, Count: 829
-Final Position: 93, Count: 829
-Final Position: 73, Count: 829
-Final Position: 88, Count: 830
-Final Position: 0, Count: 831
-Final Position: 31, Count: 831
-Final Position: 65, Count: 832
-Final Position: 91, Count: 832
-Final Position: 93, Count: 833
-Final Position: 0, Count: 837
-Final Position: 8, Count: 838
-Final Position: 0, Count: 839
-Final Position: 56, Count: 839
-Final Position: 96, Count: 843
-Final Position: 46, Count: 844
-Final Position: 2, Count: 845
-Final Position: 6, Count: 845
-Final Position: 49, Count: 845
-Final Position: 46, Count: 845
-Final Position: 60, Count: 846
-Final Position: 0, Count: 848
-Final Position: 10, Count: 849
-Final Position: 0, Count: 850
-Final Position: 29, Count: 851
-Final Position: 0, Count: 852
-Final Position: 17, Count: 857
-Final Position: 3, Count: 858
-Final Position: 0, Count: 862
-Final Position: 87, Count: 862
-Final Position: 50, Count: 862
-Final Position: 7, Count: 862
-Final Position: 72, Count: 863
-Final Position: 0, Count: 864
-Final Position: 36, Count: 864
-Final Position: 76, Count: 865
-Final Position: 81, Count: 866
-Final Position: 12, Count: 866
-Final Position: 56, Count: 866
-Final Position: 91, Count: 866
-Final Position: 59, Count: 867
-Final Position: 96, Count: 868
-Final Position: 95, Count: 869
-Final Position: 0, Count: 870
-Final Position: 40, Count: 873
-Final Position: 0, Count: 874
-Final Position: 9, Count: 875
-Final Position: 63, Count: 875
-Final Position: 0, Count: 876
-Final Position: 34, Count: 876
-Final Position: 0, Count: 877
-Final Position: 51, Count: 877
-Final Position: 8, Count: 877
-Final Position: 16, Count: 879
-Final Position: 0, Count: 880
-Final Position: 59, Count: 882
-Final Position: 0, Count: 883
-Final Position: 71, Count: 883
-Final Position: 0, Count: 884
-Final Position: 27, Count: 885
-Final Position: 53, Count: 886
-Final Position: 40, Count: 886
-Final Position: 11, Count: 886
-Final Position: 62, Count: 887
-Final Position: 7, Count: 888
-Final Position: 97, Count: 889
-Final Position: 58, Count: 889
-Final Position: 95, Count: 890
-Final Position: 66, Count: 891
-Final Position: 0, Count: 892
-Final Position: 56, Count: 893
-Final Position: 0, Count: 902
-Final Position: 51, Count: 903
-Final Position: 13, Count: 907
-Final Position: 79, Count: 915
-Final Position: 93, Count: 916
-Final Position: 86, Count: 916
-Final Position: 0, Count: 917
-Final Position: 82, Count: 918
-Final Position: 33, Count: 919
-Final Position: 74, Count: 924
-Final Position: 0, Count: 925
-Final Position: 16, Count: 926
-Final Position: 0, Count: 927
-Final Position: 61, Count: 928
-Final Position: 0, Count: 929
-Final Position: 15, Count: 929
-Final Position: 0, Count: 930
-Final Position: 47, Count: 936
-Final Position: 69, Count: 946
-Final Position: 70, Count: 946
-Final Position: 49, Count: 946
-Final Position: 55, Count: 946
-Final Position: 75, Count: 946
-Final Position: 0, Count: 947
-Final Position: 79, Count: 948
-Final Position: 0, Count: 956
-Final Position: 7, Count: 958
-Final Position: 54, Count: 958
-Final Position: 0, Count: 959
-Final Position: 16, Count: 959
-Final Position: 0, Count: 960
-Final Position: 38, Count: 960
-Final Position: 87, Count: 963
-Final Position: 99, Count: 966
-Final Position: 30, Count: 967
-Final Position: 0, Count: 968
-Final Position: 26, Count: 968
-Final Position: 70, Count: 968
-Final Position: 0, Count: 969
-Final Position: 67, Count: 969
-Final Position: 13, Count: 970
-Final Position: 27, Count: 971
-Final Position: 37, Count: 971
-Final Position: 28, Count: 977
-Final Position: 83, Count: 977
-Final Position: 49, Count: 977
-Final Position: 0, Count: 978
-Final Position: 12, Count: 979
-Final Position: 0, Count: 980
-Final Position: 81, Count: 980
-Final Position: 0, Count: 981
-Final Position: 3, Count: 982
-Final Position: 89, Count: 982
-Final Position: 65, Count: 983
-Final Position: 7, Count: 983
-Final Position: 0, Count: 984
-Final Position: 51, Count: 984
-Final Position: 74, Count: 985
-Final Position: 4, Count: 988
-Final Position: 29, Count: 988
-Final Position: 0, Count: 989
-Final Position: 94, Count: 990
-Final Position: 0, Count: 991
-Final Position: 40, Count: 991
-Final Position: 52, Count: 993
-Final Position: 14, Count: 994
-Final Position: 68, Count: 1002
-Final Position: 25, Count: 1003
-Final Position: 0, Count: 1004
-Final Position: 6, Count: 1004
-Final Position: 30, Count: 1005
-Final Position: 23, Count: 1005
-Final Position: 0, Count: 1006
-Final Position: 43, Count: 1014
-Final Position: 9, Count: 1014
-Final Position: 0, Count: 1022
-Final Position: 46, Count: 1022
-Final Position: 34, Count: 1023
-Final Position: 0, Count: 1024
-Final Position: 33, Count: 1030
-Final Position: 46, Count: 1031
-Final Position: 0, Count: 1032
-Final Position: 29, Count: 1032
-Final Position: 96, Count: 1033
-Final Position: 30, Count: 1033
-Final Position: 22, Count: 1034
-Final Position: 25, Count: 1034
-Final Position: 16, Count: 1034
-Final Position: 50, Count: 1034
-Final Position: 12, Count: 1034
-Final Position: 0, Count: 1035
-Final Position: 14, Count: 1035
-Final Position: 44, Count: 1044
-Final Position: 18, Count: 1044
-Final Position: 47, Count: 1044
-Final Position: 13, Count: 1045
-Final Position: 0, Count: 1046
-Final Position: 83, Count: 1046
-Final Position: 3, Count: 1047
-Final Position: 70, Count: 1047
-Final Position: 98, Count: 1056
-Final Position: 24, Count: 1057
-Final Position: 34, Count: 1065
-Final Position: 53, Count: 1066
-Final Position: 0, Count: 1067
-Final Position: 56, Count: 1067
-Final Position: 69, Count: 1067
-Final Position: 63, Count: 1074
-Final Position: 62, Count: 1075
-Final Position: 0, Count: 1076
-Final Position: 58, Count: 1076
-Final Position: 69, Count: 1077
-Final Position: 0, Count: 1085
-Final Position: 31, Count: 1085
-Final Position: 90, Count: 1086
-Final Position: 0, Count: 1087
-Final Position: 92, Count: 1087
-Final Position: 35, Count: 1087
-Final Position: 47, Count: 1087
-Final Position: 12, Count: 1088
-Final Position: 0, Count: 1089
-Final Position: 40, Count: 1090
-Final Position: 0, Count: 1091
-Final Position: 12, Count: 1093
-Final Position: 32, Count: 1093
-Final Position: 9, Count: 1093
-Final Position: 29, Count: 1094
-Final Position: 0, Count: 1095
-Final Position: 77, Count: 1100
-Final Position: 0, Count: 1101
-Final Position: 73, Count: 1101
-Final Position: 16, Count: 1108
-Final Position: 0, Count: 1109
-Final Position: 1, Count: 1109
-Final Position: 31, Count: 1109
-Final Position: 0, Count: 1110
-Final Position: 33, Count: 1111
-Final Position: 82, Count: 1111
-Final Position: 20, Count: 1112
-Final Position: 96, Count: 1113
-Final Position: 79, Count: 1114
-Final Position: 95, Count: 1115
-Final Position: 61, Count: 1116
-Final Position: 0, Count: 1117
-Final Position: 40, Count: 1124
-Final Position: 46, Count: 1130
-Final Position: 12, Count: 1131
-Final Position: 30, Count: 1131
-Final Position: 74, Count: 1132
-Final Position: 0, Count: 1133
-Final Position: 98, Count: 1134
-Final Position: 0, Count: 1135
-Final Position: 81, Count: 1136
-Final Position: 0, Count: 1137
-Final Position: 48, Count: 1138
-Final Position: 59, Count: 1139
-Final Position: 9, Count: 1146
-Final Position: 12, Count: 1146
-Final Position: 20, Count: 1146
-Final Position: 72, Count: 1147
-Final Position: 98, Count: 1148
-Final Position: 66, Count: 1157
-Final Position: 20, Count: 1158
-Final Position: 67, Count: 1158
-Final Position: 68, Count: 1159
-Final Position: 0, Count: 1162
-Final Position: 39, Count: 1162
-Final Position: 0, Count: 1172
-Final Position: 48, Count: 1176
-Final Position: 79, Count: 1176
-Final Position: 0, Count: 1177
-Final Position: 33, Count: 1177
-Final Position: 2, Count: 1178
-Final Position: 19, Count: 1183
-Final Position: 36, Count: 1183
-Final Position: 4, Count: 1184
-Final Position: 31, Count: 1185
-Final Position: 56, Count: 1185
-Final Position: 16, Count: 1185
-Final Position: 0, Count: 1186
-Final Position: 98, Count: 1187
-Final Position: 36, Count: 1187
-Final Position: 69, Count: 1193
-Final Position: 0, Count: 1195
-Final Position: 50, Count: 1195
-Final Position: 0, Count: 1201
-Final Position: 70, Count: 1202
-Final Position: 76, Count: 1203
-Final Position: 0, Count: 1209
-Final Position: 15, Count: 1209
-Final Position: 23, Count: 1209
-Final Position: 0, Count: 1210
-Final Position: 16, Count: 1210
-Final Position: 7, Count: 1211
-Final Position: 63, Count: 1212
-Final Position: 0, Count: 1214
-Final Position: 96, Count: 1222
-Final Position: 31, Count: 1222
-Final Position: 66, Count: 1223
-Final Position: 0, Count: 1224
-Final Position: 32, Count: 1225
-Final Position: 0, Count: 1226
-Final Position: 9, Count: 1227
-Final Position: 0, Count: 1232
-Final Position: 2, Count: 1232
-Final Position: 61, Count: 1232
-Final Position: 0, Count: 1233
-Final Position: 81, Count: 1243
-Final Position: 83, Count: 1244
-Final Position: 76, Count: 1245
-Final Position: 0, Count: 1246
-Final Position: 51, Count: 1246
-Final Position: 57, Count: 1246
-Final Position: 0, Count: 1251
-Final Position: 6, Count: 1252
-Final Position: 72, Count: 1253
-Final Position: 0, Count: 1254
-Final Position: 3, Count: 1254
-Final Position: 22, Count: 1254
-Final Position: 37, Count: 1254
-Final Position: 70, Count: 1263
-Final Position: 67, Count: 1264
-Final Position: 0, Count: 1265
-Final Position: 29, Count: 1265
-Final Position: 37, Count: 1266
-Final Position: 47, Count: 1267
-Final Position: 0, Count: 1268
-Final Position: 6, Count: 1268
-Final Position: 20, Count: 1269
-Final Position: 0, Count: 1276
-Final Position: 77, Count: 1276
-Final Position: 0, Count: 1277
-Final Position: 28, Count: 1278
-Final Position: 99, Count: 1279
-Final Position: 4, Count: 1279
-Final Position: 74, Count: 1280
-Final Position: 20, Count: 1287
-Final Position: 80, Count: 1289
-Final Position: 49, Count: 1290
-Final Position: 0, Count: 1291
-Final Position: 84, Count: 1291
-Final Position: 58, Count: 1294
-Final Position: 0, Count: 1295
-Final Position: 62, Count: 1296
-Final Position: 43, Count: 1297
-Final Position: 0, Count: 1298
-Final Position: 9, Count: 1299
-Final Position: 0, Count: 1300
-Final Position: 71, Count: 1301
-Final Position: 78, Count: 1302
-Final Position: 65, Count: 1303
-Final Position: 60, Count: 1304
-Final Position: 66, Count: 1305
-Final Position: 0, Count: 1306
-Final Position: 69, Count: 1306
-Final Position: 0, Count: 1307
-Final Position: 71, Count: 1308
-Final Position: 24, Count: 1308
-Final Position: 39, Count: 1316
-Final Position: 55, Count: 1316
-Final Position: 17, Count: 1317
-Final Position: 0, Count: 1318
-Final Position: 8, Count: 1319
-Final Position: 45, Count: 1320
-Final Position: 39, Count: 1320
-Final Position: 0, Count: 1321
-Final Position: 20, Count: 1321
-Final Position: 81, Count: 1323
-Final Position: 90, Count: 1331
-Final Position: 36, Count: 1331
-Final Position: 28, Count: 1332
-Final Position: 0, Count: 1333
-Final Position: 56, Count: 1334
-Final Position: 17, Count: 1335
-Final Position: 52, Count: 1336
-Final Position: 0, Count: 1337
-Final Position: 84, Count: 1337
-Final Position: 58, Count: 1342
-Final Position: 0, Count: 1348
-Final Position: 16, Count: 1349
-Final Position: 0, Count: 1350
-Final Position: 64, Count: 1351
-Final Position: 39, Count: 1358
-Final Position: 6, Count: 1364
-Final Position: 0, Count: 1365
-Final Position: 44, Count: 1366
-Final Position: 0, Count: 1367
-Final Position: 78, Count: 1367
-Final Position: 69, Count: 1367
-Final Position: 78, Count: 1367
-Final Position: 0, Count: 1374
-Final Position: 50, Count: 1374
-Final Position: 0, Count: 1375
-Final Position: 11, Count: 1375
-Final Position: 19, Count: 1375
-Final Position: 51, Count: 1376
-Final Position: 90, Count: 1378
-Final Position: 0, Count: 1379
-Final Position: 35, Count: 1379
-Final Position: 0, Count: 1380
-Final Position: 52, Count: 1381
-Final Position: 68, Count: 1381
-Final Position: 81, Count: 1381
-Final Position: 19, Count: 1382
-Final Position: 78, Count: 1383
-Final Position: 0, Count: 1384
-Final Position: 25, Count: 1385
-Final Position: 73, Count: 1392
-Final Position: 87, Count: 1392
-Final Position: 89, Count: 1393
-Final Position: 0, Count: 1401
-Final Position: 61, Count: 1402
-Final Position: 0, Count: 1403
-Final Position: 92, Count: 1405
-Final Position: 0, Count: 1409
-Final Position: 14, Count: 1409
-Final Position: 15, Count: 1411
-Final Position: 95, Count: 1411
-Final Position: 0, Count: 1412
-Final Position: 56, Count: 1413
-Final Position: 93, Count: 1413
-Final Position: 0, Count: 1414
-Final Position: 98, Count: 1414
-Final Position: 25, Count: 1415
-Final Position: 99, Count: 1417
-Final Position: 18, Count: 1417
-Final Position: 0, Count: 1418
-Final Position: 97, Count: 1418
-Final Position: 1, Count: 1419
-Final Position: 0, Count: 1424
-Final Position: 39, Count: 1425
-Final Position: 19, Count: 1426
-Final Position: 24, Count: 1427
-Final Position: 49, Count: 1428
-Final Position: 96, Count: 1428
-Final Position: 13, Count: 1429
-Final Position: 55, Count: 1430
-Final Position: 70, Count: 1430
-Final Position: 98, Count: 1431
-Final Position: 19, Count: 1432
-Final Position: 51, Count: 1433
-Final Position: 0, Count: 1437
-Final Position: 52, Count: 1437
-Final Position: 0, Count: 1438
-Final Position: 73, Count: 1439
-Final Position: 32, Count: 1439
-Final Position: 41, Count: 1439
-Final Position: 0, Count: 1440
-Final Position: 61, Count: 1440
-Final Position: 54, Count: 1440
-Final Position: 0, Count: 1441
-Final Position: 80, Count: 1447
-Final Position: 0, Count: 1448
-Final Position: 66, Count: 1449
-Final Position: 0, Count: 1450
-Final Position: 38, Count: 1451
-Final Position: 28, Count: 1452
-Final Position: 0, Count: 1453
-Final Position: 1, Count: 1453
-Final Position: 28, Count: 1454
-Final Position: 0, Count: 1455
-Final Position: 68, Count: 1461
-Final Position: 0, Count: 1462
-Final Position: 81, Count: 1462
-Final Position: 91, Count: 1467
-Final Position: 0, Count: 1468
-Final Position: 12, Count: 1469
-Final Position: 99, Count: 1469
-Final Position: 37, Count: 1469
-Final Position: 53, Count: 1470
-Final Position: 48, Count: 1470
-Final Position: 37, Count: 1470
-Final Position: 0, Count: 1477
-Final Position: 44, Count: 1477
-Final Position: 29, Count: 1480
-Final Position: 37, Count: 1480
-Final Position: 0, Count: 1481
-Final Position: 58, Count: 1482
-Final Position: 0, Count: 1483
-Final Position: 30, Count: 1484
-Final Position: 0, Count: 1485
-Final Position: 70, Count: 1485
-Final Position: 79, Count: 1486
-Final Position: 16, Count: 1495
-Final Position: 71, Count: 1496
-Final Position: 21, Count: 1496
-Final Position: 0, Count: 1497
-Final Position: 86, Count: 1497
-Final Position: 81, Count: 1497
-Final Position: 44, Count: 1498
-Final Position: 78, Count: 1499
-Final Position: 1, Count: 1509
-Final Position: 13, Count: 1510
-Final Position: 45, Count: 1510
-Final Position: 0, Count: 1511
-Final Position: 1, Count: 1511
-Final Position: 33, Count: 1511
-Final Position: 6, Count: 1511
-Final Position: 0, Count: 1512
-Final Position: 86, Count: 1512
-Final Position: 33, Count: 1519
-Final Position: 27, Count: 1520
-Final Position: 78, Count: 1520
-Final Position: 69, Count: 1520
-Final Position: 67, Count: 1520
-Final Position: 92, Count: 1520
-Final Position: 0, Count: 1521
-Final Position: 76, Count: 1521
-Final Position: 17, Count: 1526
-Final Position: 0, Count: 1527
-Final Position: 47, Count: 1527
-Final Position: 0, Count: 1528
-Final Position: 23, Count: 1528
-Final Position: 36, Count: 1529
-Final Position: 74, Count: 1530
-Final Position: 97, Count: 1531
-Final Position: 38, Count: 1532
-Final Position: 84, Count: 1533
-Final Position: 60, Count: 1534
-Final Position: 25, Count: 1535
-Final Position: 15, Count: 1535
-Final Position: 53, Count: 1535
-Final Position: 62, Count: 1535
-Final Position: 0, Count: 1540
-Final Position: 7, Count: 1541
-Final Position: 51, Count: 1541
-Final Position: 45, Count: 1544
-Final Position: 92, Count: 1545
-Final Position: 11, Count: 1546
-Final Position: 0, Count: 1547
-Final Position: 38, Count: 1547
-Final Position: 53, Count: 1547
-Final Position: 0, Count: 1557
-Final Position: 74, Count: 1557
-Final Position: 61, Count: 1557
-Final Position: 55, Count: 1557
-Final Position: 15, Count: 1565
-Final Position: 0, Count: 1566
-Final Position: 33, Count: 1567
-Final Position: 0, Count: 1568
-Final Position: 94, Count: 1568
-Final Position: 17, Count: 1569
-Final Position: 87, Count: 1570
-Final Position: 0, Count: 1571
-Final Position: 80, Count: 1571
-Final Position: 7, Count: 1572
-Final Position: 5, Count: 1573
-Final Position: 4, Count: 1574
-Final Position: 0, Count: 1575
-Final Position: 67, Count: 1576
-Final Position: 0, Count: 1577
-Final Position: 5, Count: 1578
-Final Position: 37, Count: 1578
-Final Position: 27, Count: 1581
-Final Position: 5, Count: 1581
-Final Position: 0, Count: 1582
-Final Position: 13, Count: 1583
-Final Position: 33, Count: 1584
-Final Position: 0, Count: 1585
-Final Position: 56, Count: 1590
-Final Position: 68, Count: 1591
-Final Position: 70, Count: 1599
-Final Position: 0, Count: 1600
-Final Position: 21, Count: 1601
-Final Position: 85, Count: 1603
-Final Position: 0, Count: 1604
-Final Position: 12, Count: 1604
-Final Position: 17, Count: 1611
-Final Position: 0, Count: 1614
-Final Position: 57, Count: 1615
-Final Position: 0, Count: 1616
-Final Position: 29, Count: 1617
-Final Position: 85, Count: 1617
-Final Position: 0, Count: 1618
-Final Position: 47, Count: 1628
-Final Position: 27, Count: 1629
-Final Position: 7, Count: 1630
-Final Position: 50, Count: 1631
-Final Position: 59, Count: 1632
-Final Position: 61, Count: 1633
-Final Position: 0, Count: 1634
-Final Position: 85, Count: 1635
-Final Position: 0, Count: 1636
-Final Position: 87, Count: 1636
-Final Position: 64, Count: 1637
-Final Position: 77, Count: 1638
-Final Position: 94, Count: 1638
-Final Position: 0, Count: 1639
-Final Position: 56, Count: 1648
-Final Position: 0, Count: 1649
-Final Position: 64, Count: 1649
-Final Position: 74, Count: 1650
-Final Position: 10, Count: 1653
-Final Position: 40, Count: 1653
-Final Position: 36, Count: 1653
-Final Position: 88, Count: 1654
-Final Position: 9, Count: 1655
-Final Position: 88, Count: 1655
-Final Position: 94, Count: 1655
-Final Position: 57, Count: 1655
-Final Position: 16, Count: 1655
-Final Position: 89, Count: 1656
-Final Position: 17, Count: 1657
-Final Position: 53, Count: 1658
-Final Position: 85, Count: 1659
-Final Position: 0, Count: 1660
-Final Position: 94, Count: 1661
-Final Position: 0, Count: 1662
-Final Position: 42, Count: 1662
-Final Position: 53, Count: 1663
-Final Position: 70, Count: 1664
-Final Position: 36, Count: 1664
-Final Position: 0, Count: 1670
-Final Position: 73, Count: 1677
-Final Position: 0, Count: 1678
-Final Position: 31, Count: 1678
-Final Position: 86, Count: 1679
-Final Position: 0, Count: 1680
-Final Position: 24, Count: 1689
-Final Position: 14, Count: 1690
-Final Position: 22, Count: 1691
-Final Position: 0, Count: 1699
-Final Position: 26, Count: 1700
-Final Position: 6, Count: 1701
-Final Position: 18, Count: 1708
-Final Position: 17, Count: 1708
-Final Position: 10, Count: 1714
-Final Position: 9, Count: 1724
-Final Position: 82, Count: 1724
-Final Position: 0, Count: 1733
-Final Position: 52, Count: 1734
-Final Position: 75, Count: 1734
-Final Position: 20, Count: 1734
-Final Position: 70, Count: 1735
-Final Position: 87, Count: 1742
-Final Position: 76, Count: 1743
-Final Position: 29, Count: 1743
-Final Position: 33, Count: 1743
-Final Position: 14, Count: 1744
-Final Position: 0, Count: 1751
-Final Position: 76, Count: 1752
-Final Position: 33, Count: 1752
-Final Position: 78, Count: 1752
-Final Position: 52, Count: 1753
-Final Position: 0, Count: 1758
-Final Position: 93, Count: 1758
-Final Position: 34, Count: 1758
-Final Position: 18, Count: 1758
-Final Position: 0, Count: 1759
-Final Position: 91, Count: 1759
-Final Position: 9, Count: 1760
-Final Position: 87, Count: 1761
-Final Position: 33, Count: 1769
-Final Position: 83, Count: 1769
-Final Position: 0, Count: 1770
-Final Position: 7, Count: 1770
-Final Position: 69, Count: 1771
-Final Position: 93, Count: 1780
-Final Position: 28, Count: 1780
-Final Position: 0, Count: 1789
-Final Position: 78, Count: 1789
-Final Position: 63, Count: 1789
-Final Position: 85, Count: 1789
-Final Position: 36, Count: 1790
-Final Position: 0, Count: 1791
-Final Position: 69, Count: 1791
-Final Position: 52, Count: 1792
-Final Position: 16, Count: 1793
-Final Position: 0, Count: 1799
-Final Position: 90, Count: 1800
-Final Position: 0, Count: 1801
-Final Position: 71, Count: 1802
-Final Position: 0, Count: 1803
-Final Position: 94, Count: 1807
-Final Position: 96, Count: 1808
-Final Position: 0, Count: 1809
-Final Position: 25, Count: 1810
-Final Position: 0, Count: 1811
-Final Position: 16, Count: 1811
-Final Position: 82, Count: 1811
-Final Position: 85, Count: 1812
-Final Position: 0, Count: 1817
-Final Position: 10, Count: 1818
-Final Position: 27, Count: 1818
-Final Position: 0, Count: 1826
-Final Position: 46, Count: 1827
-Final Position: 74, Count: 1828
-Final Position: 0, Count: 1829
-Final Position: 44, Count: 1830
-Final Position: 0, Count: 1831
-Final Position: 8, Count: 1831
-Final Position: 0, Count: 1832
-Final Position: 83, Count: 1832
-Final Position: 30, Count: 1833
-Final Position: 0, Count: 1834
-Final Position: 70, Count: 1835
-Final Position: 29, Count: 1836
-Final Position: 88, Count: 1839
-Final Position: 65, Count: 1847
-Final Position: 49, Count: 1851
-Final Position: 51, Count: 1851
-Final Position: 57, Count: 1857
-Final Position: 26, Count: 1858
-Final Position: 0, Count: 1859
-Final Position: 96, Count: 1860
-Final Position: 39, Count: 1860
-Final Position: 0, Count: 1861
-Final Position: 49, Count: 1862
-Final Position: 59, Count: 1867
-Final Position: 41, Count: 1867
-Final Position: 23, Count: 1876
-Final Position: 85, Count: 1877
-Final Position: 84, Count: 1877
-Final Position: 20, Count: 1878
-Final Position: 73, Count: 1878
-Final Position: 0, Count: 1882
-Final Position: 82, Count: 1883
-Final Position: 0, Count: 1884
-Final Position: 65, Count: 1884
-Final Position: 98, Count: 1884
-Final Position: 79, Count: 1884
-Final Position: 74, Count: 1888
-Final Position: 95, Count: 1889
-Final Position: 0, Count: 1890
-Final Position: 91, Count: 1891
-Final Position: 0, Count: 1892
-Final Position: 94, Count: 1893
-Final Position: 99, Count: 1898
-Final Position: 0, Count: 1899
-Final Position: 43, Count: 1900
-Final Position: 45, Count: 1900
-Final Position: 0, Count: 1901
-Final Position: 96, Count: 1906
-Final Position: 89, Count: 1907
-Final Position: 85, Count: 1907
-Final Position: 9, Count: 1907
-Final Position: 0, Count: 1909
-Final Position: 8, Count: 1909
-Final Position: 2, Count: 1909
-Final Position: 0, Count: 1914
-Final Position: 41, Count: 1915
-Final Position: 92, Count: 1915
-Final Position: 90, Count: 1915
-Final Position: 0, Count: 1916
-Final Position: 13, Count: 1919
-Final Position: 0, Count: 1923
-Final Position: 6, Count: 1924
-Final Position: 0, Count: 1925
-Final Position: 68, Count: 1926
-Final Position: 0, Count: 1927
-Final Position: 73, Count: 1928
-Final Position: 85, Count: 1928
-Final Position: 0, Count: 1929
-Final Position: 40, Count: 1930
-Final Position: 42, Count: 1930
-Final Position: 68, Count: 1931
-Final Position: 6, Count: 1931
-Final Position: 61, Count: 1932
-Final Position: 33, Count: 1933
-Final Position: 50, Count: 1933
-Final Position: 94, Count: 1934
-Final Position: 97, Count: 1935
-Final Position: 33, Count: 1936
-Final Position: 29, Count: 1936
-Final Position: 0, Count: 1937
-Final Position: 8, Count: 1938
-Final Position: 74, Count: 1938
-Final Position: 91, Count: 1939
-Final Position: 35, Count: 1939
-Final Position: 0, Count: 1941
-Final Position: 36, Count: 1949
-Final Position: 76, Count: 1950
-Final Position: 5, Count: 1951
-Final Position: 0, Count: 1956
-Final Position: 29, Count: 1956
-Final Position: 99, Count: 1956
-Final Position: 46, Count: 1966
-Final Position: 0, Count: 1967
-Final Position: 10, Count: 1974
-Final Position: 0, Count: 1975
-Final Position: 39, Count: 1978
-Final Position: 1, Count: 1979
-Final Position: 0, Count: 1980
-Final Position: 52, Count: 1981
-Final Position: 70, Count: 1981
-Final Position: 0, Count: 1982
-Final Position: 56, Count: 1982
-Final Position: 21, Count: 1982
-Final Position: 0, Count: 1983
-Final Position: 46, Count: 1984
-Final Position: 0, Count: 1985
-Final Position: 57, Count: 1985
-Final Position: 43, Count: 1986
-Final Position: 55, Count: 1990
-Final Position: 0, Count: 1991
-Final Position: 82, Count: 1992
-Final Position: 41, Count: 1992
-Final Position: 0, Count: 1995
-Final Position: 85, Count: 1998
-Final Position: 89, Count: 2003
-Final Position: 50, Count: 2004
-Final Position: 28, Count: 2004
-Final Position: 0, Count: 2005
-Final Position: 9, Count: 2011
-Final Position: 21, Count: 2012
-Final Position: 34, Count: 2015
-Final Position: 84, Count: 2016
-Final Position: 80, Count: 2016
-Final Position: 0, Count: 2017
-Final Position: 94, Count: 2021
-Final Position: 99, Count: 2022
-Final Position: 35, Count: 2027
-Final Position: 87, Count: 2027
-Final Position: 0, Count: 2028
-Final Position: 58, Count: 2029
-Final Position: 42, Count: 2030
-Final Position: 0, Count: 2031
-Final Position: 37, Count: 2032
-Final Position: 0, Count: 2033
-Final Position: 83, Count: 2033
-Final Position: 0, Count: 2034
-Final Position: 53, Count: 2035
-Final Position: 58, Count: 2036
-Final Position: 0, Count: 2045
-Final Position: 42, Count: 2046
-Final Position: 73, Count: 2047
-Final Position: 64, Count: 2048
-Final Position: 24, Count: 2051
-Final Position: 0, Count: 2052
-Final Position: 46, Count: 2053
-Final Position: 14, Count: 2053
-Final Position: 13, Count: 2060
-Final Position: 0, Count: 2061
-Final Position: 32, Count: 2061
-Final Position: 0, Count: 2062
-Final Position: 84, Count: 2064
-Final Position: 70, Count: 2065
-Final Position: 39, Count: 2070
-Final Position: 0, Count: 2071
-Final Position: 67, Count: 2071
-Final Position: 55, Count: 2071
-Final Position: 44, Count: 2071
-Final Position: 22, Count: 2072
-Final Position: 0, Count: 2073
-Final Position: 79, Count: 2073
-Final Position: 46, Count: 2074
-Final Position: 40, Count: 2074
-Final Position: 0, Count: 2075
-Final Position: 38, Count: 2075
-Final Position: 44, Count: 2076
-Final Position: 19, Count: 2078
-Final Position: 93, Count: 2078
-Final Position: 68, Count: 2079
-Final Position: 88, Count: 2080
-Final Position: 45, Count: 2080
-Final Position: 0, Count: 2081
-Final Position: 49, Count: 2081
-Final Position: 0, Count: 2082
-Final Position: 51, Count: 2082
-Final Position: 59, Count: 2083
-Final Position: 17, Count: 2084
-Final Position: 37, Count: 2084
-Final Position: 78, Count: 2084
-Final Position: 46, Count: 2091
-Final Position: 20, Count: 2092
-Final Position: 0, Count: 2093
-Final Position: 52, Count: 2094
-Final Position: 14, Count: 2094
-Final Position: 0, Count: 2095
-Final Position: 24, Count: 2096
-Final Position: 33, Count: 2096
-Final Position: 79, Count: 2104
-Final Position: 0, Count: 2110
-Final Position: 52, Count: 2110
-Final Position: 7, Count: 2111
-Final Position: 98, Count: 2111
-Final Position: 4, Count: 2112
-Final Position: 56, Count: 2113
-Final Position: 93, Count: 2115
-Final Position: 0, Count: 2117
-Final Position: 41, Count: 2118
-Final Position: 65, Count: 2126
-Final Position: 32, Count: 2126
-Final Position: 24, Count: 2126
-Final Position: 0, Count: 2133
-Final Position: 50, Count: 2133
-Final Position: 48, Count: 2133
-Final Position: 91, Count: 2134
-Final Position: 87, Count: 2134
-Final Position: 92, Count: 2134
-Final Position: 97, Count: 2134
-Final Position: 0, Count: 2135
-Final Position: 78, Count: 2136
-Final Position: 28, Count: 2136
-Final Position: 0, Count: 2137
-Final Position: 44, Count: 2137
-Final Position: 0, Count: 2139
-Final Position: 7, Count: 2139
-Final Position: 99, Count: 2139
-Final Position: 0, Count: 2140
-Final Position: 2, Count: 2147
-Final Position: 30, Count: 2147
-Final Position: 94, Count: 2147
-Final Position: 32, Count: 2148
-Final Position: 0, Count: 2149
-Final Position: 60, Count: 2149
-Final Position: 83, Count: 2150
-Final Position: 3, Count: 2151
-Final Position: 25, Count: 2151
-Final Position: 45, Count: 2153
-Final Position: 23, Count: 2160
-Final Position: 0, Count: 2161
-Final Position: 66, Count: 2162
-Final Position: 0, Count: 2167
-Final Position: 19, Count: 2167
-Final Position: 21, Count: 2168
-Final Position: 24, Count: 2175
-Final Position: 86, Count: 2175
-Final Position: 78, Count: 2176
-Final Position: 79, Count: 2177
-Final Position: 0, Count: 2178
-Final Position: 56, Count: 2179
-Final Position: 0, Count: 2182
-Final Position: 28, Count: 2183
-Final Position: 91, Count: 2184
-Final Position: 8, Count: 2185
-Final Position: 54, Count: 2186
-Final Position: 0, Count: 2187
-Final Position: 58, Count: 2188
-Final Position: 84, Count: 2188
-Final Position: 93, Count: 2192
-Final Position: 40, Count: 2193
-Final Position: 5, Count: 2194
-Final Position: 73, Count: 2194
-Final Position: 0, Count: 2203
-Final Position: 50, Count: 2204
-Final Position: 60, Count: 2204
-Final Position: 49, Count: 2204
-Final Position: 0, Count: 2206
-Final Position: 45, Count: 2207
-Final Position: 54, Count: 2208
-Final Position: 72, Count: 2216
-Final Position: 18, Count: 2217
-Final Position: 0, Count: 2218
-Final Position: 94, Count: 2219
-Final Position: 70, Count: 2219
-Final Position: 30, Count: 2220
-Final Position: 97, Count: 2221
-Final Position: 71, Count: 2222
-Final Position: 0, Count: 2224
-Final Position: 68, Count: 2226
-Final Position: 89, Count: 2226
-Final Position: 41, Count: 2227
-Final Position: 94, Count: 2228
-Final Position: 0, Count: 2230
-Final Position: 27, Count: 2230
-Final Position: 6, Count: 2238
-Final Position: 52, Count: 2239
-Final Position: 85, Count: 2239
-Final Position: 74, Count: 2246
-Final Position: 61, Count: 2247
-Final Position: 74, Count: 2247
-Final Position: 0, Count: 2248
-Final Position: 30, Count: 2249
-Final Position: 72, Count: 2249
-Final Position: 0, Count: 2253
-Final Position: 25, Count: 2253
-Final Position: 0, Count: 2254
-Final Position: 82, Count: 2255
-Final Position: 52, Count: 2255
-Final Position: 56, Count: 2256
-Final Position: 49, Count: 2257
-Final Position: 0, Count: 2258
-Final Position: 29, Count: 2258
-Final Position: 82, Count: 2258
-Final Position: 0, Count: 2259
-Final Position: 20, Count: 2259
-Final Position: 87, Count: 2259
-Final Position: 0, Count: 2269
-Final Position: 97, Count: 2269
-Final Position: 60, Count: 2269
-Final Position: 0, Count: 2270
-Final Position: 77, Count: 2271
-Final Position: 30, Count: 2277
-Final Position: 44, Count: 2278
-Final Position: 41, Count: 2279
-Final Position: 0, Count: 2288
-Final Position: 7, Count: 2289
-Final Position: 0, Count: 2290
-Final Position: 99, Count: 2296
-Final Position: 0, Count: 2301
-Final Position: 13, Count: 2301
-Final Position: 88, Count: 2302
-Final Position: 0, Count: 2309
-Final Position: 49, Count: 2312
-Final Position: 0, Count: 2313
-Final Position: 67, Count: 2313
-Final Position: 86, Count: 2313
-Final Position: 67, Count: 2314
-Final Position: 85, Count: 2320
-Final Position: 70, Count: 2321
-Final Position: 93, Count: 2321
-Final Position: 0, Count: 2322
-Final Position: 46, Count: 2323
-Final Position: 0, Count: 2324
-Final Position: 76, Count: 2324
-Final Position: 74, Count: 2325
-Final Position: 88, Count: 2325
-Final Position: 62, Count: 2327
-Final Position: 99, Count: 2327
-Final Position: 62, Count: 2328
-Final Position: 0, Count: 2335
-Final Position: 74, Count: 2340
-Final Position: 0, Count: 2341
-Final Position: 11, Count: 2342
-Final Position: 0, Count: 2343
-Final Position: 49, Count: 2344
-Final Position: 65, Count: 2345
-Final Position: 66, Count: 2346
-Final Position: 26, Count: 2347
-Final Position: 70, Count: 2348
-Final Position: 85, Count: 2352
-Final Position: 0, Count: 2353
-Final Position: 91, Count: 2353
-Final Position: 41, Count: 2354
-Final Position: 0, Count: 2355
-Final Position: 29, Count: 2355
-Final Position: 0, Count: 2358
-Final Position: 32, Count: 2358
-Final Position: 0, Count: 2359
-Final Position: 16, Count: 2359
-Final Position: 0, Count: 2360
-Final Position: 72, Count: 2369
-Final Position: 0, Count: 2370
-Final Position: 82, Count: 2370
-Final Position: 0, Count: 2371
-Final Position: 88, Count: 2372
-Final Position: 11, Count: 2377
-Final Position: 0, Count: 2378
-Final Position: 36, Count: 2378
-Final Position: 93, Count: 2379
-Final Position: 44, Count: 2379
-Final Position: 75, Count: 2379
-Final Position: 59, Count: 2379
-Final Position: 0, Count: 2380
-Final Position: 83, Count: 2381
-Final Position: 20, Count: 2382
-Final Position: 22, Count: 2382
-Final Position: 87, Count: 2382
-Final Position: 58, Count: 2382
-Final Position: 0, Count: 2383
-Final Position: 4, Count: 2384
-Final Position: 0, Count: 2394
-Final Position: 29, Count: 2394
-Final Position: 40, Count: 2394
-Final Position: 69, Count: 2395
-Final Position: 29, Count: 2403
-Final Position: 73, Count: 2410
-Final Position: 0, Count: 2411
-Final Position: 60, Count: 2411
-Final Position: 55, Count: 2412
-Final Position: 68, Count: 2413
-Final Position: 44, Count: 2413
-Final Position: 0, Count: 2414
-Final Position: 37, Count: 2414
-Final Position: 0, Count: 2415
-Final Position: 61, Count: 2419
-Final Position: 25, Count: 2420
-Final Position: 53, Count: 2430
-Final Position: 35, Count: 2434
-Final Position: 0, Count: 2435
-Final Position: 60, Count: 2435
-Final Position: 6, Count: 2437
-Final Position: 59, Count: 2439
-Final Position: 57, Count: 2439
-Final Position: 41, Count: 2440
-Final Position: 23, Count: 2440
-Final Position: 86, Count: 2441
-Final Position: 19, Count: 2442
-Final Position: 76, Count: 2442
-Final Position: 10, Count: 2443
-Final Position: 67, Count: 2451
-Final Position: 68, Count: 2451
-Final Position: 15, Count: 2452
-Final Position: 0, Count: 2453
-Final Position: 55, Count: 2454
-Final Position: 0, Count: 2455
-Final Position: 33, Count: 2455
-Final Position: 57, Count: 2455
-Final Position: 0, Count: 2456
-Final Position: 21, Count: 2456
-Final Position: 8, Count: 2465
-Final Position: 0, Count: 2466
-Final Position: 48, Count: 2468
-Final Position: 52, Count: 2468
-Final Position: 0, Count: 2478
-Final Position: 37, Count: 2479
-Final Position: 93, Count: 2479
-Final Position: 16, Count: 2480
-Final Position: 82, Count: 2481
-Final Position: 89, Count: 2482
-Final Position: 0, Count: 2483
-Final Position: 6, Count: 2483
-Final Position: 25, Count: 2483
-Final Position: 27, Count: 2484
-Final Position: 60, Count: 2491
-Final Position: 0, Count: 2492
-Final Position: 91, Count: 2492
-Final Position: 48, Count: 2493
-Final Position: 0, Count: 2494
-Final Position: 46, Count: 2500
-Final Position: 16, Count: 2500
-Final Position: 14, Count: 2500
-Final Position: 43, Count: 2510
-Final Position: 4, Count: 2511
-Final Position: 84, Count: 2518
-Final Position: 63, Count: 2518
-Final Position: 0, Count: 2519
-Final Position: 19, Count: 2520
-Final Position: 24, Count: 2524
-Final Position: 18, Count: 2524
-Final Position: 70, Count: 2525
-Final Position: 84, Count: 2525
-Final Position: 87, Count: 2526
-Final Position: 7, Count: 2527
-Final Position: 0, Count: 2528
-Final Position: 55, Count: 2528
-Final Position: 85, Count: 2534
-Final Position: 15, Count: 2534
-Final Position: 22, Count: 2534
-Final Position: 0, Count: 2535
-Final Position: 65, Count: 2535
-Final Position: 23, Count: 2538
-Final Position: 37, Count: 2548
-Final Position: 31, Count: 2548
-Final Position: 79, Count: 2553
-Final Position: 0, Count: 2554
-Final Position: 8, Count: 2555
-Final Position: 64, Count: 2556
-Final Position: 0, Count: 2557
-Final Position: 35, Count: 2557
-Final Position: 46, Count: 2557
-Final Position: 72, Count: 2557
-Final Position: 52, Count: 2557
-Final Position: 8, Count: 2558
-Final Position: 0, Count: 2561
-Final Position: 90, Count: 2562
-Final Position: 28, Count: 2563
-Final Position: 73, Count: 2563
-Final Position: 0, Count: 2564
-Final Position: 31, Count: 2564
-Final Position: 81, Count: 2564
-Final Position: 30, Count: 2567
-Final Position: 75, Count: 2567
-Final Position: 0, Count: 2568
-Final Position: 77, Count: 2569
-Final Position: 0, Count: 2570
-Final Position: 14, Count: 2575
-Final Position: 0, Count: 2576
-Final Position: 22, Count: 2576
-Final Position: 0, Count: 2577
-Final Position: 29, Count: 2578
-Final Position: 4, Count: 2581
-Final Position: 0, Count: 2591
-Final Position: 45, Count: 2597
-Final Position: 0, Count: 2598
-Final Position: 5, Count: 2599
-Final Position: 65, Count: 2599
-Final Position: 66, Count: 2600
-Final Position: 68, Count: 2600
-Final Position: 0, Count: 2601
-Final Position: 49, Count: 2601
-Final Position: 0, Count: 2602
-Final Position: 38, Count: 2603
-Final Position: 48, Count: 2603
-Final Position: 21, Count: 2603
-Final Position: 14, Count: 2609
-Final Position: 89, Count: 2609
-Final Position: 9, Count: 2609
-Final Position: 0, Count: 2610
-Final Position: 10, Count: 2611
-Final Position: 0, Count: 2619
-Final Position: 27, Count: 2619
-Final Position: 43, Count: 2620
-Final Position: 26, Count: 2621
-Final Position: 85, Count: 2625
-Final Position: 68, Count: 2626
-Final Position: 99, Count: 2628
-Final Position: 40, Count: 2629
-Final Position: 72, Count: 2629
-Final Position: 27, Count: 2629
-Final Position: 9, Count: 2630
-Final Position: 51, Count: 2633
-Final Position: 0, Count: 2641
-Final Position: 93, Count: 2642
-Final Position: 53, Count: 2642
-Final Position: 90, Count: 2647
-Final Position: 0, Count: 2657
-Final Position: 93, Count: 2658
-Final Position: 27, Count: 2659
-Final Position: 55, Count: 2660
-Final Position: 0, Count: 2661
-Final Position: 23, Count: 2661
-Final Position: 0, Count: 2662
-Final Position: 85, Count: 2662
-Final Position: 0, Count: 2667
-Final Position: 26, Count: 2668
-Final Position: 0, Count: 2669
-Final Position: 55, Count: 2670
-Final Position: 14, Count: 2671
-Final Position: 91, Count: 2675
-Final Position: 93, Count: 2676
-Final Position: 0, Count: 2677
-Final Position: 44, Count: 2686
-Final Position: 33, Count: 2686
-Final Position: 56, Count: 2687
-Final Position: 47, Count: 2687
-Final Position: 0, Count: 2688
-Final Position: 28, Count: 2688
-Final Position: 69, Count: 2688
-Final Position: 7, Count: 2688
-Final Position: 4, Count: 2689
-Final Position: 59, Count: 2689
-Final Position: 7, Count: 2689
-Final Position: 99, Count: 2698
-Final Position: 0, Count: 2699
-Final Position: 49, Count: 2708
-Final Position: 0, Count: 2709
-Final Position: 27, Count: 2714
-Final Position: 24, Count: 2715
-Final Position: 0, Count: 2716
-Final Position: 66, Count: 2724
-Final Position: 37, Count: 2725
-Final Position: 19, Count: 2730
-Final Position: 0, Count: 2733
-Final Position: 96, Count: 2734
-Final Position: 23, Count: 2735
-Final Position: 0, Count: 2742
-Final Position: 22, Count: 2743
-Final Position: 90, Count: 2744
-Final Position: 15, Count: 2744
-Final Position: 35, Count: 2750
-Final Position: 21, Count: 2751
-Final Position: 0, Count: 2753
-Final Position: 94, Count: 2754
-Final Position: 80, Count: 2755
-Final Position: 0, Count: 2756
-Final Position: 94, Count: 2765
-Final Position: 8, Count: 2765
-Final Position: 38, Count: 2766
-Final Position: 20, Count: 2767
-Final Position: 0, Count: 2768
-Final Position: 91, Count: 2769
-Final Position: 0, Count: 2779
-Final Position: 86, Count: 2779
-Final Position: 14, Count: 2779
-Final Position: 0, Count: 2788
-Final Position: 76, Count: 2789
-Final Position: 10, Count: 2789
-Final Position: 69, Count: 2790
-Final Position: 0, Count: 2791
-Final Position: 3, Count: 2800
-Final Position: 62, Count: 2802
-Final Position: 70, Count: 2802
-Final Position: 0, Count: 2803
-Final Position: 96, Count: 2803
-Final Position: 64, Count: 2804
-Final Position: 46, Count: 2804
-Final Position: 32, Count: 2804
-Final Position: 0, Count: 2813
-Final Position: 85, Count: 2817
-Final Position: 0, Count: 2818
-Final Position: 56, Count: 2818
-Final Position: 0, Count: 2819
-Final Position: 95, Count: 2820
-Final Position: 88, Count: 2820
-Final Position: 22, Count: 2820
-Final Position: 78, Count: 2821
-Final Position: 45, Count: 2822
-Final Position: 43, Count: 2823
-Final Position: 0, Count: 2824
-Final Position: 10, Count: 2824
-Final Position: 0, Count: 2829
-Final Position: 19, Count: 2830
-Final Position: 30, Count: 2831
-Final Position: 1, Count: 2831
-Final Position: 0, Count: 2832
-Final Position: 16, Count: 2833
-Final Position: 47, Count: 2834
-Final Position: 0, Count: 2844
-Final Position: 99, Count: 2844
-Final Position: 14, Count: 2845
-Final Position: 73, Count: 2846
-Final Position: 95, Count: 2847
-Final Position: 53, Count: 2848
-Final Position: 34, Count: 2848
-Final Position: 91, Count: 2848
-Final Position: 55, Count: 2855
-Final Position: 33, Count: 2855
-Final Position: 29, Count: 2856
-Final Position: 0, Count: 2857
-Final Position: 41, Count: 2858
-Final Position: 28, Count: 2859
-Final Position: 67, Count: 2859
-Final Position: 22, Count: 2866
-Final Position: 6, Count: 2867
-Final Position: 9, Count: 2868
-Final Position: 49, Count: 2868
-Final Position: 87, Count: 2877
-Final Position: 82, Count: 2877
-Final Position: 72, Count: 2877
-Final Position: 28, Count: 2878
-Final Position: 52, Count: 2878
-Final Position: 0, Count: 2888
-Final Position: 80, Count: 2889
-Final Position: 24, Count: 2898
-Final Position: 47, Count: 2899
-Final Position: 0, Count: 2900
-Final Position: 73, Count: 2900
-Final Position: 0, Count: 2901
-Final Position: 91, Count: 2902
-Final Position: 0, Count: 2906
-Final Position: 93, Count: 2906
-Final Position: 43, Count: 2906
-Final Position: 63, Count: 2907
-Final Position: 95, Count: 2907
-Final Position: 98, Count: 2907
-Final Position: 52, Count: 2915
-Final Position: 5, Count: 2916
-Final Position: 0, Count: 2917
-Final Position: 52, Count: 2917
-Final Position: 0, Count: 2918
-Final Position: 62, Count: 2919
-Final Position: 46, Count: 2922
-Final Position: 34, Count: 2929
-Final Position: 43, Count: 2929
-Final Position: 24, Count: 2930
-Final Position: 17, Count: 2931
-Final Position: 0, Count: 2932
-Final Position: 13, Count: 2936
-Final Position: 0, Count: 2944
-Final Position: 99, Count: 2945
-Final Position: 0, Count: 2946
-Final Position: 65, Count: 2947
-Final Position: 0, Count: 2948
-Final Position: 46, Count: 2949
-Final Position: 4, Count: 2959
-Final Position: 0, Count: 2960
-Final Position: 93, Count: 2961
-Final Position: 35, Count: 2961
-Final Position: 0, Count: 2962
-Final Position: 88, Count: 2963
-Final Position: 14, Count: 2972
-Final Position: 0, Count: 2973
-Final Position: 85, Count: 2974
-Final Position: 38, Count: 2975
-Final Position: 53, Count: 2975
-Final Position: 88, Count: 2978
-Final Position: 59, Count: 2979
-Final Position: 0, Count: 2980
-Final Position: 70, Count: 2980
-Final Position: 0, Count: 2990
-Final Position: 6, Count: 2990
-Final Position: 0, Count: 2991
-Final Position: 2, Count: 2992
-Final Position: 96, Count: 2998
-Final Position: 0, Count: 2999
-Final Position: 91, Count: 3000
-Final Position: 0, Count: 3010
-Final Position: 66, Count: 3011
-Final Position: 0, Count: 3012
-Final Position: 71, Count: 3013
-Final Position: 24, Count: 3014
-Final Position: 0, Count: 3015
-Final Position: 61, Count: 3015
-Final Position: 0, Count: 3016
-Final Position: 72, Count: 3016
-Final Position: 29, Count: 3019
-Final Position: 0, Count: 3027
-Final Position: 9, Count: 3028
-Final Position: 42, Count: 3036
-Final Position: 32, Count: 3036
-Final Position: 78, Count: 3036
-Final Position: 0, Count: 3037
-Final Position: 9, Count: 3037
-Final Position: 0, Count: 3038
-Final Position: 9, Count: 3039
-Final Position: 22, Count: 3040
-Final Position: 0, Count: 3047
-Final Position: 47, Count: 3047
-Final Position: 0, Count: 3048
-Final Position: 26, Count: 3056
-Final Position: 30, Count: 3057
-Final Position: 2, Count: 3058
-Final Position: 62, Count: 3059
-Final Position: 26, Count: 3059
-Final Position: 0, Count: 3060
-Final Position: 12, Count: 3060
-Final Position: 84, Count: 3060
-Final Position: 79, Count: 3061
-Final Position: 64, Count: 3062
-Final Position: 96, Count: 3062
-Final Position: 0, Count: 3071
-Final Position: 73, Count: 3081
-Final Position: 0, Count: 3082
-Final Position: 8, Count: 3083
-Final Position: 5, Count: 3087
-Final Position: 0, Count: 3088
-Final Position: 35, Count: 3089
-Final Position: 1, Count: 3090
-Final Position: 73, Count: 3090
-Final Position: 96, Count: 3093
-Final Position: 18, Count: 3093
-Final Position: 72, Count: 3094
-Final Position: 78, Count: 3094
-Final Position: 75, Count: 3094
-Final Position: 53, Count: 3095
-Final Position: 28, Count: 3095
-Final Position: 51, Count: 3096
-Final Position: 16, Count: 3097
-Final Position: 0, Count: 3098
-Final Position: 50, Count: 3098
-Final Position: 0, Count: 3100
-Final Position: 24, Count: 3109
-Final Position: 29, Count: 3110
-Final Position: 8, Count: 3111
-Final Position: 44, Count: 3111
-Final Position: 0, Count: 3112
-Final Position: 94, Count: 3113
-Final Position: 10, Count: 3114
-Final Position: 0, Count: 3115
-Final Position: 6, Count: 3116
-Final Position: 96, Count: 3117
-Final Position: 39, Count: 3118
-Final Position: 0, Count: 3119
-Final Position: 44, Count: 3119
-Final Position: 66, Count: 3119
-Final Position: 44, Count: 3127
-Final Position: 30, Count: 3127
-Final Position: 12, Count: 3128
-Final Position: 9, Count: 3129
-Final Position: 0, Count: 3130
-Final Position: 16, Count: 3138
-Final Position: 70, Count: 3143
-Final Position: 64, Count: 3148
-Final Position: 0, Count: 3149
-Final Position: 22, Count: 3149
-Final Position: 0, Count: 3155
-Final Position: 81, Count: 3162
-Final Position: 62, Count: 3163
-Final Position: 0, Count: 3164
-Final Position: 23, Count: 3165
-Final Position: 70, Count: 3166
-Final Position: 76, Count: 3166
-Final Position: 28, Count: 3167
-Final Position: 89, Count: 3168
-Final Position: 85, Count: 3171
-Final Position: 16, Count: 3171
-Final Position: 11, Count: 3172
-Final Position: 77, Count: 3172
-Final Position: 0, Count: 3173
-Final Position: 43, Count: 3173
-Final Position: 93, Count: 3179
-Final Position: 46, Count: 3179
-Final Position: 0, Count: 3180
-Final Position: 32, Count: 3180
-Final Position: 0, Count: 3181
-Final Position: 70, Count: 3182
-Final Position: 36, Count: 3183
-Final Position: 0, Count: 3184
-Final Position: 21, Count: 3184
-Final Position: 0, Count: 3185
-Final Position: 29, Count: 3185
-Final Position: 95, Count: 3192
-Final Position: 80, Count: 3192
-Final Position: 41, Count: 3193
-Final Position: 0, Count: 3194
-Final Position: 79, Count: 3195
-Final Position: 28, Count: 3196
-Final Position: 0, Count: 3197
-Final Position: 46, Count: 3198
-Final Position: 0, Count: 3199
-Final Position: 48, Count: 3204
-Final Position: 21, Count: 3205
-Final Position: 87, Count: 3206
-Final Position: 48, Count: 3212
-Final Position: 16, Count: 3213
-Final Position: 0, Count: 3214
-Final Position: 8, Count: 3214
-Final Position: 0, Count: 3215
-Final Position: 62, Count: 3216
-Final Position: 38, Count: 3222
-Final Position: 24, Count: 3223
-Final Position: 0, Count: 3224
-Final Position: 48, Count: 3225
-Final Position: 0, Count: 3234
-Final Position: 53, Count: 3235
-Final Position: 89, Count: 3244
-Final Position: 77, Count: 3246
-Final Position: 0, Count: 3247
-Final Position: 57, Count: 3247
-Final Position: 87, Count: 3247
-Final Position: 41, Count: 3247
-Final Position: 0, Count: 3248
-Final Position: 99, Count: 3249
-Final Position: 0, Count: 3250
-Final Position: 20, Count: 3257
-Final Position: 49, Count: 3258
-Final Position: 28, Count: 3263
-Final Position: 0, Count: 3269
-Final Position: 30, Count: 3277
-Final Position: 64, Count: 3277
-Final Position: 0, Count: 3278
-Final Position: 52, Count: 3278
-Final Position: 78, Count: 3279
-Final Position: 98, Count: 3279
-Final Position: 58, Count: 3279
-Final Position: 0, Count: 3280
-Final Position: 23, Count: 3280
-Final Position: 0, Count: 3281
-Final Position: 19, Count: 3282
-Final Position: 39, Count: 3282
-Final Position: 60, Count: 3282
-Final Position: 0, Count: 3283
-Final Position: 76, Count: 3292
-Final Position: 0, Count: 3300
-Final Position: 84, Count: 3300
-Final Position: 92, Count: 3300
-Final Position: 45, Count: 3301
-Final Position: 8, Count: 3306
-Final Position: 28, Count: 3307
-Final Position: 0, Count: 3308
-Final Position: 95, Count: 3308
-Final Position: 12, Count: 3309
-Final Position: 51, Count: 3309
-Final Position: 15, Count: 3310
-Final Position: 65, Count: 3310
-Final Position: 0, Count: 3311
-Final Position: 16, Count: 3312
-Final Position: 60, Count: 3312
-Final Position: 68, Count: 3312
-Final Position: 0, Count: 3313
-Final Position: 96, Count: 3314
-Final Position: 26, Count: 3314
-Final Position: 0, Count: 3318
-Final Position: 12, Count: 3319
-Final Position: 54, Count: 3320
-Final Position: 83, Count: 3328
-Final Position: 40, Count: 3329
-Final Position: 0, Count: 3330
-Final Position: 10, Count: 3331
-Final Position: 0, Count: 3339
-Final Position: 32, Count: 3345
-Final Position: 0, Count: 3348
-Final Position: 38, Count: 3348
-Final Position: 0, Count: 3350
-Final Position: 90, Count: 3351
-Final Position: 10, Count: 3352
-Final Position: 0, Count: 3353
-Final Position: 11, Count: 3353
-Final Position: 18, Count: 3354
-Final Position: 2, Count: 3362
-Final Position: 50, Count: 3362
-Final Position: 20, Count: 3362
-Final Position: 49, Count: 3362
-Final Position: 0, Count: 3363
-Final Position: 29, Count: 3363
-Final Position: 33, Count: 3364
-Final Position: 0, Count: 3365
-Final Position: 60, Count: 3374
-Final Position: 91, Count: 3375
-Final Position: 0, Count: 3376
-Final Position: 50, Count: 3377
-Final Position: 0, Count: 3378
-Final Position: 91, Count: 3379
-Final Position: 6, Count: 3379
-Final Position: 55, Count: 3379
-Final Position: 0, Count: 3380
-Final Position: 25, Count: 3380
-Final Position: 0, Count: 3383
-Final Position: 93, Count: 3384
-Final Position: 40, Count: 3384
-Final Position: 28, Count: 3384
-Final Position: 56, Count: 3385
-Final Position: 31, Count: 3386
-Final Position: 0, Count: 3387
-Final Position: 50, Count: 3387
-Final Position: 84, Count: 3389
-Final Position: 0, Count: 3398
-Final Position: 51, Count: 3401
-Final Position: 86, Count: 3402
-Final Position: 52, Count: 3411
-Final Position: 59, Count: 3416
-Final Position: 0, Count: 3425
-Final Position: 87, Count: 3430
-Final Position: 17, Count: 3430
-Final Position: 74, Count: 3431
-Final Position: 55, Count: 3431
-Final Position: 0, Count: 3432
-Final Position: 26, Count: 3438
-Final Position: 41, Count: 3446
-Final Position: 0, Count: 3447
-Final Position: 69, Count: 3447
-Final Position: 0, Count: 3448
-Final Position: 65, Count: 3449
-Final Position: 22, Count: 3450
-Final Position: 0, Count: 3458
-Final Position: 17, Count: 3459
-Final Position: 0, Count: 3464
-Final Position: 3, Count: 3465
-Final Position: 99, Count: 3465
-Final Position: 10, Count: 3466
-Final Position: 1, Count: 3467
-Final Position: 0, Count: 3468
-Final Position: 29, Count: 3471
-Final Position: 86, Count: 3471
-Final Position: 61, Count: 3472
-Final Position: 88, Count: 3472
-Final Position: 0, Count: 3473
-Final Position: 80, Count: 3474
-Final Position: 36, Count: 3475
-Final Position: 59, Count: 3476
-Final Position: 0, Count: 3477
-Final Position: 79, Count: 3478
-Final Position: 0, Count: 3479
-Final Position: 9, Count: 3480
-Final Position: 0, Count: 3489
-Final Position: 86, Count: 3490
-Final Position: 14, Count: 3491
-Final Position: 69, Count: 3491
-Final Position: 92, Count: 3491
-Final Position: 49, Count: 3491
-Final Position: 17, Count: 3491
-Final Position: 51, Count: 3495
-Final Position: 48, Count: 3496
-Final Position: 43, Count: 3496
-Final Position: 78, Count: 3496
-Final Position: 3, Count: 3497
-Final Position: 43, Count: 3499
-Final Position: 0, Count: 3500
-Final Position: 95, Count: 3501
-Final Position: 62, Count: 3510
-Final Position: 39, Count: 3511
-Final Position: 56, Count: 3512
-Final Position: 0, Count: 3515
-Final Position: 12, Count: 3520
-Final Position: 65, Count: 3520
-Final Position: 20, Count: 3523
-Final Position: 52, Count: 3524
-Final Position: 75, Count: 3525
-Final Position: 80, Count: 3525
-Final Position: 0, Count: 3526
-Final Position: 94, Count: 3533
-Final Position: 86, Count: 3533
-Final Position: 0, Count: 3534
-Final Position: 38, Count: 3535
-Final Position: 57, Count: 3536
-Final Position: 0, Count: 3537
-Final Position: 5, Count: 3538
-Final Position: 2, Count: 3539
-Final Position: 29, Count: 3544
-Final Position: 48, Count: 3544
-Final Position: 97, Count: 3551
-Final Position: 0, Count: 3552
-Final Position: 14, Count: 3556
-Final Position: 0, Count: 3557
-Final Position: 8, Count: 3567
-Final Position: 0, Count: 3570
-Final Position: 64, Count: 3571
-Final Position: 70, Count: 3572
-Final Position: 50, Count: 3573
-Final Position: 43, Count: 3574
-Final Position: 33, Count: 3574
-Final Position: 98, Count: 3574
-Final Position: 68, Count: 3575
-Final Position: 0, Count: 3576
-Final Position: 61, Count: 3576
-Final Position: 0, Count: 3577
-Final Position: 12, Count: 3577
-Final Position: 14, Count: 3578
-Final Position: 20, Count: 3579
-Final Position: 21, Count: 3579
-Final Position: 99, Count: 3584
-Final Position: 4, Count: 3585
-Final Position: 96, Count: 3585
-Final Position: 93, Count: 3585
-Final Position: 25, Count: 3586
-Final Position: 0, Count: 3587
-Final Position: 2, Count: 3590
-Final Position: 98, Count: 3597
-Final Position: 0, Count: 3598
-Final Position: 1, Count: 3598
-Final Position: 0, Count: 3599
-Final Position: 58, Count: 3600
-Final Position: 98, Count: 3601
-Final Position: 0, Count: 3602
-Final Position: 26, Count: 3602
-Final Position: 51, Count: 3602
-Final Position: 0, Count: 3603
-Final Position: 98, Count: 3603
-Final Position: 62, Count: 3603
-Final Position: 10, Count: 3603
-Final Position: 0, Count: 3606
-Final Position: 79, Count: 3606
-Final Position: 26, Count: 3606
-Final Position: 0, Count: 3607
-Final Position: 41, Count: 3608
-Final Position: 81, Count: 3608
-Final Position: 96, Count: 3609
-Final Position: 42, Count: 3610
-Final Position: 0, Count: 3611
-Final Position: 27, Count: 3611
-Final Position: 14, Count: 3612
-Final Position: 52, Count: 3612
-Final Position: 89, Count: 3614
-Final Position: 0, Count: 3615
-Final Position: 26, Count: 3616
-Final Position: 90, Count: 3616
-Final Position: 75, Count: 3625
-Final Position: 31, Count: 3626
-Final Position: 69, Count: 3627
-Final Position: 70, Count: 3627
-Final Position: 2, Count: 3632
-Final Position: 47, Count: 3633
-Final Position: 0, Count: 3640
-Final Position: 93, Count: 3640
-Final Position: 88, Count: 3640
-Final Position: 64, Count: 3641
-Final Position: 75, Count: 3641
-Final Position: 60, Count: 3650
-Final Position: 9, Count: 3652
-Final Position: 65, Count: 3652
-Final Position: 66, Count: 3653
-Final Position: 57, Count: 3653
-Final Position: 54, Count: 3654
-Final Position: 0, Count: 3655
-Final Position: 62, Count: 3656
-Final Position: 0, Count: 3657
-Final Position: 12, Count: 3657
-Final Position: 16, Count: 3657
-Final Position: 0, Count: 3658
-Final Position: 19, Count: 3659
-Final Position: 0, Count: 3660
-Final Position: 54, Count: 3662
-Final Position: 0, Count: 3663
-Final Position: 83, Count: 3664
-Final Position: 74, Count: 3665
-Final Position: 73, Count: 3665
-Final Position: 63, Count: 3670
-Final Position: 45, Count: 3671
-Final Position: 0, Count: 3672
-Final Position: 93, Count: 3675
-Final Position: 0, Count: 3676
-Final Position: 27, Count: 3676
-Final Position: 35, Count: 3677
-Final Position: 53, Count: 3678
-Final Position: 0, Count: 3679
-Final Position: 21, Count: 3679
-Final Position: 6, Count: 3679
-Final Position: 53, Count: 3680
-Final Position: 0, Count: 3683
-Final Position: 5, Count: 3684
-Final Position: 95, Count: 3685
-Final Position: 48, Count: 3685
-Final Position: 77, Count: 3685
-Final Position: 44, Count: 3686
-Final Position: 27, Count: 3687
-Final Position: 67, Count: 3687
-Final Position: 65, Count: 3687
-Final Position: 74, Count: 3687
-Final Position: 86, Count: 3687
-Final Position: 65, Count: 3687
-Final Position: 11, Count: 3688
-Final Position: 0, Count: 3689
-Final Position: 21, Count: 3690
-Final Position: 47, Count: 3690
-Final Position: 17, Count: 3690
-Final Position: 8, Count: 3691
-Final Position: 78, Count: 3695
-Final Position: 0, Count: 3697
-Final Position: 70, Count: 3697
-Final Position: 29, Count: 3697
-Final Position: 64, Count: 3698
-Final Position: 57, Count: 3704
-Final Position: 66, Count: 3704
-Final Position: 0, Count: 3705
-Final Position: 43, Count: 3705
-Final Position: 2, Count: 3706
-Final Position: 0, Count: 3707
-Final Position: 23, Count: 3708
-Final Position: 78, Count: 3709
-Final Position: 49, Count: 3710
-Final Position: 0, Count: 3716
-Final Position: 29, Count: 3716
-Final Position: 0, Count: 3717
-Final Position: 73, Count: 3718
-Final Position: 0, Count: 3719
-Final Position: 9, Count: 3720
-Final Position: 67, Count: 3730
-Final Position: 0, Count: 3731
-Final Position: 43, Count: 3739
-Final Position: 0, Count: 3740
-Final Position: 69, Count: 3741
-Final Position: 59, Count: 3741
-Final Position: 0, Count: 3742
-Final Position: 80, Count: 3743
-Final Position: 0, Count: 3744
-Final Position: 83, Count: 3745
-Final Position: 63, Count: 3746
-Final Position: 62, Count: 3747
-Final Position: 7, Count: 3748
-Final Position: 34, Count: 3749
-Final Position: 58, Count: 3749
-Final Position: 7, Count: 3750
-Final Position: 0, Count: 3751
-Final Position: 12, Count: 3760
-Final Position: 57, Count: 3760
-Final Position: 43, Count: 3768
-Final Position: 46, Count: 3768
-Final Position: 62, Count: 3769
-Final Position: 19, Count: 3770
-Final Position: 57, Count: 3770
-Final Position: 64, Count: 3771
-Final Position: 0, Count: 3772
-Final Position: 23, Count: 3772
-Final Position: 81, Count: 3772
-Final Position: 0, Count: 3773
-Final Position: 69, Count: 3774
-Final Position: 6, Count: 3774
-Final Position: 0, Count: 3775
-Final Position: 3, Count: 3775
-Final Position: 0, Count: 3776
-Final Position: 21, Count: 3784
-Final Position: 91, Count: 3784
-Final Position: 31, Count: 3784
-Final Position: 80, Count: 3785
-Final Position: 73, Count: 3786
-Final Position: 60, Count: 3787
-Final Position: 0, Count: 3797
-Final Position: 62, Count: 3798
-Final Position: 0, Count: 3799
-Final Position: 1, Count: 3806
-Final Position: 86, Count: 3806
-Final Position: 15, Count: 3807
-Final Position: 84, Count: 3807
-Final Position: 93, Count: 3809
-Final Position: 0, Count: 3810
-Final Position: 58, Count: 3811
-Final Position: 85, Count: 3812
-Final Position: 16, Count: 3813
-Final Position: 17, Count: 3814
-Final Position: 0, Count: 3815
-Final Position: 56, Count: 3822
-Final Position: 0, Count: 3823
-Final Position: 18, Count: 3824
-Final Position: 48, Count: 3825
-Final Position: 0, Count: 3833
-Final Position: 64, Count: 3833
-Final Position: 0, Count: 3842
-Final Position: 15, Count: 3842
-Final Position: 39, Count: 3843
-Final Position: 28, Count: 3844
-Final Position: 67, Count: 3844
-Final Position: 69, Count: 3845
-Final Position: 92, Count: 3846
-Final Position: 60, Count: 3846
-Final Position: 0, Count: 3849
-Final Position: 60, Count: 3849
-Final Position: 17, Count: 3849
-Final Position: 0, Count: 3850
-Final Position: 67, Count: 3851
-Final Position: 65, Count: 3851
-Final Position: 0, Count: 3852
-Final Position: 94, Count: 3852
-Final Position: 63, Count: 3853
-Final Position: 11, Count: 3854
-Final Position: 67, Count: 3854
-Final Position: 0, Count: 3855
-Final Position: 39, Count: 3856
-Final Position: 0, Count: 3857
-Final Position: 45, Count: 3858
-Final Position: 30, Count: 3858
-Final Position: 1, Count: 3859
-Final Position: 33, Count: 3859
-Final Position: 35, Count: 3859
-Final Position: 11, Count: 3860
-Final Position: 92, Count: 3861
-Final Position: 0, Count: 3862
-Final Position: 3, Count: 3863
-Final Position: 98, Count: 3864
-Final Position: 0, Count: 3865
-Final Position: 56, Count: 3866
-Final Position: 48, Count: 3867
-Final Position: 58, Count: 3868
-Final Position: 22, Count: 3869
-Final Position: 69, Count: 3870
-Final Position: 84, Count: 3871
-Final Position: 0, Count: 3872
-Final Position: 48, Count: 3872
-Final Position: 0, Count: 3873
-Final Position: 10, Count: 3873
-Final Position: 0, Count: 3874
-Final Position: 81, Count: 3874
-Final Position: 20, Count: 3875
-Final Position: 30, Count: 3876
-Final Position: 0, Count: 3877
-Final Position: 15, Count: 3878
-Final Position: 25, Count: 3878
-Final Position: 0, Count: 3879
-Final Position: 91, Count: 3880
-Final Position: 60, Count: 3880
-Final Position: 0, Count: 3881
-Final Position: 75, Count: 3882
-Final Position: 79, Count: 3882
-Final Position: 44, Count: 3886
-Final Position: 50, Count: 3886
-Final Position: 22, Count: 3887
-Final Position: 85, Count: 3887
-Final Position: 96, Count: 3887
-Final Position: 46, Count: 3888
-Final Position: 64, Count: 3896
-Final Position: 20, Count: 3897
-Final Position: 2, Count: 3898
-Final Position: 0, Count: 3899
-Final Position: 8, Count: 3899
-Final Position: 45, Count: 3905
-Final Position: 10, Count: 3905
-Final Position: 97, Count: 3905
-Final Position: 0, Count: 3913
-Final Position: 37, Count: 3914
-Final Position: 61, Count: 3915
-Final Position: 0, Count: 3916
-Final Position: 86, Count: 3920
-Final Position: 30, Count: 3921
-Final Position: 0, Count: 3927
-Final Position: 36, Count: 3928
-Final Position: 58, Count: 3936
-Final Position: 0, Count: 3937
-Final Position: 94, Count: 3939
-Final Position: 0, Count: 3940
-Final Position: 21, Count: 3940
-Final Position: 68, Count: 3946
-Final Position: 17, Count: 3947
-Final Position: 16, Count: 3948
-Final Position: 42, Count: 3949
-Final Position: 5, Count: 3950
-Final Position: 26, Count: 3951
-Final Position: 12, Count: 3958
-Final Position: 33, Count: 3958
-Final Position: 0, Count: 3959
-Final Position: 93, Count: 3959
-Final Position: 62, Count: 3959
-Final Position: 0, Count: 3969
-Final Position: 68, Count: 3969
-Final Position: 0, Count: 3970
-Final Position: 72, Count: 3970
-Final Position: 55, Count: 3971
-Final Position: 30, Count: 3972
-Final Position: 0, Count: 3974
-Final Position: 21, Count: 3974
-Final Position: 47, Count: 3974
-Final Position: 70, Count: 3975
-Final Position: 71, Count: 3976
-Final Position: 0, Count: 3977
-Final Position: 51, Count: 3978
-Final Position: 0, Count: 3986
-Final Position: 14, Count: 3987
-Final Position: 0, Count: 3988
-Final Position: 10, Count: 3988
-Final Position: 62, Count: 3988
-Final Position: 4, Count: 3989
-Final Position: 60, Count: 3990
-Final Position: 59, Count: 3994
-Final Position: 3, Count: 3994
-Final Position: 23, Count: 3998
-Final Position: 85, Count: 3998
-Final Position: 0, Count: 3999
-Final Position: 80, Count: 4003
-Final Position: 97, Count: 4004
-Final Position: 12, Count: 4004
-Final Position: 71, Count: 4004
-Final Position: 0, Count: 4014
-Final Position: 98, Count: 4014
-Final Position: 72, Count: 4015
-Final Position: 50, Count: 4016
-Final Position: 24, Count: 4017
-Final Position: 0, Count: 4018
-Final Position: 78, Count: 4027
-Final Position: 6, Count: 4028
-Final Position: 5, Count: 4029
-Final Position: 74, Count: 4029
-Final Position: 0, Count: 4032
-Final Position: 24, Count: 4032
-Final Position: 0, Count: 4042
-Final Position: 73, Count: 4043
-Final Position: 77, Count: 4043
-Final Position: 97, Count: 4044
-Final Position: 0, Count: 4045
-Final Position: 95, Count: 4046
-Final Position: 17, Count: 4046
-Final Position: 78, Count: 4047
-Final Position: 8, Count: 4048
-Final Position: 0, Count: 4049
-Final Position: 53, Count: 4057
-Final Position: 0, Count: 4058
-Final Position: 46, Count: 4059
-Final Position: 0, Count: 4060
-Final Position: 88, Count: 4060
-Final Position: 74, Count: 4060
-Final Position: 0, Count: 4061
-Final Position: 49, Count: 4062
-Final Position: 0, Count: 4063
-Final Position: 2, Count: 4063
-Final Position: 6, Count: 4071
-Final Position: 45, Count: 4071
-Final Position: 6, Count: 4072
-Final Position: 55, Count: 4072
-Final Position: 21, Count: 4072
-Final Position: 38, Count: 4073
-Final Position: 0, Count: 4074
-Final Position: 65, Count: 4074
-Final Position: 52, Count: 4082
-Final Position: 0, Count: 4090
-Final Position: 89, Count: 4091
-Final Position: 13, Count: 4092
-Final Position: 0, Count: 4093
-Final Position: 14, Count: 4094
-Final Position: 64, Count: 4103
-Final Position: 0, Count: 4104
-Final Position: 67, Count: 4106
-Final Position: 40, Count: 4107
-Final Position: 77, Count: 4117
-Final Position: 0, Count: 4118
-Final Position: 21, Count: 4119
-Final Position: 0, Count: 4128
-Final Position: 98, Count: 4128
-Final Position: 66, Count: 4129
-Final Position: 3, Count: 4129
-Final Position: 0, Count: 4130
-Final Position: 86, Count: 4134
-Final Position: 78, Count: 4135
-Final Position: 50, Count: 4135
-Final Position: 81, Count: 4135
-Final Position: 62, Count: 4135
-Final Position: 0, Count: 4136
-Final Position: 26, Count: 4140
-Final Position: 2, Count: 4141
-Final Position: 3, Count: 4141
-Final Position: 0, Count: 4142
-Final Position: 10, Count: 4142
-Final Position: 92, Count: 4142
-Final Position: 31, Count: 4150
-Final Position: 0, Count: 4151
-Final Position: 96, Count: 4151
-Final Position: 0, Count: 4155
-Final Position: 27, Count: 4155
-Final Position: 0, Count: 4156
-Final Position: 40, Count: 4156
-Final Position: 31, Count: 4156
-Final Position: 83, Count: 4161
-Final Position: 58, Count: 4161
-Final Position: 79, Count: 4162
-Final Position: 44, Count: 4163
-Final Position: 30, Count: 4173
-Final Position: 0, Count: 4179
-Final Position: 99, Count: 4179
-Final Position: 4, Count: 4180
-Final Position: 20, Count: 4181
-Final Position: 0, Count: 4182
-Final Position: 11, Count: 4191
-Final Position: 0, Count: 4192
-Final Position: 34, Count: 4193
-Final Position: 26, Count: 4193
-Final Position: 73, Count: 4198
-Final Position: 67, Count: 4198
-Final Position: 41, Count: 4198
-Final Position: 25, Count: 4199
-Final Position: 84, Count: 4200
-Final Position: 47, Count: 4203
-Final Position: 83, Count: 4203
-Final Position: 0, Count: 4204
-Final Position: 9, Count: 4204
-Final Position: 65, Count: 4204
-Final Position: 10, Count: 4204
-Final Position: 21, Count: 4205
-Final Position: 0, Count: 4206
-Final Position: 27, Count: 4206
-Final Position: 0, Count: 4214
-Final Position: 66, Count: 4215
-Final Position: 0, Count: 4216
-Final Position: 23, Count: 4224
-Final Position: 9, Count: 4225
-Final Position: 54, Count: 4225
-Final Position: 0, Count: 4226
-Final Position: 85, Count: 4227
-Final Position: 22, Count: 4228
-Final Position: 95, Count: 4233
-Final Position: 0, Count: 4234
-Final Position: 32, Count: 4235
-Final Position: 27, Count: 4235
-Final Position: 0, Count: 4236
-Final Position: 73, Count: 4245
-Final Position: 0, Count: 4246
-Final Position: 10, Count: 4247
-Final Position: 19, Count: 4252
-Final Position: 52, Count: 4253
-Final Position: 60, Count: 4254
-Final Position: 0, Count: 4255
-Final Position: 74, Count: 4256
-Final Position: 18, Count: 4257
-Final Position: 45, Count: 4257
-Final Position: 0, Count: 4258
-Final Position: 54, Count: 4258
-Final Position: 57, Count: 4258
-Final Position: 66, Count: 4258
-Final Position: 56, Count: 4258
-Final Position: 0, Count: 4259
-Final Position: 17, Count: 4259
-Final Position: 0, Count: 4260
-Final Position: 39, Count: 4261
-Final Position: 0, Count: 4262
-Final Position: 99, Count: 4262
-Final Position: 22, Count: 4263
-Final Position: 0, Count: 4264
-Final Position: 6, Count: 4264
-Final Position: 0, Count: 4265
-Final Position: 49, Count: 4266
-Final Position: 51, Count: 4267
-Final Position: 3, Count: 4268
-Final Position: 25, Count: 4269
-Final Position: 0, Count: 4270
-Final Position: 52, Count: 4271
-Final Position: 38, Count: 4271
-Final Position: 0, Count: 4272
-Final Position: 12, Count: 4272
-Final Position: 55, Count: 4273
-Final Position: 0, Count: 4274
-Final Position: 65, Count: 4278
-Final Position: 17, Count: 4279
-Final Position: 78, Count: 4280
-Final Position: 84, Count: 4285
-Final Position: 49, Count: 4285
-Final Position: 0, Count: 4286
-Final Position: 78, Count: 4287
-Final Position: 81, Count: 4293
-Final Position: 38, Count: 4293
-Final Position: 77, Count: 4294
-Final Position: 64, Count: 4294
-Final Position: 61, Count: 4294
-Final Position: 0, Count: 4295
-Final Position: 61, Count: 4296
-Final Position: 33, Count: 4300
-Final Position: 0, Count: 4301
-Final Position: 27, Count: 4301
-Final Position: 8, Count: 4302
-Final Position: 0, Count: 4303
-Final Position: 78, Count: 4309
-Final Position: 27, Count: 4310
-Final Position: 7, Count: 4310
-Final Position: 41, Count: 4316
-Final Position: 0, Count: 4324
-Final Position: 93, Count: 4325
-Final Position: 0, Count: 4326
-Final Position: 20, Count: 4327
-Final Position: 77, Count: 4333
-Final Position: 60, Count: 4334
-Final Position: 8, Count: 4334
-Final Position: 54, Count: 4334
-Final Position: 13, Count: 4334
-Final Position: 0, Count: 4335
-Final Position: 11, Count: 4336
-Final Position: 94, Count: 4337
-Final Position: 66, Count: 4345
-Final Position: 69, Count: 4345
-Final Position: 30, Count: 4345
-Final Position: 90, Count: 4345
-Final Position: 0, Count: 4346
-Final Position: 73, Count: 4346
-Final Position: 0, Count: 4347
-Final Position: 75, Count: 4347
-Final Position: 0, Count: 4348
-Final Position: 51, Count: 4357
-Final Position: 0, Count: 4365
-Final Position: 36, Count: 4366
-Final Position: 68, Count: 4367
-Final Position: 50, Count: 4369
-Final Position: 0, Count: 4370
-Final Position: 71, Count: 4371
-Final Position: 0, Count: 4372
-Final Position: 23, Count: 4373
-Final Position: 76, Count: 4380
-Final Position: 43, Count: 4380
-Final Position: 0, Count: 4381
-Final Position: 96, Count: 4381
-Final Position: 28, Count: 4381
-Final Position: 0, Count: 4382
-Final Position: 64, Count: 4383
-Final Position: 19, Count: 4384
-Final Position: 93, Count: 4391
-Final Position: 17, Count: 4391
-Final Position: 16, Count: 4391
-Final Position: 0, Count: 4395
-Final Position: 45, Count: 4395
-Final Position: 5, Count: 4395
-Final Position: 69, Count: 4395
-Final Position: 92, Count: 4396
-Final Position: 0, Count: 4397
-Final Position: 60, Count: 4406
-Final Position: 6, Count: 4407
-Final Position: 89, Count: 4408
-Final Position: 0, Count: 4409
-Final Position: 24, Count: 4414
-Final Position: 75, Count: 4415
-Final Position: 36, Count: 4425
-Final Position: 98, Count: 4426
-Final Position: 15, Count: 4426
-Final Position: 0, Count: 4427
-Final Position: 10, Count: 4428
-Final Position: 0, Count: 4430
-Final Position: 10, Count: 4430
-Final Position: 0, Count: 4431
-Final Position: 90, Count: 4432
-Final Position: 0, Count: 4433
-Final Position: 27, Count: 4433
-Final Position: 0, Count: 4434
-Final Position: 44, Count: 4438
-Final Position: 0, Count: 4439
-Final Position: 29, Count: 4439
-Final Position: 68, Count: 4440
-Final Position: 52, Count: 4441
-Final Position: 0, Count: 4442
-Final Position: 88, Count: 4442
-Final Position: 18, Count: 4443
-Final Position: 80, Count: 4443
-Final Position: 0, Count: 4451
-Final Position: 9, Count: 4452
-Final Position: 48, Count: 4454
-Final Position: 11, Count: 4455
-Final Position: 0, Count: 4456
-Final Position: 41, Count: 4457
-Final Position: 75, Count: 4458
-Final Position: 89, Count: 4459
-Final Position: 56, Count: 4460
-Final Position: 0, Count: 4468
-Final Position: 1, Count: 4468
-Final Position: 90, Count: 4478
-Final Position: 6, Count: 4483
-Final Position: 8, Count: 4483
-Final Position: 63, Count: 4484
-Final Position: 56, Count: 4484
-Final Position: 99, Count: 4484
-Final Position: 0, Count: 4485
-Final Position: 93, Count: 4492
-Final Position: 0, Count: 4493
-Final Position: 42, Count: 4493
-Final Position: 0, Count: 4494
-Final Position: 37, Count: 4495
-Final Position: 44, Count: 4495
-Final Position: 15, Count: 4496
-Final Position: 33, Count: 4496
-Final Position: 8, Count: 4497
-Final Position: 60, Count: 4500
-Final Position: 69, Count: 4501
-Final Position: 0, Count: 4502
-Final Position: 53, Count: 4509
-Final Position: 13, Count: 4513
-Final Position: 61, Count: 4515
-Final Position: 0, Count: 4522
-Final Position: 74, Count: 4523
-Final Position: 20, Count: 4524
-Final Position: 50, Count: 4524
-Final Position: 27, Count: 4524
-Final Position: 33, Count: 4525
-Final Position: 29, Count: 4529
-Final Position: 84, Count: 4529
-Final Position: 0, Count: 4535
-Final Position: 40, Count: 4535
-Final Position: 21, Count: 4535
-Final Position: 59, Count: 4535
-Final Position: 47, Count: 4536
-Final Position: 93, Count: 4536
-Final Position: 96, Count: 4536
-Final Position: 59, Count: 4537
-Final Position: 98, Count: 4537
-Final Position: 25, Count: 4538
-Final Position: 0, Count: 4539
-Final Position: 39, Count: 4540
-Final Position: 77, Count: 4540
-Final Position: 68, Count: 4540
-Final Position: 99, Count: 4540
-Final Position: 91, Count: 4540
-Final Position: 0, Count: 4541
-Final Position: 45, Count: 4542
-Final Position: 0, Count: 4546
-Final Position: 84, Count: 4546
-Final Position: 81, Count: 4546
-Final Position: 70, Count: 4547
-Final Position: 94, Count: 4548
-Final Position: 56, Count: 4548
-Final Position: 0, Count: 4549
-Final Position: 21, Count: 4549
-Final Position: 19, Count: 4550
-Final Position: 84, Count: 4550
-Final Position: 2, Count: 4550
-Final Position: 9, Count: 4550
-Final Position: 24, Count: 4551
-Final Position: 48, Count: 4552
-Final Position: 2, Count: 4553
-Final Position: 0, Count: 4554
-Final Position: 57, Count: 4554
-Final Position: 4, Count: 4554
-Final Position: 0, Count: 4555
-Final Position: 17, Count: 4555
-Final Position: 21, Count: 4555
-Final Position: 26, Count: 4555
-Final Position: 36, Count: 4555
-Final Position: 0, Count: 4556
-Final Position: 58, Count: 4556
-Final Position: 36, Count: 4556
-Final Position: 79, Count: 4557
-Final Position: 0, Count: 4558
-Final Position: 7, Count: 4566
-Final Position: 71, Count: 4568
-Final Position: 93, Count: 4577
-Final Position: 75, Count: 4577
-Final Position: 0, Count: 4578
-Final Position: 83, Count: 4581
-Final Position: 0, Count: 4582
-Final Position: 50, Count: 4582
-Final Position: 0, Count: 4583
-Final Position: 80, Count: 4583
-Final Position: 26, Count: 4583
-Final Position: 0, Count: 4588
-Final Position: 26, Count: 4589
-Final Position: 0, Count: 4590
-Final Position: 97, Count: 4593
-Final Position: 79, Count: 4594
-Final Position: 49, Count: 4595
-Final Position: 2, Count: 4596
-Final Position: 0, Count: 4597
-Final Position: 56, Count: 4597
-Final Position: 0, Count: 4598
-Final Position: 69, Count: 4598
-Final Position: 0, Count: 4600
-Final Position: 50, Count: 4600
-Final Position: 26, Count: 4601
-Final Position: 31, Count: 4602
-Final Position: 0, Count: 4603
-Final Position: 91, Count: 4603
-Final Position: 0, Count: 4604
-Final Position: 7, Count: 4605
-Final Position: 44, Count: 4606
-Final Position: 37, Count: 4606
-Final Position: 0, Count: 4615
-Final Position: 18, Count: 4615
-Final Position: 25, Count: 4616
-Final Position: 28, Count: 4617
-Final Position: 75, Count: 4617
-Final Position: 64, Count: 4618
-Final Position: 3, Count: 4619
-Final Position: 31, Count: 4620
-Final Position: 0, Count: 4621
-Final Position: 83, Count: 4621
-Final Position: 55, Count: 4622
-Final Position: 67, Count: 4623
-Final Position: 28, Count: 4624
-Final Position: 42, Count: 4625
-Final Position: 54, Count: 4626
-Final Position: 81, Count: 4629
-Final Position: 45, Count: 4630
-Final Position: 0, Count: 4631
-Final Position: 45, Count: 4632
-Final Position: 0, Count: 4633
-Final Position: 80, Count: 4634
-Final Position: 0, Count: 4635
-Final Position: 41, Count: 4636
-Final Position: 62, Count: 4636
-Final Position: 50, Count: 4636
-Final Position: 6, Count: 4637
-Final Position: 91, Count: 4638
-Final Position: 25, Count: 4639
-Final Position: 0, Count: 4642
-Final Position: 99, Count: 4643
-Final Position: 76, Count: 4643
-Final Position: 21, Count: 4644
-Final Position: 59, Count: 4645
-Final Position: 27, Count: 4646
-Final Position: 75, Count: 4651
-Final Position: 31, Count: 4652
-Final Position: 62, Count: 4653
-Final Position: 17, Count: 4653
-Final Position: 40, Count: 4654
-Final Position: 60, Count: 4655
-Final Position: 6, Count: 4655
-Final Position: 18, Count: 4655
-Final Position: 0, Count: 4656
-Final Position: 99, Count: 4657
-Final Position: 0, Count: 4658
-Final Position: 22, Count: 4659
-Final Position: 31, Count: 4669
-Final Position: 0, Count: 4670
-Final Position: 80, Count: 4670
-Final Position: 1, Count: 4676
-Final Position: 46, Count: 4676
-Final Position: 44, Count: 4676
-Final Position: 0, Count: 4677
-Final Position: 75, Count: 4677
-Final Position: 89, Count: 4678
-Final Position: 57, Count: 4679
-Final Position: 0, Count: 4680
-Final Position: 79, Count: 4686
-Final Position: 0, Count: 4687
-Final Position: 40, Count: 4688
-Final Position: 45, Count: 4689
-Final Position: 94, Count: 4690
-Final Position: 42, Count: 4690
-Final Position: 0, Count: 4691
-Final Position: 76, Count: 4691
-Final Position: 0, Count: 4692
-Final Position: 90, Count: 4693
-Final Position: 73, Count: 4699
-Final Position: 0, Count: 4700
-Final Position: 12, Count: 4700
-Final Position: 0, Count: 4701
-Final Position: 73, Count: 4706
-Final Position: 23, Count: 4707
-Final Position: 24, Count: 4708
-Final Position: 0, Count: 4709
-Final Position: 8, Count: 4710
-Final Position: 60, Count: 4718
-Final Position: 29, Count: 4718
-Final Position: 0, Count: 4719
-Final Position: 53, Count: 4719
-Final Position: 89, Count: 4719
-Final Position: 21, Count: 4722
-Final Position: 57, Count: 4722
-Final Position: 19, Count: 4722
-Final Position: 76, Count: 4722
-Final Position: 54, Count: 4723
-Final Position: 20, Count: 4723
-Final Position: 2, Count: 4723
-Final Position: 62, Count: 4724
-Final Position: 0, Count: 4725
-Final Position: 70, Count: 4726
-Final Position: 38, Count: 4727
-Final Position: 52, Count: 4729
-Final Position: 49, Count: 4729
-Final Position: 64, Count: 4730
-Final Position: 42, Count: 4738
-Final Position: 98, Count: 4739
-Final Position: 99, Count: 4740
-Final Position: 86, Count: 4741
-Final Position: 96, Count: 4742
-Final Position: 0, Count: 4743
-Final Position: 72, Count: 4743
-Final Position: 91, Count: 4744
-Final Position: 66, Count: 4744
-Final Position: 3, Count: 4744
-Final Position: 88, Count: 4744
-Final Position: 76, Count: 4745
-Final Position: 0, Count: 4746
-Final Position: 89, Count: 4746
-Final Position: 11, Count: 4747
-Final Position: 64, Count: 4747
-Final Position: 0, Count: 4750
-Final Position: 90, Count: 4759
-Final Position: 44, Count: 4759
-Final Position: 13, Count: 4760
-Final Position: 0, Count: 4761
-Final Position: 10, Count: 4761
-Final Position: 0, Count: 4762
-Final Position: 1, Count: 4763
-Final Position: 0, Count: 4764
-Final Position: 53, Count: 4764
-Final Position: 0, Count: 4772
-Final Position: 47, Count: 4772
-Final Position: 74, Count: 4775
-Final Position: 0, Count: 4784
-Final Position: 82, Count: 4784
-Final Position: 30, Count: 4785
-Final Position: 0, Count: 4786
-Final Position: 41, Count: 4787
-Final Position: 23, Count: 4788
-Final Position: 29, Count: 4789
-Final Position: 0, Count: 4799
-Final Position: 54, Count: 4799
-Final Position: 0, Count: 4800
-Final Position: 36, Count: 4800
-Final Position: 0, Count: 4810
-Final Position: 38, Count: 4811
-Final Position: 0, Count: 4812
-Final Position: 74, Count: 4813
-Final Position: 7, Count: 4814
-Final Position: 57, Count: 4815
-Final Position: 0, Count: 4816
-Final Position: 21, Count: 4817
-Final Position: 61, Count: 4818
-Final Position: 80, Count: 4819
-Final Position: 67, Count: 4820
-Final Position: 0, Count: 4821
-Final Position: 23, Count: 4822
-Final Position: 0, Count: 4824
-Final Position: 95, Count: 4824
-Final Position: 0, Count: 4825
-Final Position: 5, Count: 4826
-Final Position: 24, Count: 4826
-Final Position: 29, Count: 4827
-Final Position: 0, Count: 4828
-Final Position: 24, Count: 4829
-Final Position: 92, Count: 4829
-Final Position: 79, Count: 4830
-Final Position: 0, Count: 4831
-Final Position: 23, Count: 4837
-Final Position: 19, Count: 4838
-Final Position: 3, Count: 4839
-Final Position: 98, Count: 4840
-Final Position: 16, Count: 4847
-Final Position: 3, Count: 4853
-Final Position: 97, Count: 4854
-Final Position: 50, Count: 4854
-Final Position: 0, Count: 4855
-Final Position: 64, Count: 4856
-Final Position: 5, Count: 4860
-Final Position: 12, Count: 4860
-Final Position: 0, Count: 4861
-Final Position: 37, Count: 4862
-Final Position: 99, Count: 4864
-Final Position: 43, Count: 4870
-Final Position: 0, Count: 4871
-Final Position: 40, Count: 4879
-Final Position: 7, Count: 4880
-Final Position: 28, Count: 4880
-Final Position: 0, Count: 4881
-Final Position: 81, Count: 4885
-Final Position: 26, Count: 4885
-Final Position: 61, Count: 4885
-Final Position: 3, Count: 4888
-Final Position: 0, Count: 4889
-Final Position: 7, Count: 4889
-Final Position: 74, Count: 4890
-Final Position: 40, Count: 4893
-Final Position: 49, Count: 4893
-Final Position: 52, Count: 4893
-Final Position: 73, Count: 4894
-Final Position: 0, Count: 4895
-Final Position: 20, Count: 4895
-Final Position: 31, Count: 4895
-Final Position: 34, Count: 4896
-Final Position: 69, Count: 4897
-Final Position: 11, Count: 4898
-Final Position: 31, Count: 4898
-Final Position: 0, Count: 4899
-Final Position: 17, Count: 4899
-Final Position: 0, Count: 4900
-Final Position: 61, Count: 4901
-Final Position: 74, Count: 4909
-Final Position: 57, Count: 4909
-Final Position: 26, Count: 4916
-Final Position: 31, Count: 4917
-Final Position: 47, Count: 4919
-Final Position: 38, Count: 4920
-Final Position: 0, Count: 4921
-Final Position: 31, Count: 4921
-Final Position: 94, Count: 4925
-Final Position: 37, Count: 4926
-Final Position: 0, Count: 4927
-Final Position: 32, Count: 4936
-Final Position: 0, Count: 4937
-Final Position: 34, Count: 4941
-Final Position: 0, Count: 4942
-Final Position: 12, Count: 4945
-Final Position: 29, Count: 4945
-Final Position: 91, Count: 4945
-Final Position: 61, Count: 4946
-Final Position: 13, Count: 4946
-Final Position: 40, Count: 4947
-Final Position: 66, Count: 4947
-Final Position: 40, Count: 4947
-Final Position: 0, Count: 4948
-Final Position: 83, Count: 4949
-Final Position: 32, Count: 4958
-Final Position: 73, Count: 4958
-Final Position: 48, Count: 4963
-Final Position: 0, Count: 4964
-Final Position: 31, Count: 4964
-Final Position: 41, Count: 4965
-Final Position: 20, Count: 4966
-Final Position: 0, Count: 4967
-Final Position: 41, Count: 4969
-Final Position: 0, Count: 4979
-Final Position: 73, Count: 4982
-Final Position: 0, Count: 4983
-Final Position: 17, Count: 4984
-Final Position: 59, Count: 4984
-Final Position: 91, Count: 4984
-Final Position: 0, Count: 4985
-Final Position: 44, Count: 4986
-Final Position: 9, Count: 4993
-Final Position: 21, Count: 4993
-Final Position: 87, Count: 4996
-Final Position: 2, Count: 4997
-Final Position: 0, Count: 4998
-Final Position: 3, Count: 4998
-Final Position: 14, Count: 4998
-Final Position: 20, Count: 4998
-Final Position: 7, Count: 5002
-Final Position: 86, Count: 5003
-Final Position: 0, Count: 5004
-Final Position: 54, Count: 5004
-Final Position: 82, Count: 5004
-Final Position: 56, Count: 5005
-Final Position: 0, Count: 5006
-Final Position: 37, Count: 5006
-Final Position: 26, Count: 5006
-Final Position: 0, Count: 5007
-Final Position: 11, Count: 5007
-Final Position: 46, Count: 5008
-Final Position: 2, Count: 5008
-Final Position: 88, Count: 5008
-Final Position: 47, Count: 5009
-Final Position: 42, Count: 5010
-Final Position: 94, Count: 5010
-Final Position: 34, Count: 5011
-Final Position: 26, Count: 5011
-Final Position: 0, Count: 5012
-Final Position: 68, Count: 5012
-Final Position: 0, Count: 5018
-Final Position: 96, Count: 5022
-Final Position: 43, Count: 5022
-Final Position: 0, Count: 5023
-Final Position: 83, Count: 5023
-Final Position: 0, Count: 5024
-Final Position: 94, Count: 5025
-Final Position: 12, Count: 5026
-Final Position: 0, Count: 5027
-Final Position: 49, Count: 5027
-Final Position: 61, Count: 5028
-Final Position: 0, Count: 5029
-Final Position: 87, Count: 5032
-Final Position: 36, Count: 5032
-Final Position: 0, Count: 5033
-Final Position: 30, Count: 5034
-Final Position: 0, Count: 5035
-Final Position: 10, Count: 5036
-Final Position: 86, Count: 5037
-Final Position: 40, Count: 5038
-Final Position: 79, Count: 5040
-Final Position: 26, Count: 5041
-Final Position: 99, Count: 5042
-Final Position: 0, Count: 5047
-Final Position: 1, Count: 5047
-Final Position: 54, Count: 5057
-Final Position: 0, Count: 5058
-Final Position: 2, Count: 5059
-Final Position: 0, Count: 5068
-Final Position: 51, Count: 5069
-Final Position: 92, Count: 5069
-Final Position: 0, Count: 5070
-Final Position: 16, Count: 5071
-Final Position: 11, Count: 5072
-Final Position: 0, Count: 5075
-Final Position: 91, Count: 5075
-Final Position: 80, Count: 5076
-Final Position: 23, Count: 5076
-Final Position: 62, Count: 5077
-Final Position: 17, Count: 5077
-Final Position: 61, Count: 5077
-Final Position: 56, Count: 5077
-Final Position: 25, Count: 5078
-Final Position: 0, Count: 5079
-Final Position: 58, Count: 5082
-Final Position: 70, Count: 5082
-Final Position: 0, Count: 5083
-Final Position: 2, Count: 5083
-Final Position: 15, Count: 5083
-Final Position: 6, Count: 5085
-Final Position: 62, Count: 5085
-Final Position: 0, Count: 5086
-Final Position: 56, Count: 5087
-Final Position: 0, Count: 5088
-Final Position: 51, Count: 5089
-Final Position: 33, Count: 5089
-Final Position: 0, Count: 5090
-Final Position: 94, Count: 5091
-Final Position: 49, Count: 5091
-Final Position: 78, Count: 5099
-Final Position: 7, Count: 5100
-Final Position: 0, Count: 5101
-Final Position: 75, Count: 5102
-Final Position: 0, Count: 5103
-Final Position: 56, Count: 5106
-Final Position: 68, Count: 5106
-Final Position: 0, Count: 5107
-Final Position: 16, Count: 5108
-Final Position: 49, Count: 5109
-Final Position: 89, Count: 5109
-Final Position: 37, Count: 5110
-Final Position: 23, Count: 5111
-Final Position: 24, Count: 5112
-Final Position: 0, Count: 5113
-Final Position: 98, Count: 5113
-Final Position: 81, Count: 5113
-Final Position: 0, Count: 5114
-Final Position: 74, Count: 5114
-Final Position: 20, Count: 5114
-Final Position: 68, Count: 5114
-Final Position: 25, Count: 5114
-Final Position: 10, Count: 5114
-Final Position: 31, Count: 5114
-Final Position: 0, Count: 5123
-Final Position: 17, Count: 5123
-Final Position: 0, Count: 5124
-Final Position: 79, Count: 5124
-Final Position: 0, Count: 5125
-Final Position: 52, Count: 5131
-Final Position: 46, Count: 5131
-Final Position: 37, Count: 5131
-Final Position: 0, Count: 5132
-Final Position: 65, Count: 5138
-Final Position: 85, Count: 5139
-Final Position: 31, Count: 5140
-Final Position: 0, Count: 5141
-Final Position: 14, Count: 5142
-Final Position: 74, Count: 5143
-Final Position: 39, Count: 5144
-Final Position: 0, Count: 5145
-Final Position: 58, Count: 5145
-Final Position: 0, Count: 5146
-Final Position: 61, Count: 5146
-Final Position: 0, Count: 5147
-Final Position: 69, Count: 5151
-Final Position: 45, Count: 5153
-Final Position: 0, Count: 5160
-Final Position: 98, Count: 5161
-Final Position: 85, Count: 5162
-Final Position: 7, Count: 5163
-Final Position: 15, Count: 5164
-Final Position: 0, Count: 5165
-Final Position: 79, Count: 5165
-Final Position: 81, Count: 5165
-Final Position: 21, Count: 5165
-Final Position: 36, Count: 5171
-Final Position: 0, Count: 5172
-Final Position: 7, Count: 5173
-Final Position: 0, Count: 5174
-Final Position: 4, Count: 5174
-Final Position: 37, Count: 5174
-Final Position: 76, Count: 5181
-Final Position: 0, Count: 5190
-Final Position: 63, Count: 5191
-Final Position: 23, Count: 5191
-Final Position: 50, Count: 5192
-Final Position: 0, Count: 5193
-Final Position: 80, Count: 5203
-Final Position: 19, Count: 5203
-Final Position: 0, Count: 5204
-Final Position: 95, Count: 5205
-Final Position: 0, Count: 5206
-Final Position: 97, Count: 5207
-Final Position: 69, Count: 5208
-Final Position: 47, Count: 5209
-Final Position: 40, Count: 5209
-Final Position: 0, Count: 5219
-Final Position: 40, Count: 5219
-Final Position: 39, Count: 5229
-Final Position: 67, Count: 5232
-Final Position: 95, Count: 5233
-Final Position: 49, Count: 5236
-Final Position: 10, Count: 5236
-Final Position: 0, Count: 5237
-Final Position: 65, Count: 5237
-Final Position: 0, Count: 5245
-Final Position: 46, Count: 5246
-Final Position: 72, Count: 5248
-Final Position: 78, Count: 5248
-Final Position: 0, Count: 5249
-Final Position: 40, Count: 5250
-Final Position: 68, Count: 5250
-Final Position: 24, Count: 5251
-Final Position: 0, Count: 5255
-Final Position: 49, Count: 5255
-Final Position: 33, Count: 5255
-Final Position: 0, Count: 5256
-Final Position: 17, Count: 5257
-Final Position: 0, Count: 5258
-Final Position: 7, Count: 5258
-Final Position: 0, Count: 5267
-Final Position: 76, Count: 5268
-Final Position: 0, Count: 5269
-Final Position: 38, Count: 5270
-Final Position: 91, Count: 5271
-Final Position: 52, Count: 5273
-Final Position: 99, Count: 5276
-Final Position: 0, Count: 5277
-Final Position: 51, Count: 5277
-Final Position: 0, Count: 5278
-Final Position: 75, Count: 5288
-Final Position: 95, Count: 5289
-Final Position: 0, Count: 5290
-Final Position: 40, Count: 5291
-Final Position: 0, Count: 5292
-Final Position: 35, Count: 5293
-Final Position: 7, Count: 5294
-Final Position: 21, Count: 5294
-Final Position: 58, Count: 5295
-Final Position: 37, Count: 5296
-Final Position: 0, Count: 5297
-Final Position: 52, Count: 5297
-Final Position: 0, Count: 5298
-Final Position: 32, Count: 5300
-Final Position: 91, Count: 5300
-Final Position: 58, Count: 5300
-Final Position: 85, Count: 5300
-Final Position: 0, Count: 5301
-Final Position: 63, Count: 5305
-Final Position: 47, Count: 5305
-Final Position: 82, Count: 5305
-Final Position: 15, Count: 5307
-Final Position: 81, Count: 5308
-Final Position: 43, Count: 5316
-Final Position: 0, Count: 5317
-Final Position: 73, Count: 5318
-Final Position: 0, Count: 5319
-Final Position: 3, Count: 5319
-Final Position: 21, Count: 5320
-Final Position: 86, Count: 5321
-Final Position: 48, Count: 5322
-Final Position: 39, Count: 5322
-Final Position: 25, Count: 5323
-Final Position: 0, Count: 5324
-Final Position: 34, Count: 5332
-Final Position: 0, Count: 5333
-Final Position: 25, Count: 5341
-Final Position: 60, Count: 5341
-Final Position: 51, Count: 5345
-Final Position: 82, Count: 5346
-Final Position: 60, Count: 5347
-Final Position: 3, Count: 5348
-Final Position: 9, Count: 5349
-Final Position: 0, Count: 5350
-Final Position: 67, Count: 5351
-Final Position: 6, Count: 5352
-Final Position: 11, Count: 5360
-Final Position: 0, Count: 5361
-Final Position: 98, Count: 5361
-Final Position: 0, Count: 5362
-Final Position: 35, Count: 5363
-Final Position: 0, Count: 5372
-Final Position: 43, Count: 5376
-Final Position: 10, Count: 5377
-Final Position: 0, Count: 5378
-Final Position: 58, Count: 5379
-Final Position: 0, Count: 5380
-Final Position: 82, Count: 5382
-Final Position: 19, Count: 5389
-Final Position: 0, Count: 5390
-Final Position: 18, Count: 5391
-Final Position: 83, Count: 5391
-Final Position: 24, Count: 5392
-Final Position: 32, Count: 5397
-Final Position: 0, Count: 5401
-Final Position: 55, Count: 5401
-Final Position: 0, Count: 5402
-Final Position: 5, Count: 5407
-Final Position: 92, Count: 5416
-Final Position: 55, Count: 5416
-Final Position: 31, Count: 5420
-Final Position: 92, Count: 5420
-Final Position: 0, Count: 5421
-Final Position: 71, Count: 5423
-Final Position: 76, Count: 5423
-Final Position: 54, Count: 5423
-Final Position: 0, Count: 5424
-Final Position: 71, Count: 5424
-Final Position: 0, Count: 5425
-Final Position: 54, Count: 5426
-Final Position: 51, Count: 5427
-Final Position: 45, Count: 5428
-Final Position: 74, Count: 5429
-Final Position: 86, Count: 5429
-Final Position: 70, Count: 5430
-Final Position: 89, Count: 5430
-Final Position: 0, Count: 5431
-Final Position: 62, Count: 5434
-Final Position: 0, Count: 5435
-Final Position: 12, Count: 5436
-Final Position: 73, Count: 5436
-Final Position: 50, Count: 5436
-Final Position: 5, Count: 5436
-Final Position: 22, Count: 5437
-Final Position: 98, Count: 5437
-Final Position: 0, Count: 5438
-Final Position: 19, Count: 5438
-Final Position: 0, Count: 5439
-Final Position: 54, Count: 5439
-Final Position: 95, Count: 5440
-Final Position: 0, Count: 5441
-Final Position: 21, Count: 5442
-Final Position: 0, Count: 5443
-Final Position: 88, Count: 5443
-Final Position: 0, Count: 5444
-Final Position: 56, Count: 5445
-Final Position: 74, Count: 5445
-Final Position: 73, Count: 5445
-Final Position: 0, Count: 5446
-Final Position: 34, Count: 5455
-Final Position: 10, Count: 5455
-Final Position: 35, Count: 5455
-Final Position: 0, Count: 5456
-Final Position: 65, Count: 5457
-Final Position: 0, Count: 5458
-Final Position: 30, Count: 5467
-Final Position: 50, Count: 5468
-Final Position: 0, Count: 5476
-Final Position: 15, Count: 5476
-Final Position: 70, Count: 5477
-Final Position: 56, Count: 5486
-Final Position: 62, Count: 5490
-Final Position: 0, Count: 5494
-Final Position: 73, Count: 5494
-Final Position: 26, Count: 5494
-Final Position: 79, Count: 5494
-Final Position: 96, Count: 5495
-Final Position: 93, Count: 5495
-Final Position: 0, Count: 5496
-Final Position: 46, Count: 5496
-Final Position: 33, Count: 5497
-Final Position: 0, Count: 5498
-Final Position: 47, Count: 5498
-Final Position: 77, Count: 5499
-Final Position: 25, Count: 5499
-Final Position: 10, Count: 5500
-Final Position: 61, Count: 5500
-Final Position: 69, Count: 5501
-Final Position: 74, Count: 5501
-Final Position: 26, Count: 5502
-Final Position: 0, Count: 5511
-Final Position: 73, Count: 5512
-Final Position: 0, Count: 5513
-Final Position: 97, Count: 5514
-Final Position: 80, Count: 5523
-Final Position: 27, Count: 5528
-Final Position: 0, Count: 5529
-Final Position: 72, Count: 5529
-Final Position: 13, Count: 5529
-Final Position: 86, Count: 5529
-Final Position: 58, Count: 5529
-Final Position: 43, Count: 5530
-Final Position: 29, Count: 5531
-Final Position: 46, Count: 5537
-Final Position: 9, Count: 5538
-Final Position: 0, Count: 5548
-Final Position: 49, Count: 5549
-Final Position: 46, Count: 5550
-Final Position: 0, Count: 5551
-Final Position: 26, Count: 5551
-Final Position: 92, Count: 5552
-Final Position: 71, Count: 5562
-Final Position: 28, Count: 5563
-Final Position: 54, Count: 5563
-Final Position: 60, Count: 5564
-Final Position: 0, Count: 5565
-Final Position: 13, Count: 5566
-Final Position: 5, Count: 5567
-Final Position: 0, Count: 5568
-Final Position: 87, Count: 5568
-Final Position: 0, Count: 5576
-Final Position: 10, Count: 5577
-Final Position: 74, Count: 5577
-Final Position: 0, Count: 5578
-Final Position: 12, Count: 5579
-Final Position: 19, Count: 5580
-Final Position: 98, Count: 5581
-Final Position: 83, Count: 5582
-Final Position: 43, Count: 5582
-Final Position: 72, Count: 5582
-Final Position: 4, Count: 5582
-Final Position: 42, Count: 5583
-Final Position: 33, Count: 5583
-Final Position: 46, Count: 5584
-Final Position: 0, Count: 5585
-Final Position: 69, Count: 5586
-Final Position: 70, Count: 5586
-Final Position: 96, Count: 5588
-Final Position: 7, Count: 5588
-Final Position: 12, Count: 5588
-Final Position: 0, Count: 5589
-Final Position: 76, Count: 5589
-Final Position: 97, Count: 5589
-Final Position: 43, Count: 5589
-Final Position: 42, Count: 5590
-Final Position: 0, Count: 5591
-Final Position: 77, Count: 5592
-Final Position: 0, Count: 5593
-Final Position: 46, Count: 5593
-Final Position: 0, Count: 5594
-Final Position: 94, Count: 5594
-Final Position: 51, Count: 5595
-Final Position: 90, Count: 5595
-Final Position: 0, Count: 5596
-Final Position: 68, Count: 5596
-Final Position: 0, Count: 5597
-Final Position: 96, Count: 5603
-Final Position: 18, Count: 5604
-Final Position: 17, Count: 5605
-Final Position: 6, Count: 5606
-Final Position: 0, Count: 5612
-Final Position: 69, Count: 5613
-Final Position: 61, Count: 5614
-Final Position: 18, Count: 5616
-Final Position: 0, Count: 5626
-Final Position: 26, Count: 5626
-Final Position: 71, Count: 5626
-Final Position: 14, Count: 5626
-Final Position: 64, Count: 5626
-Final Position: 41, Count: 5626
-Final Position: 13, Count: 5627
-Final Position: 0, Count: 5628
-Final Position: 55, Count: 5629
-Final Position: 0, Count: 5639
-Final Position: 63, Count: 5643
-Final Position: 0, Count: 5653
-Final Position: 58, Count: 5653
-Final Position: 0, Count: 5654
-Final Position: 6, Count: 5655
-Final Position: 67, Count: 5655
-Final Position: 30, Count: 5656
-Final Position: 46, Count: 5656
-Final Position: 0, Count: 5661
-Final Position: 94, Count: 5661
-Final Position: 0, Count: 5662
-Final Position: 65, Count: 5670
-Final Position: 22, Count: 5677
-Final Position: 0, Count: 5678
-Final Position: 19, Count: 5678
-Final Position: 77, Count: 5686
-Final Position: 87, Count: 5690
-Final Position: 73, Count: 5691
-Final Position: 65, Count: 5692
-Final Position: 0, Count: 5693
-Final Position: 90, Count: 5693
-Final Position: 39, Count: 5693
-Final Position: 53, Count: 5699
-Final Position: 82, Count: 5699
-Final Position: 0, Count: 5700
-Final Position: 24, Count: 5701
-Final Position: 0, Count: 5703
-Final Position: 88, Count: 5704
-Final Position: 69, Count: 5704
-Final Position: 53, Count: 5705
-Final Position: 20, Count: 5706
-Final Position: 6, Count: 5707
-Final Position: 90, Count: 5707
-Final Position: 0, Count: 5708
-Final Position: 80, Count: 5709
-Final Position: 24, Count: 5709
-Final Position: 18, Count: 5709
-Final Position: 0, Count: 5717
-Final Position: 20, Count: 5725
-Final Position: 73, Count: 5725
-Final Position: 0, Count: 5726
-Final Position: 16, Count: 5732
-Final Position: 0, Count: 5733
-Final Position: 74, Count: 5733
-Final Position: 0, Count: 5734
-Final Position: 21, Count: 5734
-Final Position: 75, Count: 5734
-Final Position: 0, Count: 5741
-Final Position: 64, Count: 5741
-Final Position: 0, Count: 5742
-Final Position: 52, Count: 5742
-Final Position: 0, Count: 5743
-Final Position: 96, Count: 5743
-Final Position: 2, Count: 5751
-Final Position: 15, Count: 5752
-Final Position: 62, Count: 5753
-Final Position: 42, Count: 5753
-Final Position: 51, Count: 5754
-Final Position: 77, Count: 5764
-Final Position: 75, Count: 5764
-Final Position: 41, Count: 5765
-Final Position: 60, Count: 5766
-Final Position: 78, Count: 5767
-Final Position: 0, Count: 5768
-Final Position: 31, Count: 5768
-Final Position: 0, Count: 5769
-Final Position: 61, Count: 5770
-Final Position: 16, Count: 5770
-Final Position: 83, Count: 5771
-Final Position: 50, Count: 5774
-Final Position: 33, Count: 5775
-Final Position: 0, Count: 5776
-Final Position: 13, Count: 5777
-Final Position: 18, Count: 5786
-Final Position: 0, Count: 5787
-Final Position: 89, Count: 5788
-Final Position: 0, Count: 5789
-Final Position: 22, Count: 5790
-Final Position: 61, Count: 5798
-Final Position: 0, Count: 5799
-Final Position: 10, Count: 5799
-Final Position: 0, Count: 5800
-Final Position: 59, Count: 5802
-Final Position: 41, Count: 5802
-Final Position: 15, Count: 5803
-Final Position: 0, Count: 5804
-Final Position: 31, Count: 5807
-Final Position: 55, Count: 5816
-Final Position: 28, Count: 5816
-Final Position: 56, Count: 5817
-Final Position: 29, Count: 5817
-Final Position: 36, Count: 5817
-Final Position: 68, Count: 5817
-Final Position: 28, Count: 5827
-Final Position: 0, Count: 5828
-Final Position: 93, Count: 5829
-Final Position: 0, Count: 5830
-Final Position: 82, Count: 5836
-Final Position: 61, Count: 5836
-Final Position: 0, Count: 5837
-Final Position: 99, Count: 5838
-Final Position: 0, Count: 5839
-Final Position: 48, Count: 5840
-Final Position: 71, Count: 5840
-Final Position: 0, Count: 5841
-Final Position: 38, Count: 5842
-Final Position: 86, Count: 5845
-Final Position: 0, Count: 5852
-Final Position: 5, Count: 5858
-Final Position: 36, Count: 5858
-Final Position: 0, Count: 5859
-Final Position: 3, Count: 5860
-Final Position: 16, Count: 5860
-Final Position: 84, Count: 5860
-Final Position: 0, Count: 5861
-Final Position: 91, Count: 5861
-Final Position: 30, Count: 5865
-Final Position: 25, Count: 5866
-Final Position: 0, Count: 5867
-Final Position: 96, Count: 5867
-Final Position: 3, Count: 5868
-Final Position: 0, Count: 5875
-Final Position: 71, Count: 5875
-Final Position: 0, Count: 5876
-Final Position: 81, Count: 5876
-Final Position: 73, Count: 5876
-Final Position: 67, Count: 5877
-Final Position: 69, Count: 5877
-Final Position: 70, Count: 5878
-Final Position: 67, Count: 5879
-Final Position: 91, Count: 5879
-Final Position: 0, Count: 5880
-Final Position: 84, Count: 5880
-Final Position: 70, Count: 5880
-Final Position: 84, Count: 5881
-Final Position: 0, Count: 5882
-Final Position: 19, Count: 5884
-Final Position: 18, Count: 5884
-Final Position: 48, Count: 5888
-Final Position: 64, Count: 5888
-Final Position: 0, Count: 5893
-Final Position: 37, Count: 5893
-Final Position: 63, Count: 5893
-Final Position: 43, Count: 5894
-Final Position: 0, Count: 5897
-Final Position: 44, Count: 5904
-Final Position: 5, Count: 5905
-Final Position: 41, Count: 5905
-Final Position: 15, Count: 5905
-Final Position: 0, Count: 5906
-Final Position: 56, Count: 5907
-Final Position: 0, Count: 5908
-Final Position: 75, Count: 5908
-Final Position: 94, Count: 5908
-Final Position: 6, Count: 5913
-Final Position: 0, Count: 5914
-Final Position: 69, Count: 5915
-Final Position: 0, Count: 5916
-Final Position: 30, Count: 5917
-Final Position: 85, Count: 5918
-Final Position: 0, Count: 5919
-Final Position: 50, Count: 5919
-Final Position: 0, Count: 5920
-Final Position: 79, Count: 5921
-Final Position: 64, Count: 5921
-Final Position: 0, Count: 5927
-Final Position: 65, Count: 5934
-Final Position: 85, Count: 5935
-Final Position: 86, Count: 5941
-Final Position: 78, Count: 5942
-Final Position: 60, Count: 5943
-Final Position: 86, Count: 5943
-Final Position: 41, Count: 5943
-Final Position: 56, Count: 5944
-Final Position: 0, Count: 5945
-Final Position: 92, Count: 5946
-Final Position: 0, Count: 5947
-Final Position: 80, Count: 5948
-Final Position: 16, Count: 5949
-Final Position: 79, Count: 5949
-Final Position: 0, Count: 5950
-Final Position: 15, Count: 5960
-Final Position: 0, Count: 5966
-Final Position: 51, Count: 5967
-Final Position: 0, Count: 5968
-Final Position: 1, Count: 5968
-Final Position: 97, Count: 5971
-Final Position: 83, Count: 5975
-Final Position: 9, Count: 5975
-Final Position: 80, Count: 5976
-Final Position: 0, Count: 5977
-Final Position: 76, Count: 5977
-Final Position: 60, Count: 5978
-Final Position: 0, Count: 5979
-Final Position: 92, Count: 5983
-Final Position: 19, Count: 5983
-Final Position: 38, Count: 5983
-Final Position: 59, Count: 5987
-Final Position: 34, Count: 5987
-Final Position: 0, Count: 5988
-Final Position: 10, Count: 5989
-Final Position: 91, Count: 5989
-Final Position: 75, Count: 5991
-Final Position: 0, Count: 5992
-Final Position: 79, Count: 5993
-Final Position: 0, Count: 5994
-Final Position: 2, Count: 5995
-Final Position: 64, Count: 5996
-Final Position: 0, Count: 5997
-Final Position: 78, Count: 5998
-Final Position: 54, Count: 5999
-Final Position: 18, Count: 5999
-Final Position: 9, Count: 5999
-Final Position: 0, Count: 6000
-Final Position: 16, Count: 6000
-Final Position: 69, Count: 6001
-Final Position: 0, Count: 6002
-Final Position: 75, Count: 6003
-Final Position: 0, Count: 6004
-Final Position: 15, Count: 6004
-Final Position: 93, Count: 6008
-Final Position: 0, Count: 6009
-Final Position: 38, Count: 6009
-Final Position: 26, Count: 6009
-Final Position: 47, Count: 6013
-Final Position: 78, Count: 6014
-Final Position: 0, Count: 6015
-Final Position: 73, Count: 6019
-Final Position: 97, Count: 6019
-Final Position: 65, Count: 6023
-Final Position: 0, Count: 6024
-Final Position: 60, Count: 6024
-Final Position: 0, Count: 6033
-Final Position: 45, Count: 6034
-Final Position: 29, Count: 6035
-Final Position: 7, Count: 6036
-Final Position: 38, Count: 6036
-Final Position: 36, Count: 6036
-Final Position: 46, Count: 6040
-Final Position: 0, Count: 6041
-Final Position: 91, Count: 6042
-Final Position: 43, Count: 6043
-Final Position: 91, Count: 6047
-Final Position: 93, Count: 6047
-Final Position: 65, Count: 6048
-Final Position: 87, Count: 6048
-Final Position: 84, Count: 6050
-Final Position: 69, Count: 6051
-Final Position: 52, Count: 6052
-Final Position: 82, Count: 6060
-Final Position: 56, Count: 6060
-Final Position: 85, Count: 6061
-Final Position: 0, Count: 6062
-Final Position: 92, Count: 6062
-Final Position: 0, Count: 6063
-Final Position: 51, Count: 6064
-Final Position: 5, Count: 6064
-Final Position: 41, Count: 6065
-Final Position: 64, Count: 6066
-Final Position: 61, Count: 6066
-Final Position: 0, Count: 6067
-Final Position: 10, Count: 6074
-Final Position: 76, Count: 6074
-Final Position: 7, Count: 6075
-Final Position: 95, Count: 6076
-Final Position: 0, Count: 6086
-Final Position: 84, Count: 6094
-Final Position: 0, Count: 6095
-Final Position: 11, Count: 6104
-Final Position: 30, Count: 6105
-Final Position: 98, Count: 6106
-Final Position: 79, Count: 6106
-Final Position: 96, Count: 6107
-Final Position: 89, Count: 6108
-Final Position: 56, Count: 6110
-Final Position: 0, Count: 6111
-Final Position: 2, Count: 6119
-Final Position: 0, Count: 6120
-Final Position: 19, Count: 6127
-Final Position: 93, Count: 6132
-Final Position: 7, Count: 6132
-Final Position: 53, Count: 6133
-Final Position: 0, Count: 6135
-Final Position: 85, Count: 6136
-Final Position: 50, Count: 6137
-Final Position: 0, Count: 6138
-Final Position: 81, Count: 6143
-Final Position: 10, Count: 6144
-Final Position: 18, Count: 6145
-Final Position: 5, Count: 6145
-Final Position: 69, Count: 6146
-Final Position: 0, Count: 6150
-Final Position: 65, Count: 6155
-Final Position: 0, Count: 6156
-Final Position: 21, Count: 6157
-Final Position: 39, Count: 6157
-Final Position: 45, Count: 6159
-Final Position: 41, Count: 6159
-Final Position: 76, Count: 6160
-Final Position: 34, Count: 6167
-Final Position: 0, Count: 6177
-Final Position: 77, Count: 6178
-Final Position: 71, Count: 6178
-Final Position: 0, Count: 6179
-Final Position: 30, Count: 6180
-Final Position: 55, Count: 6180
-Final Position: 62, Count: 6180
-Final Position: 82, Count: 6180
-Final Position: 76, Count: 6180
-Final Position: 0, Count: 6181
-Final Position: 26, Count: 6181
-Final Position: 28, Count: 6182
-Final Position: 6, Count: 6183
-Final Position: 0, Count: 6184
-Final Position: 97, Count: 6185
-Final Position: 0, Count: 6187
-Final Position: 2, Count: 6194
-Final Position: 0, Count: 6195
-Final Position: 98, Count: 6196
-Final Position: 0, Count: 6202
-Final Position: 79, Count: 6202
-Final Position: 0, Count: 6203
-Final Position: 20, Count: 6209
-Final Position: 57, Count: 6215
-Final Position: 3, Count: 6216
-Final Position: 0, Count: 6217
-Final Position: 93, Count: 6218
-Final Position: 98, Count: 6227
-Final Position: 0, Count: 6233
-Final Position: 18, Count: 6234
-Final Position: 0, Count: 6235
-Final Position: 82, Count: 6235
-Final Position: 5, Count: 6235
-Final Position: 0, Count: 6236
-Final Position: 40, Count: 6236
-Final Position: 97, Count: 6236
-Final Position: 0, Count: 6237
-Final Position: 43, Count: 6237
-Final Position: 0, Count: 6238
-Final Position: 8, Count: 6240
-Final Position: 0, Count: 6241
-Final Position: 26, Count: 6241
-Final Position: 87, Count: 6242
-Final Position: 0, Count: 6243
-Final Position: 75, Count: 6244
-Final Position: 66, Count: 6245
-Final Position: 44, Count: 6246
-Final Position: 0, Count: 6247
-Final Position: 32, Count: 6247
-Final Position: 62, Count: 6250
-Final Position: 36, Count: 6250
-Final Position: 73, Count: 6250
-Final Position: 68, Count: 6250
-Final Position: 0, Count: 6251
-Final Position: 62, Count: 6252
-Final Position: 0, Count: 6253
-Final Position: 53, Count: 6253
-Final Position: 0, Count: 6254
-Final Position: 88, Count: 6254
-Final Position: 23, Count: 6258
-Final Position: 0, Count: 6259
-Final Position: 28, Count: 6260
-Final Position: 75, Count: 6260
-Final Position: 0, Count: 6261
-Final Position: 5, Count: 6269
-Final Position: 46, Count: 6270
-Final Position: 21, Count: 6272
-Final Position: 0, Count: 6273
-Final Position: 11, Count: 6274
-Final Position: 0, Count: 6275
-Final Position: 93, Count: 6276
-Final Position: 0, Count: 6281
-Final Position: 38, Count: 6282
-Final Position: 0, Count: 6283
-Final Position: 91, Count: 6284
-Final Position: 96, Count: 6284
-Final Position: 0, Count: 6285
-Final Position: 1, Count: 6286
-Final Position: 22, Count: 6286
-Final Position: 39, Count: 6286
-Final Position: 88, Count: 6287
-Final Position: 0, Count: 6288
-Final Position: 50, Count: 6289
-Final Position: 13, Count: 6290
-Final Position: 0, Count: 6291
-Final Position: 21, Count: 6291
-Final Position: 49, Count: 6292
-Final Position: 0, Count: 6293
-Final Position: 98, Count: 6298
-Final Position: 0, Count: 6299
-Final Position: 48, Count: 6299
-Final Position: 0, Count: 6308
-Final Position: 86, Count: 6309
-Final Position: 9, Count: 6309
-Final Position: 0, Count: 6310
-Final Position: 53, Count: 6310
-Final Position: 0, Count: 6311
-Final Position: 85, Count: 6311
-Final Position: 72, Count: 6312
-Final Position: 6, Count: 6312
-Final Position: 72, Count: 6312
-Final Position: 51, Count: 6313
-Final Position: 77, Count: 6315
-Final Position: 34, Count: 6316
-Final Position: 10, Count: 6317
-Final Position: 83, Count: 6317
-Final Position: 58, Count: 6318
-Final Position: 0, Count: 6319
-Final Position: 15, Count: 6320
-Final Position: 68, Count: 6320
-Final Position: 0, Count: 6321
-Final Position: 7, Count: 6321
-Final Position: 2, Count: 6321
-Final Position: 1, Count: 6322
-Final Position: 41, Count: 6323
-Final Position: 76, Count: 6323
-Final Position: 40, Count: 6324
-Final Position: 10, Count: 6324
-Final Position: 3, Count: 6325
-Final Position: 58, Count: 6325
-Final Position: 64, Count: 6326
-Final Position: 10, Count: 6326
-Final Position: 94, Count: 6329
-Final Position: 0, Count: 6330
-Final Position: 59, Count: 6331
-Final Position: 0, Count: 6332
-Final Position: 13, Count: 6333
-Final Position: 19, Count: 6334
-Final Position: 44, Count: 6342
-Final Position: 2, Count: 6342
-Final Position: 23, Count: 6343
-Final Position: 6, Count: 6344
-Final Position: 0, Count: 6345
-Final Position: 47, Count: 6346
-Final Position: 55, Count: 6346
-Final Position: 0, Count: 6347
-Final Position: 88, Count: 6347
-Final Position: 51, Count: 6348
-Final Position: 43, Count: 6349
-Final Position: 0, Count: 6350
-Final Position: 25, Count: 6350
-Final Position: 52, Count: 6350
-Final Position: 22, Count: 6350
-Final Position: 93, Count: 6350
-Final Position: 84, Count: 6350
-Final Position: 0, Count: 6351
-Final Position: 61, Count: 6351
-Final Position: 0, Count: 6352
-Final Position: 64, Count: 6353
-Final Position: 92, Count: 6354
-Final Position: 45, Count: 6354
-Final Position: 70, Count: 6355
-Final Position: 45, Count: 6356
-Final Position: 61, Count: 6356
-Final Position: 0, Count: 6357
-Final Position: 32, Count: 6357
-Final Position: 42, Count: 6358
-Final Position: 33, Count: 6359
-Final Position: 78, Count: 6359
-Final Position: 0, Count: 6360
-Final Position: 32, Count: 6360
-Final Position: 75, Count: 6360
-Final Position: 0, Count: 6361
-Final Position: 46, Count: 6362
-Final Position: 39, Count: 6366
-Final Position: 27, Count: 6366
-Final Position: 12, Count: 6367
-Final Position: 57, Count: 6367
-Final Position: 0, Count: 6368
-Final Position: 69, Count: 6368
-Final Position: 56, Count: 6368
-Final Position: 50, Count: 6371
-Final Position: 0, Count: 6373
-Final Position: 64, Count: 6373
-Final Position: 81, Count: 6374
-Final Position: 51, Count: 6381
-Final Position: 77, Count: 6390
-Final Position: 45, Count: 6391
-Final Position: 14, Count: 6395
-Final Position: 58, Count: 6395
-Final Position: 0, Count: 6405
-Final Position: 86, Count: 6406
-Final Position: 40, Count: 6407
-Final Position: 78, Count: 6407
-Final Position: 68, Count: 6407
-Final Position: 30, Count: 6408
-Final Position: 33, Count: 6408
-Final Position: 0, Count: 6409
-Final Position: 97, Count: 6410
-Final Position: 0, Count: 6415
-Final Position: 69, Count: 6416
-Final Position: 8, Count: 6417
-Final Position: 87, Count: 6418
-Final Position: 0, Count: 6419
-Final Position: 38, Count: 6420
-Final Position: 0, Count: 6421
-Final Position: 17, Count: 6421
-Final Position: 27, Count: 6422
-Final Position: 32, Count: 6422
-Final Position: 0, Count: 6423
-Final Position: 39, Count: 6432
-Final Position: 52, Count: 6437
-Final Position: 96, Count: 6437
-Final Position: 39, Count: 6437
-Final Position: 0, Count: 6438
-Final Position: 3, Count: 6438
-Final Position: 53, Count: 6438
-Final Position: 48, Count: 6439
-Final Position: 72, Count: 6439
-Final Position: 0, Count: 6440
-Final Position: 49, Count: 6440
-Final Position: 37, Count: 6440
-Final Position: 65, Count: 6441
-Final Position: 31, Count: 6441
-Final Position: 0, Count: 6446
-Final Position: 45, Count: 6449
-Final Position: 87, Count: 6449
-Final Position: 0, Count: 6450
-Final Position: 9, Count: 6459
-Final Position: 71, Count: 6459
-Final Position: 23, Count: 6460
-Final Position: 8, Count: 6461
-Final Position: 5, Count: 6461
-Final Position: 81, Count: 6462
-Final Position: 0, Count: 6463
-Final Position: 12, Count: 6464
-Final Position: 0, Count: 6465
-Final Position: 42, Count: 6466
-Final Position: 69, Count: 6466
-Final Position: 0, Count: 6467
-Final Position: 72, Count: 6468
-Final Position: 34, Count: 6468
-Final Position: 84, Count: 6470
-Final Position: 30, Count: 6470
-Final Position: 87, Count: 6473
-Final Position: 47, Count: 6473
-Final Position: 15, Count: 6474
-Final Position: 0, Count: 6475
-Final Position: 56, Count: 6476
-Final Position: 0, Count: 6486
-Final Position: 25, Count: 6487
-Final Position: 42, Count: 6488
-Final Position: 15, Count: 6490
-Final Position: 46, Count: 6490
-Final Position: 38, Count: 6491
-Final Position: 34, Count: 6491
-Final Position: 52, Count: 6492
-Final Position: 0, Count: 6493
-Final Position: 8, Count: 6494
-Final Position: 64, Count: 6502
-Final Position: 25, Count: 6503
-Final Position: 26, Count: 6503
-Final Position: 28, Count: 6504
-Final Position: 74, Count: 6505
-Final Position: 0, Count: 6506
-Final Position: 47, Count: 6506
-Final Position: 22, Count: 6506
-Final Position: 97, Count: 6506
-Final Position: 47, Count: 6507
-Final Position: 81, Count: 6507
-Final Position: 39, Count: 6507
-Final Position: 57, Count: 6507
-Final Position: 26, Count: 6507
-Final Position: 0, Count: 6508
-Final Position: 37, Count: 6509
-Final Position: 92, Count: 6517
-Final Position: 10, Count: 6517
-Final Position: 16, Count: 6517
-Final Position: 55, Count: 6517
-Final Position: 0, Count: 6518
-Final Position: 28, Count: 6519
-Final Position: 86, Count: 6519
-Final Position: 28, Count: 6528
-Final Position: 82, Count: 6537
-Final Position: 2, Count: 6538
-Final Position: 0, Count: 6539
-Final Position: 60, Count: 6539
-Final Position: 62, Count: 6540
-Final Position: 0, Count: 6541
-Final Position: 64, Count: 6542
-Final Position: 1, Count: 6543
-Final Position: 90, Count: 6543
-Final Position: 91, Count: 6543
-Final Position: 1, Count: 6543
-Final Position: 0, Count: 6544
-Final Position: 60, Count: 6545
-Final Position: 28, Count: 6546
-Final Position: 67, Count: 6547
-Final Position: 77, Count: 6548
-Final Position: 85, Count: 6549
-Final Position: 83, Count: 6550
-Final Position: 39, Count: 6551
-Final Position: 0, Count: 6558
-Final Position: 50, Count: 6559
-Final Position: 41, Count: 6560
-Final Position: 0, Count: 6566
-Final Position: 77, Count: 6567
-Final Position: 0, Count: 6568
-Final Position: 54, Count: 6568
-Final Position: 0, Count: 6569
-Final Position: 48, Count: 6569
-Final Position: 0, Count: 6570
-Final Position: 81, Count: 6572
-Final Position: 54, Count: 6573
-Final Position: 42, Count: 6573
-Final Position: 80, Count: 6577
-Final Position: 58, Count: 6578
-Final Position: 0, Count: 6585
-Final Position: 26, Count: 6585
-Final Position: 48, Count: 6586
-Final Position: 0, Count: 6587
-Final Position: 1, Count: 6587
-Final Position: 53, Count: 6588
-Final Position: 20, Count: 6589
-Final Position: 0, Count: 6590
-Final Position: 55, Count: 6600
-Final Position: 44, Count: 6601
-Final Position: 0, Count: 6602
-Final Position: 5, Count: 6602
-Final Position: 72, Count: 6605
-Final Position: 0, Count: 6606
-Final Position: 12, Count: 6606
-Final Position: 88, Count: 6616
-Final Position: 87, Count: 6617
-Final Position: 34, Count: 6617
-Final Position: 13, Count: 6618
-Final Position: 0, Count: 6619
-Final Position: 90, Count: 6619
-Final Position: 52, Count: 6620
-Final Position: 30, Count: 6621
-Final Position: 52, Count: 6621
-Final Position: 28, Count: 6621
-Final Position: 0, Count: 6622
-Final Position: 27, Count: 6631
-Final Position: 26, Count: 6631
-Final Position: 98, Count: 6631
-Final Position: 1, Count: 6631
-Final Position: 0, Count: 6632
-Final Position: 95, Count: 6639
-Final Position: 65, Count: 6639
-Final Position: 0, Count: 6640
-Final Position: 55, Count: 6641
-Final Position: 0, Count: 6642
-Final Position: 3, Count: 6642
-Final Position: 75, Count: 6642
-Final Position: 0, Count: 6643
-Final Position: 8, Count: 6644
-Final Position: 58, Count: 6644
-Final Position: 14, Count: 6644
-Final Position: 0, Count: 6645
-Final Position: 24, Count: 6645
-Final Position: 0, Count: 6653
-Final Position: 39, Count: 6653
-Final Position: 12, Count: 6653
-Final Position: 6, Count: 6654
-Final Position: 0, Count: 6655
-Final Position: 26, Count: 6662
-Final Position: 83, Count: 6662
-Final Position: 0, Count: 6664
-Final Position: 35, Count: 6664
-Final Position: 59, Count: 6664
-Final Position: 52, Count: 6664
-Final Position: 63, Count: 6664
-Final Position: 0, Count: 6665
-Final Position: 85, Count: 6665
-Final Position: 50, Count: 6665
-Final Position: 0, Count: 6670
-Final Position: 58, Count: 6670
-Final Position: 11, Count: 6671
-Final Position: 22, Count: 6672
-Final Position: 0, Count: 6673
-Final Position: 78, Count: 6674
-Final Position: 8, Count: 6682
-Final Position: 0, Count: 6683
-Final Position: 93, Count: 6686
-Final Position: 0, Count: 6687
-Final Position: 7, Count: 6688
-Final Position: 0, Count: 6698
-Final Position: 63, Count: 6698
-Final Position: 88, Count: 6699
-Final Position: 95, Count: 6700
-Final Position: 34, Count: 6700
-Final Position: 65, Count: 6701
-Final Position: 0, Count: 6702
-Final Position: 44, Count: 6705
-Final Position: 91, Count: 6705
-Final Position: 87, Count: 6705
-Final Position: 0, Count: 6706
-Final Position: 7, Count: 6707
-Final Position: 15, Count: 6708
-Final Position: 0, Count: 6709
-Final Position: 29, Count: 6710
-Final Position: 86, Count: 6711
-Final Position: 19, Count: 6712
-Final Position: 0, Count: 6713
-Final Position: 47, Count: 6713
-Final Position: 73, Count: 6713
-Final Position: 91, Count: 6713
-Final Position: 99, Count: 6713
-Final Position: 0, Count: 6714
-Final Position: 69, Count: 6715
-Final Position: 94, Count: 6716
-Final Position: 87, Count: 6716
-Final Position: 0, Count: 6717
-Final Position: 61, Count: 6717
-Final Position: 0, Count: 6718
-Final Position: 52, Count: 6718
-Final Position: 21, Count: 6718
-Final Position: 72, Count: 6718
-Final Position: 41, Count: 6719
-Final Position: 19, Count: 6719
-Final Position: 0, Count: 6720
-Final Position: 47, Count: 6721
-Final Position: 77, Count: 6722
-Final Position: 0, Count: 6723
-Final Position: 40, Count: 6732
-Final Position: 4, Count: 6733
-Final Position: 0, Count: 6734
-Final Position: 20, Count: 6734
-Final Position: 16, Count: 6735
-Final Position: 68, Count: 6736
-Final Position: 12, Count: 6743
-Final Position: 69, Count: 6747
-Final Position: 0, Count: 6748
-Final Position: 2, Count: 6749
-Final Position: 95, Count: 6749
-Final Position: 65, Count: 6749
-Final Position: 77, Count: 6749
-Final Position: 0, Count: 6750
-Final Position: 22, Count: 6750
-Final Position: 60, Count: 6750
-Final Position: 71, Count: 6750
-Final Position: 21, Count: 6753
-Final Position: 51, Count: 6753
-Final Position: 0, Count: 6754
-Final Position: 33, Count: 6754
-Final Position: 61, Count: 6761
-Final Position: 0, Count: 6762
-Final Position: 44, Count: 6771
-Final Position: 0, Count: 6778
-Final Position: 26, Count: 6779
-Final Position: 28, Count: 6784
-Final Position: 62, Count: 6785
-Final Position: 0, Count: 6788
-Final Position: 67, Count: 6788
-Final Position: 70, Count: 6791
-Final Position: 16, Count: 6792
-Final Position: 5, Count: 6797
-Final Position: 0, Count: 6798
-Final Position: 62, Count: 6799
-Final Position: 1, Count: 6800
-Final Position: 26, Count: 6803
-Final Position: 14, Count: 6804
-Final Position: 56, Count: 6805
-Final Position: 80, Count: 6805
-Final Position: 26, Count: 6805
-Final Position: 0, Count: 6806
-Final Position: 77, Count: 6807
-Final Position: 0, Count: 6808
-Final Position: 69, Count: 6808
-Final Position: 9, Count: 6808
-Final Position: 27, Count: 6808
-Final Position: 37, Count: 6809
-Final Position: 35, Count: 6811
-Final Position: 24, Count: 6811
-Final Position: 46, Count: 6811
-Final Position: 9, Count: 6814
-Final Position: 86, Count: 6815
-Final Position: 13, Count: 6815
-Final Position: 31, Count: 6816
-Final Position: 20, Count: 6816
-Final Position: 33, Count: 6816
-Final Position: 6, Count: 6816
-Final Position: 47, Count: 6816
-Final Position: 26, Count: 6816
-Final Position: 0, Count: 6817
-Final Position: 97, Count: 6818
-Final Position: 0, Count: 6819
-Final Position: 75, Count: 6826
-Final Position: 12, Count: 6834
-Final Position: 18, Count: 6839
-Final Position: 0, Count: 6840
-Final Position: 51, Count: 6845
-Final Position: 65, Count: 6851
-Final Position: 19, Count: 6851
-Final Position: 0, Count: 6852
-Final Position: 86, Count: 6852
-Final Position: 59, Count: 6852
-Final Position: 91, Count: 6852
-Final Position: 0, Count: 6853
-Final Position: 75, Count: 6854
-Final Position: 64, Count: 6855
-Final Position: 51, Count: 6855
-Final Position: 59, Count: 6855
-Final Position: 79, Count: 6856
-Final Position: 71, Count: 6865
-Final Position: 25, Count: 6866
-Final Position: 70, Count: 6871
-Final Position: 84, Count: 6872
-Final Position: 67, Count: 6873
-Final Position: 87, Count: 6877
-Final Position: 20, Count: 6881
-Final Position: 10, Count: 6881
-Final Position: 31, Count: 6881
-Final Position: 0, Count: 6882
-Final Position: 82, Count: 6883
-Final Position: 40, Count: 6883
-Final Position: 11, Count: 6883
-Final Position: 0, Count: 6884
-Final Position: 65, Count: 6884
-Final Position: 31, Count: 6884
-Final Position: 16, Count: 6885
-Final Position: 0, Count: 6891
-Final Position: 47, Count: 6891
-Final Position: 77, Count: 6899
-Final Position: 0, Count: 6900
-Final Position: 4, Count: 6901
-Final Position: 57, Count: 6901
-Final Position: 0, Count: 6902
-Final Position: 10, Count: 6903
-Final Position: 32, Count: 6903
-Final Position: 0, Count: 6904
-Final Position: 2, Count: 6910
-Final Position: 90, Count: 6910
-Final Position: 70, Count: 6910
-Final Position: 95, Count: 6911
-Final Position: 0, Count: 6918
-Final Position: 72, Count: 6924
-Final Position: 98, Count: 6925
-Final Position: 51, Count: 6926
-Final Position: 76, Count: 6927
-Final Position: 73, Count: 6927
-Final Position: 71, Count: 6927
-Final Position: 0, Count: 6928
-Final Position: 28, Count: 6928
-Final Position: 63, Count: 6929
-Final Position: 18, Count: 6930
-Final Position: 8, Count: 6930
-Final Position: 0, Count: 6935
-Final Position: 94, Count: 6936
-Final Position: 19, Count: 6940
-Final Position: 39, Count: 6940
-Final Position: 0, Count: 6941
-Final Position: 48, Count: 6941
-Final Position: 39, Count: 6943
-Final Position: 29, Count: 6943
-Final Position: 36, Count: 6943
-Final Position: 52, Count: 6943
-Final Position: 68, Count: 6949
-Final Position: 29, Count: 6950
-Final Position: 54, Count: 6959
-Final Position: 0, Count: 6960
-Final Position: 44, Count: 6960
-Final Position: 0, Count: 6961
-Final Position: 5, Count: 6962
-Final Position: 37, Count: 6964
-Final Position: 69, Count: 6965
-Final Position: 83, Count: 6975
-Final Position: 81, Count: 6975
-Final Position: 26, Count: 6975
-Final Position: 92, Count: 6975
-Final Position: 19, Count: 6982
-Final Position: 72, Count: 6982
-Final Position: 0, Count: 6987
-Final Position: 47, Count: 6988
-Final Position: 86, Count: 6988
-Final Position: 85, Count: 6997
-Final Position: 0, Count: 6999
-Final Position: 88, Count: 6999
-Final Position: 85, Count: 7001
-Final Position: 0, Count: 7002
-Final Position: 53, Count: 7002
-Final Position: 24, Count: 7002
-Final Position: 72, Count: 7003
-Final Position: 58, Count: 7003
-Final Position: 62, Count: 7005
-Final Position: 0, Count: 7006
-Final Position: 95, Count: 7007
-Final Position: 74, Count: 7007
-Final Position: 49, Count: 7007
-Final Position: 84, Count: 7008
-Final Position: 74, Count: 7013
-Final Position: 97, Count: 7014
-Final Position: 10, Count: 7019
-Final Position: 71, Count: 7020
-Final Position: 0, Count: 7026
-Final Position: 50, Count: 7026
-Final Position: 0, Count: 7027
-Final Position: 8, Count: 7028
-Final Position: 23, Count: 7028
-Final Position: 0, Count: 7029
-Final Position: 77, Count: 7030
-Final Position: 97, Count: 7031
-Final Position: 0, Count: 7032
-Final Position: 25, Count: 7032
-Final Position: 34, Count: 7033
-Final Position: 0, Count: 7034
-Final Position: 59, Count: 7034
-Final Position: 67, Count: 7035
-Final Position: 88, Count: 7036
-Final Position: 56, Count: 7037
-Final Position: 0, Count: 7038
-Final Position: 96, Count: 7038
-Final Position: 32, Count: 7039
-Final Position: 73, Count: 7040
-Final Position: 59, Count: 7040
-Final Position: 66, Count: 7041
-Final Position: 47, Count: 7041
-Final Position: 2, Count: 7042
-Final Position: 35, Count: 7042
-Final Position: 43, Count: 7043
-Final Position: 40, Count: 7043
-Final Position: 27, Count: 7044
-Final Position: 94, Count: 7044
-Final Position: 0, Count: 7045
-Final Position: 35, Count: 7045
-Final Position: 95, Count: 7045
-Final Position: 79, Count: 7045
-Final Position: 39, Count: 7045
-Final Position: 64, Count: 7045
-Final Position: 1, Count: 7045
-Final Position: 34, Count: 7045
-Final Position: 0, Count: 7046
-Final Position: 98, Count: 7047
-Final Position: 56, Count: 7048
-Final Position: 0, Count: 7049
-Final Position: 34, Count: 7049
-Final Position: 25, Count: 7050
-Final Position: 20, Count: 7050
-Final Position: 31, Count: 7050
-Final Position: 88, Count: 7050
-Final Position: 0, Count: 7051
-Final Position: 38, Count: 7052
-Final Position: 0, Count: 7053
-Final Position: 81, Count: 7054
-Final Position: 17, Count: 7054
-Final Position: 0, Count: 7055
-Final Position: 42, Count: 7056
-Final Position: 0, Count: 7057
-Final Position: 88, Count: 7058
-Final Position: 69, Count: 7059
-Final Position: 0, Count: 7060
-Final Position: 87, Count: 7060
-Final Position: 62, Count: 7060
-Final Position: 32, Count: 7060
-Final Position: 43, Count: 7060
-Final Position: 96, Count: 7061
-Final Position: 11, Count: 7062
-Final Position: 42, Count: 7062
-Final Position: 16, Count: 7062
-Final Position: 70, Count: 7063
-Final Position: 54, Count: 7063
-Final Position: 98, Count: 7063
-Final Position: 8, Count: 7064
-Final Position: 40, Count: 7064
-Final Position: 39, Count: 7064
-Final Position: 78, Count: 7064
-Final Position: 33, Count: 7064
-Final Position: 56, Count: 7064
-Final Position: 97, Count: 7064
-Final Position: 87, Count: 7064
-Final Position: 24, Count: 7065
-Final Position: 25, Count: 7065
-Final Position: 24, Count: 7065
-Final Position: 19, Count: 7065
-Final Position: 67, Count: 7065
-Final Position: 58, Count: 7065
-Final Position: 13, Count: 7065
-Final Position: 4, Count: 7065
-Final Position: 89, Count: 7066
-Final Position: 81, Count: 7066
-Final Position: 61, Count: 7066
-Final Position: 84, Count: 7066
-Final Position: 54, Count: 7066
-Final Position: 60, Count: 7066
-Final Position: 87, Count: 7066
-Final Position: 36, Count: 7067
-Final Position: 21, Count: 7067
-Final Position: 49, Count: 7067
-Final Position: 82, Count: 7067
-Final Position: 86, Count: 7067
-Final Position: 65, Count: 7067
-Final Position: 53, Count: 7067
-Final Position: 68, Count: 7067
-Final Position: 60, Count: 7067
-Final Position: 51, Count: 7067
-Final Position: 24, Count: 7067
-Final Position: 43, Count: 7067
-Final Position: 45, Count: 7067
-Final Position: 22, Count: 7067
-Final Position: 48, Count: 7067
-Final Position: 63, Count: 7067
-Final Position: 35, Count: 7067
-Answer: 7067
+Invalid Num : 989989
+Invalid Num : 990990
+Invalid Num : 991991
+Invalid Num : 992992
+Invalid Num : 993993
+Invalid Num : 994994
+Invalid Num : 995995
+Invalid Num : 996996
+Invalid Num : 997997
+Invalid Num : 998998
+Invalid Num : 999999
+Invalid Num : 6969
+Invalid Num : 7070
+Invalid Num : 7171
+Invalid Num : 7272
+Invalid Num : 7373
+Invalid Num : 7474
+Invalid Num : 7575
+Invalid Num : 7676
+Invalid Num : 7777
+Invalid Num : 7878
+Invalid Num : 7979
+Invalid Num : 8080
+Invalid Num : 8181
+Invalid Num : 8282
+Invalid Num : 8383
+Invalid Num : 8484
+Invalid Num : 8585
+Invalid Num : 8686
+Invalid Num : 8787
+Invalid Num : 8888
+Invalid Num : 8989
+Invalid Num : 9090
+Invalid Num : 9191
+Invalid Num : 9292
+Invalid Num : 9393
+Invalid Num : 13121312
+Invalid Num : 13131313
+Invalid Num : 13141314
+Invalid Num : 13151315
+Invalid Num : 4444444444
+Invalid Num : 26222622
+Invalid Num : 26232623
+Invalid Num : 26242624
+Invalid Num : 26252625
+Invalid Num : 26262626
+Invalid Num : 26272627
+Invalid Num : 26282628
+Invalid Num : 26292629
+Invalid Num : 26302630
+Invalid Num : 26312631
+Invalid Num : 26322632
+Invalid Num : 26332633
+Invalid Num : 26342634
+Invalid Num : 26352635
+Invalid Num : 26362636
+Invalid Num : 26372637
+Invalid Num : 224224
+Invalid Num : 225225
+Invalid Num : 226226
+Invalid Num : 227227
+Invalid Num : 228228
+Invalid Num : 229229
+Invalid Num : 230230
+Invalid Num : 231231
+Invalid Num : 232232
+Invalid Num : 233233
+Invalid Num : 234234
+Invalid Num : 235235
+Invalid Num : 236236
+Invalid Num : 237237
+Invalid Num : 238238
+Invalid Num : 239239
+Invalid Num : 240240
+Invalid Num : 241241
+Invalid Num : 242242
+Invalid Num : 243243
+Invalid Num : 244244
+Invalid Num : 245245
+Invalid Num : 246246
+Invalid Num : 247247
+Invalid Num : 248248
+Invalid Num : 249249
+Invalid Num : 250250
+Invalid Num : 251251
+Invalid Num : 252252
+Invalid Num : 253253
+Invalid Num : 254254
+Invalid Num : 255255
+Invalid Num : 256256
+Invalid Num : 257257
+Invalid Num : 258258
+Invalid Num : 259259
+Invalid Num : 260260
+Invalid Num : 261261
+Invalid Num : 262262
+Invalid Num : 263263
+Invalid Num : 264264
+Invalid Num : 265265
+Invalid Num : 266266
+Invalid Num : 267267
+Invalid Num : 268268
+Invalid Num : 269269
+Invalid Num : 270270
+Invalid Num : 271271
+Invalid Num : 272272
+Invalid Num : 273273
+Invalid Num : 274274
+Invalid Num : 275275
+Invalid Num : 276276
+Invalid Num : 277277
+Invalid Num : 278278
+Invalid Num : 279279
+Invalid Num : 280280
+Invalid Num : 281281
+Invalid Num : 282282
+Invalid Num : 283283
+Invalid Num : 284284
+Invalid Num : 285285
+Invalid Num : 286286
+Invalid Num : 2929
+Invalid Num : 3030
+Invalid Num : 3131
+Invalid Num : 3232
+Invalid Num : 3333
+Invalid Num : 100100
+Invalid Num : 101101
+Invalid Num : 102102
+Invalid Num : 103103
+Invalid Num : 104104
+Invalid Num : 105105
+Invalid Num : 106106
+Invalid Num : 107107
+Invalid Num : 108108
+Invalid Num : 109109
+Invalid Num : 110110
+Invalid Num : 111111
+Invalid Num : 112112
+Invalid Num : 113113
+Invalid Num : 114114
+Invalid Num : 115115
+Invalid Num : 55
+Invalid Num : 66
+Invalid Num : 95749574
+Invalid Num : 95759575
+Invalid Num : 95769576
+Invalid Num : 67636763
+Invalid Num : 67646764
+Invalid Num : 67656765
+Invalid Num : 67666766
+Invalid Num : 67676767
+Invalid Num : 67686768
+Invalid Num : 67696769
+Invalid Num : 67706770
+Invalid Num : 67716771
+Invalid Num : 67726772
+Invalid Num : 2481124811
+Invalid Num : 615615
+Invalid Num : 616616
+Invalid Num : 617617
+Invalid Num : 618618
+Invalid Num : 619619
+Invalid Num : 620620
+Invalid Num : 621621
+Invalid Num : 622622
+Invalid Num : 623623
+Invalid Num : 624624
+Invalid Num : 625625
+Invalid Num : 626626
+Invalid Num : 627627
+Invalid Num : 628628
+Invalid Num : 629629
+Invalid Num : 630630
+Invalid Num : 631631
+Invalid Num : 632632
+Invalid Num : 633633
+Invalid Num : 634634
+Invalid Num : 635635
+Invalid Num : 636636
+Invalid Num : 637637
+Invalid Num : 638638
+Invalid Num : 9494
+Invalid Num : 9595
+Invalid Num : 9696
+Invalid Num : 9797
+Invalid Num : 9898
+Invalid Num : 9999
+Invalid Num : 99
+Invalid Num : 452452
+Invalid Num : 453453
+Invalid Num : 454454
+Invalid Num : 455455
+Invalid Num : 456456
+Invalid Num : 457457
+Invalid Num : 458458
+Invalid Num : 459459
+Invalid Num : 460460
+Invalid Num : 461461
+Invalid Num : 462462
+Invalid Num : 463463
+Invalid Num : 464464
+Invalid Num : 465465
+Invalid Num : 466466
+Invalid Num : 467467
+Invalid Num : 468468
+Invalid Num : 469469
+Invalid Num : 470470
+Invalid Num : 471471
+Invalid Num : 472472
+Invalid Num : 473473
+Invalid Num : 474474
+Invalid Num : 475475
+Invalid Num : 476476
+Invalid Num : 477477
+Invalid Num : 478478
+Invalid Num : 479479
+Invalid Num : 480480
+Invalid Num : 481481
+Invalid Num : 482482
+Invalid Num : 483483
+Invalid Num : 484484
+Invalid Num : 485485
+Invalid Num : 486486
+Invalid Num : 487487
+Invalid Num : 351351
+Invalid Num : 352352
+Invalid Num : 353353
+Invalid Num : 354354
+Invalid Num : 355355
+Invalid Num : 356356
+Invalid Num : 357357
+Invalid Num : 358358
+Invalid Num : 359359
+Invalid Num : 360360
+Invalid Num : 361361
+Invalid Num : 362362
+Invalid Num : 363363
+Invalid Num : 364364
+Invalid Num : 365365
+Invalid Num : 366366
+Invalid Num : 367367
+Invalid Num : 368368
+Invalid Num : 369369
+Invalid Num : 370370
+Invalid Num : 371371
+Invalid Num : 372372
+Invalid Num : 373373
+Invalid Num : 374374
+Invalid Num : 375375
+Invalid Num : 376376
+Invalid Num : 377377
+Invalid Num : 378378
+Invalid Num : 379379
+Invalid Num : 380380
+Invalid Num : 381381
+Invalid Num : 382382
+Invalid Num : 383383
+Invalid Num : 384384
+Invalid Num : 385385
+Invalid Num : 386386
+Invalid Num : 387387
+Invalid Num : 388388
+Invalid Num : 389389
+Invalid Num : 390390
+Invalid Num : 391391
+Invalid Num : 392392
+Invalid Num : 393393
+Invalid Num : 394394
+Invalid Num : 395395
+Invalid Num : 396396
+Invalid Num : 397397
+Invalid Num : 398398
+Invalid Num : 399399
+Invalid Num : 400400
+Invalid Num : 401401
+Invalid Num : 402402
+Invalid Num : 403403
+Invalid Num : 404404
+Invalid Num : 405405
+Invalid Num : 406406
+Invalid Num : 407407
+Invalid Num : 408408
+Invalid Num : 409409
+Invalid Num : 410410
+Invalid Num : 411411
+Invalid Num : 412412
+Invalid Num : 413413
+Invalid Num : 414414
+Invalid Num : 415415
+Invalid Num : 416416
+Invalid Num : 417417
+Invalid Num : 418418
+Invalid Num : 419419
+Invalid Num : 420420
+Invalid Num : 421421
+Invalid Num : 422422
+Invalid Num : 423423
+Invalid Num : 424424
+Invalid Num : 425425
+Invalid Num : 68486848
+Invalid Num : 68496849
+Invalid Num : 68506850
+Invalid Num : 1010
+Invalid Num : 33
+Invalid Num : 44
+Invalid Num : 909909
+Invalid Num : 910910
+Invalid Num : 911911
+Invalid Num : 912912
+Invalid Num : 913913
+Invalid Num : 914914
+Invalid Num : 915915
+Invalid Num : 916916
+Invalid Num : 917917
+Invalid Num : 918918
+Invalid Num : 919919
+Invalid Num : 920920
+Invalid Num : 921921
+Invalid Num : 922922
+Invalid Num : 923923
+Invalid Num : 924924
+Invalid Num : 925925
+Invalid Num : 926926
+Invalid Num : 927927
+Invalid Num : 928928
+Invalid Num : 929929
+Invalid Num : 930930
+Invalid Num : 931931
+Invalid Num : 932932
+Invalid Num : 933933
+Invalid Num : 934934
+Invalid Num : 935935
+Invalid Num : 936936
+Invalid Num : 937937
+Invalid Num : 938938
+Invalid Num : 939939
+Invalid Num : 940940
+Invalid Num : 941941
+Invalid Num : 942942
+Invalid Num : 943943
+Invalid Num : 944944
+Invalid Num : 945945
+Invalid Num : 946946
+Invalid Num : 947947
+Invalid Num : 948948
+Invalid Num : 949949
+Invalid Num : 950950
+Invalid Num : 951951
+Invalid Num : 952952
+Invalid Num : 953953
+Invalid Num : 954954
+Invalid Num : 955955
+Invalid Num : 956956
+Invalid Num : 957957
+Invalid Num : 958958
+Invalid Num : 959959
+Invalid Num : 960960
+Invalid Num : 961961
+Invalid Num : 962962
+Invalid Num : 963963
+Invalid Num : 964964
+Invalid Num : 965965
+Invalid Num : 966966
+Invalid Num : 967967
+Invalid Num : 968968
+Invalid Num : 969969
+Invalid Num : 970970
+Invalid Num : 971971
+Invalid Num : 972972
+Invalid Num : 973973
+Invalid Num : 974974
+Invalid Num : 975975
+Invalid Num : 647647
+Invalid Num : 648648
+Invalid Num : 649649
+Invalid Num : 650650
+Invalid Num : 651651
+Invalid Num : 652652
+Invalid Num : 653653
+Invalid Num : 654654
+Invalid Num : 655655
+Invalid Num : 656656
+Invalid Num : 657657
+Invalid Num : 658658
+Invalid Num : 659659
+Invalid Num : 660660
+Invalid Num : 661661
+Invalid Num : 662662
+Invalid Num : 663663
+Invalid Num : 664664
+Invalid Num : 665665
+Invalid Num : 666666
+Invalid Num : 667667
+Invalid Num : 668668
+Invalid Num : 669669
+Invalid Num : 670670
+Invalid Num : 671671
+Invalid Num : 672672
+Invalid Num : 673673
+Invalid Num : 674674
+Invalid Num : 675675
+Invalid Num : 676676
+Invalid Num : 677677
+Invalid Num : 678678
+Invalid Num : 679679
+Invalid Num : 680680
+Invalid Num : 681681
+Invalid Num : 682682
+Invalid Num : 683683
+Invalid Num : 684684
+Invalid Num : 685685
+Invalid Num : 686686
+Invalid Num : 687687
+Invalid Num : 688688
+Invalid Num : 689689
+Invalid Num : 690690
+Invalid Num : 691691
+Invalid Num : 692692
+Invalid Num : 693693
+Invalid Num : 694694
+Invalid Num : 695695
+Invalid Num : 696696
+Invalid Num : 697697
+Invalid Num : 698698
+Invalid Num : 699699
+Invalid Num : 700700
+Invalid Num : 701701
+Invalid Num : 702702
+Invalid Num : 703703
+Invalid Num : 704704
+Invalid Num : 705705
+Invalid Num : 706706
+Invalid Num : 707707
+Invalid Num : 708708
+Invalid Num : 709709
+Invalid Num : 710710
+Invalid Num : 711711
+Invalid Num : 712712
+Invalid Num : 713713
+Invalid Num : 714714
+Invalid Num : 715715
+Invalid Num : 716716
+Invalid Num : 717717
+Invalid Num : 718718
+Invalid Num : 719719
+Invalid Num : 720720
+Invalid Num : 721721
+Invalid Num : 722722
+Invalid Num : 723723
+Invalid Num : 724724
+Invalid Num : 725725
+Invalid Num : 726726
+Invalid Num : 727727
+Invalid Num : 728728
+Invalid Num : 729729
+Invalid Num : 730730
+Invalid Num : 731731
+Invalid Num : 732732
+Invalid Num : 733733
+Invalid Num : 734734
+Invalid Num : 735735
+Invalid Num : 736736
+Invalid Num : 737737
+Invalid Num : 738738
+Invalid Num : 739739
+Invalid Num : 740740
+Invalid Num : 741741
+Invalid Num : 742742
+Invalid Num : 743743
+Invalid Num : 744744
+Invalid Num : 745745
+Invalid Num : 9875198751
+Invalid Num : 11
+Invalid Num : 1919
+Invalid Num : 2020
+Invalid Num : 2121
+Invalid Num : 2222
+Invalid Num : 2323
+Invalid Num : 851851
+Invalid Num : 852852
+Invalid Num : 853853
+Invalid Num : 854854
+Invalid Num : 855855
+Invalid Num : 856856
+Invalid Num : 857857
+Invalid Num : 858858
+Invalid Num : 859859
+Invalid Num : 860860
+Invalid Num : 861861
+Invalid Num : 862862
+Invalid Num : 863863
+Invalid Num : 864864
+Invalid Num : 865865
+Invalid Num : 866866
+Invalid Num : 867867
+Invalid Num : 868868
+Invalid Num : 869869
+Invalid Num : 870870
+Invalid Num : 871871
+Invalid Num : 872872
+Invalid Num : 873873
+Invalid Num : 874874
+Invalid Num : 875875
+Invalid Num : 876876
+Invalid Num : 877877
+Invalid Num : 878878
+Invalid Num : 879879
+Invalid Num : 880880
+Invalid Num : 881881
+Invalid Num : 882882
+Invalid Num : 883883
+Invalid Num : 884884
+Invalid Num : 885885
+Invalid Num : 886886
+Invalid Num : 887887
+Invalid Num : 888888
+Invalid Num : 889889
+Invalid Num : 4949
+Invalid Num : 5050
+Invalid Num : 5151
+Invalid Num : 5252
+Invalid Num : 5353
+Invalid Num : 5454
+Invalid Num : 5555
+Invalid Num : 5656
+Invalid Num : 5757
+Invalid Num : 5858
+Invalid Num : 5959
+Invalid Num : 6060
+Invalid Num : 77
+Invalid Num : 88
+Invalid Num : 4141
+Invalid Num : 4242
+Invalid Num : 4343
+Invalid Num : 4444
+Invalid Num : 4545
+Invalid Num : 4646
+Invalid Num : 4747
+Invalid Num : 4848

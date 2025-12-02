@@ -1,64 +1,51 @@
-import java.io.BufferedReader;
-import java.io.FileReader;
 import java.io.PrintStream;
-import java.io.FileOutputStream;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 
-public class day_1
-{
-    public static String INPUT_FILENAME = "../input.txt";
-    public static String OUTPUT_FILENAME = "../output.txt";
+public class day_1 {
+    private static final String INPUT_FILENAME = "../input.txt";
+    private static final String OUTPUT_FILENAME = "../output.txt";
+    private static final int STARTING_POSITION = 50;
+
     public static void main(String[] args) {
-        int zeroesCount = 0;
-        int currentPos = 50;
-        int count = 0;
+        try (PrintStream out = new PrintStream(Files.newOutputStream(Paths.get(OUTPUT_FILENAME)))) {
+            int currentPosition = STARTING_POSITION;
+            int count = 0;
 
-        try(BufferedReader br = new BufferedReader(new FileReader(INPUT_FILENAME));
-            PrintStream out = new PrintStream(new FileOutputStream(OUTPUT_FILENAME)))
-        {
-            String line = br.readLine();
-            
-            while(line != null)
-            {
+            for (String line : Files.readAllLines(Paths.get(INPUT_FILENAME))) {
+
                 char direction = line.charAt(0);
-                int digits = Integer.parseInt(line.substring(1,line.length()));
-                
-                count += digits / 100;
-                out.printf("Digits : %d, Pos : %d\n", digits,  currentPos);
-                
-                digits %= 100;
-                int nextPos = -1;
+                int value = Integer.parseInt(line.substring(1));
 
-                if(direction == 'L')
-                    nextPos = currentPos - digits;
-                else
-                    nextPos = currentPos + digits;
+                count += value / 100;
+                // out.printf("Value: %d, Position: %d%n", value, currentPosition);
 
-                if(nextPos < 0) {
-                    nextPos = 100 + nextPos;
-                    if(currentPos != 0)
-                        count++;
-                } else if (nextPos > 99) {
-                    nextPos = nextPos - 100;
-                    if (nextPos != 0)
-                        count++;
+                int steps = value % 100;
+                int nextPosition = (direction == 'L') ? currentPosition - steps : currentPosition + steps;
+
+                if (nextPosition < 0) {
+                    nextPosition = 100 + nextPosition;
+                } else if (nextPosition >= 100) {
+                    nextPosition = nextPosition - 100;
                 }
 
-                if(nextPos == 0)
-                {
-                    zeroesCount++;
+                if (nextPosition != 0 && (nextPosition < currentPosition && direction == 'R' || 
+                    nextPosition > currentPosition && direction == 'L')) {
                     count++;
                 }
-                currentPos = nextPos;
-                line = br.readLine();
-                out.printf("Final Pos : %d, Count : %d\n", currentPos, count);
-            };
-            
-            out.printf("Answer : %d\n", count);
 
-        }
-        catch(Exception e)
-        {
-            System.out.printf("Exception :!! %s", e );
+                if (nextPosition == 0) {
+                    count++;
+                }
+
+                currentPosition = nextPosition;
+                out.printf("Final Position: %d, Count: %d%n", currentPosition, count);
+            }
+
+            out.printf("Answer: %d%n", count);
+
+        } catch (Exception e) {
+            System.err.printf("Error: %s%n", e.getMessage());
         }
     }
 }
