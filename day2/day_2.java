@@ -1,56 +1,15 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
-import java.io.PrintStream;
-import java.nio.file.Files;
-import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.concurrent.atomic.AtomicLong;
 
-
-///
-/// 
-/// This code is owned and composed by Anjuman Hasan (TM)
-/// All rights reserved. Trespassers will be exucuted
-/// 
-// Java streams have a :
-// 1. SOURCE - (e.g., Collection, Array, I/O channel, generator function) 
-//
-// 2. INTERMEDIATE OPERATIONS (Lazy - return new stream)
-//    - filter(Predicate)        : select elements matching condition
-//    - map(Function)            : transform elements 1:1
-//    - flatMap(Function)        : transform elements 1:many, flatten
-//    - distinct()               : remove duplicates
-//    - sorted()                 : order elements (natural order)
-//    - sorted(Comparator)       : order with custom comparator
-//    - limit(n)                 : take first n elements
-//    - skip(n)                  : skip first n elements
-//    - peek(Consumer)           : inspect elements (for debugging)
-//
-// 3. TERMINAL OPERATIONS (Eager - trigger execution)
-//    - forEach(Consumer)        : perform action on each element
-//    - collect(Collector)       : gather into List/Set/Map
-//    - reduce(BinaryOperator)   : combine into single result
-//    - count()                  : count elements
-//    - anyMatch(Predicate)      : test if any match
-//    - allMatch(Predicate)      : test if all match
-//    - noneMatch(Predicate)     : test if none match
-//    - findFirst()              : get first element as Optional
-//    - findAny()                : get any element as Optional
-//    - min/max(Comparator)      : find min/max element
-//    - toArray()                : convert to array
-// 1212121212
-// 12121212
-
 public class day_2
 {
-     public static String INPUT_FILENAME = "input.txt";
-    public static String OUTPUT_FILENAME = "output.txt";
-    
     public static void main(String[] args)
     {
-        try(BufferedReader br = new BufferedReader(new FileReader(INPUT_FILENAME))){
-            PrintStream out = new PrintStream(Files.newOutputStream(Paths.get(OUTPUT_FILENAME)));
+        try(BufferedReader br = new BufferedReader(new FileReader(utils.INPUT_FILENAME))){
+            utils.initializeOutputStream();
             ArrayList<ArrayList<Long>> list = new ArrayList<>(); 
             String input = br.readLine();
             
@@ -63,26 +22,25 @@ public class day_2
                     list.add(temp);
                 });
 
-            long sum = sumOfInvalidIDs(list, out);
-            System.out.printf("Answer : %d\n", sum);
+            long sum = sumOfInvalidIDs(list);
+            System.out.printf("\nAnswer : %d\n", sum);
             
         } catch(Exception e) {
-            System.out.printf("Exception occured : %s", e);
+            System.out.printf("\nException occured : %s\n", e.getMessage());
         }
        
     }
 
-    private static long sumOfInvalidIDs(ArrayList<ArrayList<Long>> list, PrintStream out)
-    {
+    private static long sumOfInvalidIDs(ArrayList<ArrayList<Long>> list) {
         AtomicLong sum = new AtomicLong(0);
         list.forEach(range -> {
             long start = range.get(0);
             long end = range.get(1);
             for(long i = start;i<=end;i++)
             {
-                if(isInvalid(i, out))
+                if(isInvalid(i))
                 {
-                    out.printf("Invalid Num : %d\n", i);
+                    utils.out.printf("Invalid Num : %d\n", i);
                     sum.addAndGet(i);
                 }
             }
@@ -90,14 +48,27 @@ public class day_2
         return sum.get();
     }
 
-   private static boolean isInvalid(long num, PrintStream out)
-    {
+    private static boolean isInvalid(long num) {
         String s = Long.toString(num);
-        if(s.length()%2==1)
-            return false;
+        
+        // for each possible prefix, check if the string is a repetition of this prefix ;)
+        for(int i = 1; i < s.length(); i++) {
+            String cur = s.substring(0, i);
+            // Old Code (boring, not smarty enough ;)
+            // repeat this cur substring to make original
+            // if(s.length() % cur.length() == 0) {
+            //     int k = s.length() / cur.length();
 
-        long first = Long.parseLong(s.substring(0,s.length()/2));
-        long second =  Long.parseLong(s.substring(s.length()/2, s.length()));
-        return first==second;
+            //     String new_S = cur.repeat(k); 
+            //     if(s == new_S) 
+            //         return true;
+            // }
+
+            // thoda zyada hero ban leta hu
+            if (s.length() % cur.length() == 0 && s.replace(cur, "").isEmpty()) {
+                return true;
+            }
+        }
+        return false;
     }
 }

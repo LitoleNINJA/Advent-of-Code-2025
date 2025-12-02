@@ -1,3 +1,4 @@
+Invalid Num : 989898
 Invalid Num : 989989
 Invalid Num : 990990
 Invalid Num : 991991
@@ -64,6 +65,7 @@ Invalid Num : 229229
 Invalid Num : 230230
 Invalid Num : 231231
 Invalid Num : 232232
+Invalid Num : 232323
 Invalid Num : 233233
 Invalid Num : 234234
 Invalid Num : 235235
@@ -74,6 +76,7 @@ Invalid Num : 239239
 Invalid Num : 240240
 Invalid Num : 241241
 Invalid Num : 242242
+Invalid Num : 242424
 Invalid Num : 243243
 Invalid Num : 244244
 Invalid Num : 245245
@@ -84,6 +87,7 @@ Invalid Num : 249249
 Invalid Num : 250250
 Invalid Num : 251251
 Invalid Num : 252252
+Invalid Num : 252525
 Invalid Num : 253253
 Invalid Num : 254254
 Invalid Num : 255255
@@ -94,6 +98,7 @@ Invalid Num : 259259
 Invalid Num : 260260
 Invalid Num : 261261
 Invalid Num : 262262
+Invalid Num : 262626
 Invalid Num : 263263
 Invalid Num : 264264
 Invalid Num : 265265
@@ -104,6 +109,7 @@ Invalid Num : 269269
 Invalid Num : 270270
 Invalid Num : 271271
 Invalid Num : 272272
+Invalid Num : 272727
 Invalid Num : 273273
 Invalid Num : 274274
 Invalid Num : 275275
@@ -114,6 +120,7 @@ Invalid Num : 279279
 Invalid Num : 280280
 Invalid Num : 281281
 Invalid Num : 282282
+Invalid Num : 282828
 Invalid Num : 283283
 Invalid Num : 284284
 Invalid Num : 285285
@@ -123,7 +130,10 @@ Invalid Num : 3030
 Invalid Num : 3131
 Invalid Num : 3232
 Invalid Num : 3333
+Invalid Num : 88888
+Invalid Num : 99999
 Invalid Num : 100100
+Invalid Num : 101010
 Invalid Num : 101101
 Invalid Num : 102102
 Invalid Num : 103103
@@ -156,6 +166,7 @@ Invalid Num : 67716771
 Invalid Num : 67726772
 Invalid Num : 2481124811
 Invalid Num : 615615
+Invalid Num : 616161
 Invalid Num : 616616
 Invalid Num : 617617
 Invalid Num : 618618
@@ -166,6 +177,7 @@ Invalid Num : 622622
 Invalid Num : 623623
 Invalid Num : 624624
 Invalid Num : 625625
+Invalid Num : 626262
 Invalid Num : 626626
 Invalid Num : 627627
 Invalid Num : 628628
@@ -176,19 +188,25 @@ Invalid Num : 632632
 Invalid Num : 633633
 Invalid Num : 634634
 Invalid Num : 635635
+Invalid Num : 636363
 Invalid Num : 636636
 Invalid Num : 637637
 Invalid Num : 638638
+Invalid Num : 44444
 Invalid Num : 9494
 Invalid Num : 9595
 Invalid Num : 9696
 Invalid Num : 9797
 Invalid Num : 9898
 Invalid Num : 9999
+Invalid Num : 11111
 Invalid Num : 99
+Invalid Num : 929929929
+Invalid Num : 333
 Invalid Num : 452452
 Invalid Num : 453453
 Invalid Num : 454454
+Invalid Num : 454545
 Invalid Num : 455455
 Invalid Num : 456456
 Invalid Num : 457457
@@ -199,6 +217,7 @@ Invalid Num : 461461
 Invalid Num : 462462
 Invalid Num : 463463
 Invalid Num : 464464
+Invalid Num : 464646
 Invalid Num : 465465
 Invalid Num : 466466
 Invalid Num : 467467
@@ -209,6 +228,7 @@ Invalid Num : 471471
 Invalid Num : 472472
 Invalid Num : 473473
 Invalid Num : 474474
+Invalid Num : 474747
 Invalid Num : 475475
 Invalid Num : 476476
 Invalid Num : 477477
@@ -219,12 +239,14 @@ Invalid Num : 481481
 Invalid Num : 482482
 Invalid Num : 483483
 Invalid Num : 484484
+Invalid Num : 484848
 Invalid Num : 485485
 Invalid Num : 486486
 Invalid Num : 487487
 Invalid Num : 351351
 Invalid Num : 352352
 Invalid Num : 353353
+Invalid Num : 353535
 Invalid Num : 354354
 Invalid Num : 355355
 Invalid Num : 356356
@@ -235,6 +257,7 @@ Invalid Num : 360360
 Invalid Num : 361361
 Invalid Num : 362362
 Invalid Num : 363363
+Invalid Num : 363636
 Invalid Num : 364364
 Invalid Num : 365365
 Invalid Num : 366366
@@ -245,6 +268,7 @@ Invalid Num : 370370
 Invalid Num : 371371
 Invalid Num : 372372
 Invalid Num : 373373
+Invalid Num : 373737
 Invalid Num : 374374
 Invalid Num : 375375
 Invalid Num : 376376
@@ -255,6 +279,7 @@ Invalid Num : 380380
 Invalid Num : 381381
 Invalid Num : 382382
 Invalid Num : 383383
+Invalid Num : 383838
 Invalid Num : 384384
 Invalid Num : 385385
 Invalid Num : 386386
@@ -265,6 +290,7 @@ Invalid Num : 390390
 Invalid Num : 391391
 Invalid Num : 392392
 Invalid Num : 393393
+Invalid Num : 393939
 Invalid Num : 394394
 Invalid Num : 395395
 Invalid Num : 396396
@@ -275,6 +301,7 @@ Invalid Num : 400400
 Invalid Num : 401401
 Invalid Num : 402402
 Invalid Num : 403403
+Invalid Num : 404040
 Invalid Num : 404404
 Invalid Num : 405405
 Invalid Num : 406406
@@ -285,6 +312,7 @@ Invalid Num : 410410
 Invalid Num : 411411
 Invalid Num : 412412
 Invalid Num : 413413
+Invalid Num : 414141
 Invalid Num : 414414
 Invalid Num : 415415
 Invalid Num : 416416
@@ -295,14 +323,22 @@ Invalid Num : 420420
 Invalid Num : 421421
 Invalid Num : 422422
 Invalid Num : 423423
+Invalid Num : 424242
 Invalid Num : 424424
 Invalid Num : 425425
+Invalid Num : 555
+Invalid Num : 666
 Invalid Num : 68486848
 Invalid Num : 68496849
 Invalid Num : 68506850
+Invalid Num : 419419419
+Invalid Num : 888
+Invalid Num : 999
 Invalid Num : 1010
+Invalid Num : 33333
 Invalid Num : 33
 Invalid Num : 44
+Invalid Num : 909090
 Invalid Num : 909909
 Invalid Num : 910910
 Invalid Num : 911911
@@ -313,6 +349,7 @@ Invalid Num : 915915
 Invalid Num : 916916
 Invalid Num : 917917
 Invalid Num : 918918
+Invalid Num : 919191
 Invalid Num : 919919
 Invalid Num : 920920
 Invalid Num : 921921
@@ -323,6 +360,7 @@ Invalid Num : 925925
 Invalid Num : 926926
 Invalid Num : 927927
 Invalid Num : 928928
+Invalid Num : 929292
 Invalid Num : 929929
 Invalid Num : 930930
 Invalid Num : 931931
@@ -333,6 +371,7 @@ Invalid Num : 935935
 Invalid Num : 936936
 Invalid Num : 937937
 Invalid Num : 938938
+Invalid Num : 939393
 Invalid Num : 939939
 Invalid Num : 940940
 Invalid Num : 941941
@@ -343,6 +382,7 @@ Invalid Num : 945945
 Invalid Num : 946946
 Invalid Num : 947947
 Invalid Num : 948948
+Invalid Num : 949494
 Invalid Num : 949949
 Invalid Num : 950950
 Invalid Num : 951951
@@ -353,6 +393,7 @@ Invalid Num : 955955
 Invalid Num : 956956
 Invalid Num : 957957
 Invalid Num : 958958
+Invalid Num : 959595
 Invalid Num : 959959
 Invalid Num : 960960
 Invalid Num : 961961
@@ -363,6 +404,7 @@ Invalid Num : 965965
 Invalid Num : 966966
 Invalid Num : 967967
 Invalid Num : 968968
+Invalid Num : 969696
 Invalid Num : 969969
 Invalid Num : 970970
 Invalid Num : 971971
@@ -379,6 +421,7 @@ Invalid Num : 652652
 Invalid Num : 653653
 Invalid Num : 654654
 Invalid Num : 655655
+Invalid Num : 656565
 Invalid Num : 656656
 Invalid Num : 657657
 Invalid Num : 658658
@@ -400,6 +443,7 @@ Invalid Num : 673673
 Invalid Num : 674674
 Invalid Num : 675675
 Invalid Num : 676676
+Invalid Num : 676767
 Invalid Num : 677677
 Invalid Num : 678678
 Invalid Num : 679679
@@ -410,6 +454,7 @@ Invalid Num : 683683
 Invalid Num : 684684
 Invalid Num : 685685
 Invalid Num : 686686
+Invalid Num : 686868
 Invalid Num : 687687
 Invalid Num : 688688
 Invalid Num : 689689
@@ -420,6 +465,7 @@ Invalid Num : 693693
 Invalid Num : 694694
 Invalid Num : 695695
 Invalid Num : 696696
+Invalid Num : 696969
 Invalid Num : 697697
 Invalid Num : 698698
 Invalid Num : 699699
@@ -430,6 +476,7 @@ Invalid Num : 703703
 Invalid Num : 704704
 Invalid Num : 705705
 Invalid Num : 706706
+Invalid Num : 707070
 Invalid Num : 707707
 Invalid Num : 708708
 Invalid Num : 709709
@@ -440,6 +487,7 @@ Invalid Num : 713713
 Invalid Num : 714714
 Invalid Num : 715715
 Invalid Num : 716716
+Invalid Num : 717171
 Invalid Num : 717717
 Invalid Num : 718718
 Invalid Num : 719719
@@ -450,6 +498,7 @@ Invalid Num : 723723
 Invalid Num : 724724
 Invalid Num : 725725
 Invalid Num : 726726
+Invalid Num : 727272
 Invalid Num : 727727
 Invalid Num : 728728
 Invalid Num : 729729
@@ -460,6 +509,7 @@ Invalid Num : 733733
 Invalid Num : 734734
 Invalid Num : 735735
 Invalid Num : 736736
+Invalid Num : 737373
 Invalid Num : 737737
 Invalid Num : 738738
 Invalid Num : 739739
@@ -470,7 +520,9 @@ Invalid Num : 743743
 Invalid Num : 744744
 Invalid Num : 745745
 Invalid Num : 9875198751
+Invalid Num : 3333333
 Invalid Num : 11
+Invalid Num : 444
 Invalid Num : 1919
 Invalid Num : 2020
 Invalid Num : 2121
@@ -483,6 +535,7 @@ Invalid Num : 854854
 Invalid Num : 855855
 Invalid Num : 856856
 Invalid Num : 857857
+Invalid Num : 858585
 Invalid Num : 858858
 Invalid Num : 859859
 Invalid Num : 860860
@@ -493,6 +546,7 @@ Invalid Num : 864864
 Invalid Num : 865865
 Invalid Num : 866866
 Invalid Num : 867867
+Invalid Num : 868686
 Invalid Num : 868868
 Invalid Num : 869869
 Invalid Num : 870870
@@ -503,6 +557,7 @@ Invalid Num : 874874
 Invalid Num : 875875
 Invalid Num : 876876
 Invalid Num : 877877
+Invalid Num : 878787
 Invalid Num : 878878
 Invalid Num : 879879
 Invalid Num : 880880

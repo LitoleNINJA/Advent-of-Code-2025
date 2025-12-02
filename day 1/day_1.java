@@ -3,8 +3,8 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 
 public class day_1 {
-    private static final String INPUT_FILENAME = "../input.txt";
-    private static final String OUTPUT_FILENAME = "../output.txt";
+    private static final String INPUT_FILENAME = "../" + utils.INPUT_FILENAME;
+    private static final String OUTPUT_FILENAME = "../" + utils.OUTPUT_FILENAME;
     private static final int STARTING_POSITION = 50;
 
     public static void main(String[] args) {
