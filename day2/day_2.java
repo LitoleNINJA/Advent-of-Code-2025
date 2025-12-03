@@ -1,15 +1,19 @@
+package day2;
+
+import common.utils;
 import java.io.BufferedReader;
 import java.io.FileReader;
+import java.io.PrintStream;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.concurrent.atomic.AtomicLong;
 
 public class day_2
 {
+    public static PrintStream out = utils.initializeOutputStream();
     public static void main(String[] args)
     {
         try(BufferedReader br = new BufferedReader(new FileReader(utils.INPUT_FILENAME))){
-            utils.initializeOutputStream();
             ArrayList<ArrayList<Long>> list = new ArrayList<>(); 
             String input = br.readLine();
             
@@ -40,7 +44,7 @@ public class day_2
             {
                 if(isInvalid(i))
                 {
-                    utils.out.printf("Invalid Num : %d\n", i);
+                    out.printf("Invalid Num : %d\n", i);
                     sum.addAndGet(i);
                 }
             }
