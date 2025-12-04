@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.concurrent.atomic.AtomicLong;
 
-public class day_2
+public class GiftShop
 {
     public static PrintStream out = utils.initializeOutputStream();
     public static void main(String[] args)

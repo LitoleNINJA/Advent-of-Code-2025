@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.io.PrintStream;
 import java.io.FileOutputStream;
 
-public class day_1
+public class SecretEntrance
 {
     public static String INPUT_FILENAME = "input.txt";
     public static String OUTPUT_FILENAME = "output.txt";
