@@ -13,9 +13,10 @@ public class Lobby {
 
             long startTime = utils.getCurrentTime();
             String line = reader.readLine();
-            int ans = 0;
+            long ans = 0;
             while(line != null) {
-                ans += findMaxJoltage(line);
+                // ans += findMaxJoltage_2digits(line);
+                ans += findMaxJoltage_12digits(line);
 
                 line = reader.readLine();
             }
@@ -29,7 +30,7 @@ public class Lobby {
         }
     }
 
-    private static int findMaxJoltage(String line) {
+    private static int findMaxJoltage_2digits(String line) {
         int length = line.length();
 
         int max_so_far = -1;
@@ -49,5 +50,33 @@ public class Lobby {
         }
 
         return ans;
+    }
+
+    private static long findMaxJoltage_12digits(String line) {
+        // pick the best digit for each position starting from left, 
+        // while keeping enough remaining digits on the right to still make a 12 digit number
+        long ans = 0;
+        int lastDigitPos = -1;
+        for(int i=0; i<12; i++) {
+            int bestDigitPos = findBestDigitPos(line, lastDigitPos+1, line.length() - 12 + i);
+            int bestDigit = line.charAt(bestDigitPos) - '0';
+            ans = ans * 10 + bestDigit;
+            lastDigitPos = bestDigitPos;
+        }
+
+        return ans;
+    }
+
+    private static int findBestDigitPos(String line, int start, int end) {
+        int pos = -1, best = 0;
+        for(int i=start; i<=end; i++) {
+            int cur = line.charAt(i) - '0';
+            if(cur > best) {
+                best = cur;
+                pos = i;
+            }
+        }
+
+        return pos;
     }
 }
