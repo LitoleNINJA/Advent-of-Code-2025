@@ -42,6 +42,11 @@ public class utils {
         out.printf("%-20s : %6d ms%n", "Total time", endTime - startTime);
         out.println("---------------------------------");
     }
+    public static void printTimeStats(PrintStream out, long startTime, long endTime) {
+        out.println("\n---------------------------------");
+        out.printf("%-20s : %6d ms%n", "Total time", endTime - startTime);
+        out.println("---------------------------------");
+    }
 
     public static ArrayList<String> getInputLines() throws IOException {
         BufferedReader reader = initilaizeReader();
@@ -60,4 +65,5 @@ public class utils {
     public static boolean isInGrid(int i, int j, int rows, int cols) {
         return i >= 0 && i < rows && j >= 0 && j < cols;
     }
+
 }
