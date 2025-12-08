@@ -1,6 +1,5 @@
 package day6;
 
-import java.io.BufferedReader;
 import java.io.PrintStream;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -27,19 +26,21 @@ public class TrashCompactor {
             String[] operators = lines.getLast().trim().split("\\s+");
             int n = grid.size(), m = grid.getFirst().length;
             for(int i=0; i<m; i++) {
-                long columnValue = (operators[i].equals("*")) ? 1 : 0; 
-                for(int j=0; j<n; j++) {
-                    int currentNumber = grid.get(j)[i];
+                // part 1
+                // long columnValue = (operators[i].equals("*")) ? 1 : 0; 
+                // for(int j=0; j<n; j++) {
+                //     int currentNumber = grid.get(j)[i];
 
-                    // out.printf("Column : %d, Cur : %d, Value : %d\n", i, currentNumber, columnValue);
-                    if(operators[i].equals("*"))
-                        columnValue *= currentNumber;
-                    else
-                        columnValue += currentNumber;
-                }
+                //     if(operators[i].equals("*"))
+                //         columnValue *= currentNumber;
+                //     else
+                //         columnValue += currentNumber;
+                // }
 
-                // out.printf("Column : %d, Value : %d\n", i, columnValue);
-                ans += columnValue;
+                // ans += columnValue;
+
+                // part 2
+                ans += doSomeStupidShit(grid, i, operators[i]);
             }
             
             long endTime = utils.getCurrentTime();
@@ -51,5 +52,12 @@ public class TrashCompactor {
             System.out.println("Exception : " + e.getMessage());
             e.printStackTrace(out);
         }
+    }
+
+    private static long doSomeStupidShit(ArrayList<int[]> grid, int col, String op) {
+        long cur = 0;
+
+
+        return cur;
     }
 }
