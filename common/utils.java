@@ -7,6 +7,7 @@ import java.io.PrintStream;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.function.Function;
 
 public class utils {
     public static final String INPUT_FILENAME = "input.txt";
@@ -66,4 +67,9 @@ public class utils {
         return i >= 0 && i < rows && j >= 0 && j < cols;
     }
 
+
+    public static <T> T readInputAndSolve(Function<ArrayList<String>, T> processor) throws IOException {
+        ArrayList<String> lines = getInputLines();
+        return processor.apply(lines);
+    }
 }

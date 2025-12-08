@@ -13,6 +13,7 @@ public class PrintingDepartment {
             long startTime = utils.getCurrentTime();
             
             ArrayList<String> lines = utils.getInputLines();
+            
             int n = lines.size(), m = lines.getFirst().length();
             
             int ans = 0;

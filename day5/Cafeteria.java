@@ -26,7 +26,7 @@ public class Cafeteria {
             boolean isRange = true;
             long ans = 0;
             while (line != null) {
-                if (line.length() == 0) {
+                if (line.isEmpty()) {
                     isRange = false;
                     mergeRanges();
                     // printTree();
