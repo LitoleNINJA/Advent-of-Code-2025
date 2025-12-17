@@ -7,6 +7,9 @@ import java.io.PrintStream;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collection;
+import java.util.Map;
 import java.util.function.Function;
 
 public class utils {
@@ -19,6 +22,8 @@ public class utils {
         {0, -1},           {0, 1},
         {1, -1},  {1, 0},  {1, 1}
     };
+
+    private static PrintStream debugStream = null;
 
     public static PrintStream initializeOutputStream() {
         try {
@@ -36,6 +41,7 @@ public class utils {
     public static long getCurrentTime() {
         return System.currentTimeMillis();
     }
+
     public static void printTimeStats(PrintStream out, long processStartTime, long startTime, long endTime) {
         out.println("\n---------------------------------");
         out.printf("%-20s : %6d ms%n", "Input read time", processStartTime - startTime);
@@ -43,6 +49,7 @@ public class utils {
         out.printf("%-20s : %6d ms%n", "Total time", endTime - startTime);
         out.println("---------------------------------");
     }
+
     public static void printTimeStats(PrintStream out, long startTime, long endTime) {
         out.println("\n---------------------------------");
         out.printf("%-20s : %6d ms%n", "Total time", endTime - startTime);
@@ -67,7 +74,10 @@ public class utils {
         return i >= 0 && i < rows && j >= 0 && j < cols;
     }
 
-
+    public static boolean isBitSet(int n, int i) {
+        return (n & (1<<i)) != 0;
+    }
+    
     public static <T> T readInputAndSolve(Function<ArrayList<String>, T> processor) throws IOException {
         ArrayList<String> lines = getInputLines();
         return processor.apply(lines);
